@@ -35,7 +35,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 14.12. | ["Sound Based Music" und "Organized Sound" (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-based-music-und-organized-sound)                                    |       |
 | 21.12. | [Sonic Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sonic-art)                                                                    |       |
 | 11.1.  | [DIY-Kultur: Handmade Electronic Music (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#diy-kultur-handmade-electronic-music)                                        |       |
-| 18.1.  | Selbstbau elektronischer Instrumente (Praxis)                                          |       |
+| 18.1.  | [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          |       |
 | 25.1.  | Hardware Hacking und Circuit Bending (Praxis)                                          |       |
 | 1.2.   | Sounddesign und akustische Klanggestaltung (Theorie)                                   |       |
 | 8.2.   | Foley und Audio Postproduktion (Praxis)                                                |       |
