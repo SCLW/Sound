@@ -32,7 +32,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 23.11. | [Sound Partikel und Microsounds (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-partikel-und-microsounds)                                               |       |
 | 30.11. | [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  |       |
 | 7.12.  | [Spektralmusik (Listening)](https://github.com/SCLW/Sound/blob/main/README.md#spektralmusik)                                                              |       |
-| 14.12. | "Sound Based Music" und "Organized Sound" (Theorie)                                    |       |
+| 14.12. | ["Sound Based Music" und "Organized Sound" (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-based-music-und-organized-sound)                                    |       |
 | 21.12. | Sonic Art (Theorie)                                                                    |       |
 | 11.1.  | DIY-Kultur: Handmade Electronic Music (Theorie)                                        |       |
 | 18.1.  | Selbstbau elektronischer Instrumente (Praxis)                                          |       |
