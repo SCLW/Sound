@@ -18,34 +18,6 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 
-### Basisliteratur zu "Sound" und Texte zur Klangästhetik
-  - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
-  - Barlow, Klarenz. On Musiquantics. Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
-  - Cascone, Kim. The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music. Computer Music Journal, 2000.
-  - Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
-  - Cox, Christoph, and Daniel Warner. Audio Culture.: Readings in Modern Music. Continuum, 2005. 
-  - Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
-  - Emmerson, Simon. Music, Electronic Media and Culture. Ashgate, 2012. 
-  - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
-  - Ghazala, Reed. Circuit-Bending: Build Your Own Alien Instruments. Wiley Pub., 2005.
-  - Ghazala, Qubais Reed. “The Folk Music of Chance Electronics: Circuit-bending the modern coconut.” Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
-  - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
-  - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
-  - Kahn, Douglas. Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts. University of California Press, 2013. 
-  - Luigi Russolo. Die Geräuschkunst (1916)
-  - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
-  - Popper, Arthur N., and Richard R. Fay. Soundscapes: Humans and Their Acoustic Environment. Springer International Publishing, 2023. 
-  - Roads, Curtis. Composing Electronic Music a New Aesthetic. Oxford University Press, 2015.
-  - Roads, Curtis. Microsound. MIT, 2004.
-  - Ross, Alex. The Rest Is Noise: Listening to the Twentieth Century. Farrar, Straus and Giroux, 2007.
-  - Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze Zu Einem Themenschwerpunkt Im Rahmen Des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
-  - Schafer, R. Murray. The Tuning of the World. Knopf, 1977.
-  - Siedenburg, Kai, et al. Timbre: Acoustics, Perception, and Cognition. Springer International Publishing, 2019. 
-  - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
-  - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
-  - Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
-  - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
-  - Weinzierl, Stefan. Handbuch Der Audiotechnik. Springer, 2008. 
 
  
 
@@ -183,3 +155,34 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 [Foley Stage]
 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+
+
+### Basisliteratur zu "Sound" und Texte zur Klangästhetik
+
+  - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
+  - Barlow, Klarenz. On Musiquantics. Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
+  - Cascone, Kim. The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music. Computer Music Journal, 2000.
+  - Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
+  - Cox, Christoph, and Daniel Warner. Audio Culture.: Readings in Modern Music. Continuum, 2005. 
+  - Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
+  - Emmerson, Simon. Music, Electronic Media and Culture. Ashgate, 2012. 
+  - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
+  - Ghazala, Reed. Circuit-Bending: Build Your Own Alien Instruments. Wiley Pub., 2005.
+  - Ghazala, Qubais Reed. “The Folk Music of Chance Electronics: Circuit-bending the modern coconut.” Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
+  - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
+  - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
+  - Kahn, Douglas. Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts. University of California Press, 2013. 
+  - Luigi Russolo. Die Geräuschkunst (1916)
+  - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
+  - Popper, Arthur N., and Richard R. Fay. Soundscapes: Humans and Their Acoustic Environment. Springer International Publishing, 2023. 
+  - Roads, Curtis. Composing Electronic Music a New Aesthetic. Oxford University Press, 2015.
+  - Roads, Curtis. Microsound. MIT, 2004.
+  - Ross, Alex. The Rest Is Noise: Listening to the Twentieth Century. Farrar, Straus and Giroux, 2007.
+  - Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze Zu Einem Themenschwerpunkt Im Rahmen Des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+  - Schafer, R. Murray. The Tuning of the World. Knopf, 1977.
+  - Siedenburg, Kai, et al. Timbre: Acoustics, Perception, and Cognition. Springer International Publishing, 2019. 
+  - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
+  - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
+  - Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
+  - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
+  - Weinzierl, Stefan. Handbuch Der Audiotechnik. Springer, 2008. 
