@@ -139,7 +139,7 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 - [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
 - [Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
 - Lunetta
-
+- CD4049 Touch
   
 #### Hardware Hacking und Circuit Bending
 
