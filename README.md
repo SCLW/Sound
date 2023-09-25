@@ -37,7 +37,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 11.1.  | [DIY-Kultur: Handmade Electronic Music (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#diy-kultur-handmade-electronic-music)                                        |       |
 | 18.1.  | [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          |       |
 | 25.1.  | [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          |       |
-| 1.2.   | Sounddesign und akustische Klanggestaltung (Theorie)                                   |       |
+| 1.2.   | [Sounddesign und akustische Klanggestaltung (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sounddesign-und-akustische-klanggestaltung)                                   |       |
 | 8.2.   | [Foley und Audio Postproduktion (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#foley-und-audio-postproduktion)                                                |       |
 | 15.2.  | Referate                                                                               |       |
 
