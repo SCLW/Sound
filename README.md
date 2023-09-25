@@ -29,7 +29,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 2.11.  | [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               |       |
 | 9.11.  | [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            |       |
 | 16.11. | [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#filedrecordings)                                                               |       |
-| 23.11. | Sound Partikel und Microsounds (Theorie)                                               |       |
+| 23.11. | [Sound Partikel und Microsounds (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-partikel-und-microsounds)                                               |       |
 | 30.11. | Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)  |       |
 | 7.12.  | Spektralmusik (Listening)                                                              |       |
 | 14.12. | "Sound Based Music" und "Organized Sound" (Theorie)                                    |       |
