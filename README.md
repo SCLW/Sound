@@ -130,14 +130,6 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
-#### Hardware Hacking und Circuit Bending
-
-[Speak and Spell]
-
-- [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
-
-
-
 #### Selbstbau elektronischer Instrumente
 
 [Schaltung]
@@ -148,6 +140,19 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 - [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
 - [Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
 - Lunetta
+
+  
+#### Hardware Hacking und Circuit Bending
+
+[Speak and Spell]
+
+- [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+
+
+
+
+
+#### Sounddesign und akustische Klanggestaltung
 
 
 #### Foley und Audio Postproduktion
