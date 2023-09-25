@@ -190,3 +190,16 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
   - Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
   - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
   - Weinzierl, Stefan. Handbuch Der Audiotechnik. Springer, 2008. 
+
+# Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
+
+
+|          | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Oktober  | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di |
+| November | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` |    |
+| Dezember | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So |
+| Januar   | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi |
+| Februar  | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do |    |    |
+
