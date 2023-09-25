@@ -76,11 +76,11 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet   
 
 #### Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
-
+[???]
   
 #### Die Beziehung zwischen Klang, Ton und Geräusch
 
-[Foto]
+[Graph? Formel]
 
 PDF
 
@@ -98,10 +98,16 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 
 
 #### Soundscape nach R. Murray Schafer
+
+[Bild aus dem Buch]
+
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
 
 #### Filedrecordings
+
+[Kontakmikrofon]
+
 - [Experimental recordings: Pickups for electromagnetic fields](https://beepblip.org/in-the-field-with-emf-detector/)  
 - [DIY EMF Microphone](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
 - [EMF Microphone Circuit Example](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
@@ -109,14 +115,24 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 - [About DIY contact microphones](https://knowledge.lom.audio/research/contact_mics)
 
 #### Sound Partikel und Microsounds
+
+
+
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
 
 
 #### Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
+
+[Spektrogramm ????]
+
+
 - [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
 
 
 #### Spektralmusik
+
+[Spektrogramm]
+
 - [Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
 - [Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
@@ -125,6 +141,9 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 #### "Sound Based Music" und "Organized Sound"
 
 #### Sonic Art
+
+[???]
+
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
 - [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
 - [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
@@ -133,15 +152,25 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 - Video Zimoun
 
 #### DIY-Kultur: Handmade Electronic Music
+
+[crackle Box]
+
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
 #### Hardware Hacking und Circuit Bending
+
+[Speak and Spell]
+
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
 
 #### Selbstbau elektronischer Instrumente
+
+[Schaltung]
+
+
 - [Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
 - [John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
@@ -150,5 +179,7 @@ Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet:
 
 
 #### Foley und Audio Postproduktion
+
+[Foley Stage]
 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
