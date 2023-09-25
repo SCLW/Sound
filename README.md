@@ -45,7 +45,6 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet   
 
 #### Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 [???]
