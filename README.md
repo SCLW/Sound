@@ -16,7 +16,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 26.10. | [Einführung: "Sound" zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 |  x     |
 | 2.11.  | [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               | !      |
 | 9.11.  | [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            |  x     |
-| 16.11. | [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#filedrecordings)                                                               |  x     |
+| 16.11. | [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#fieldrecordings)                                                               |  x     |
 | 23.11. | [Sound Partikel und Microsounds (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-partikel-und-microsounds)                                               |  !     |
 | 30.11. | [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  | !      |
 | 7.12.  | [Spektralmusik (Hören)](https://github.com/SCLW/Sound/blob/main/README.md#spektralmusik)                                                              |  x!    |
@@ -48,8 +48,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
-- [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
-- [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
+
 ---
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
@@ -74,7 +73,8 @@ PDF
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
  [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 - 4:33
-
+- [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
+- [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 
 
 ---
@@ -99,7 +99,7 @@ PDF
 
 ---
 
-## Filedrecordings
+## Fieldrecordings
 
 [Image: Kontakmikrofon]
 
