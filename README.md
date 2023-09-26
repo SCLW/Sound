@@ -47,19 +47,20 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
-[???]
+[Image: ???]
 
 ### Literatur
 - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
 
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
 ---
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
 
-[Graph? Formel]
+[Image: Graph? Formel]
 
 PDF
 
@@ -88,7 +89,7 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
-[Bild aus dem Buch]
+[Image: Bild aus dem Buch]
 
 
 
@@ -100,7 +101,7 @@ PDF
 
 
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
 
@@ -109,8 +110,13 @@ PDF
 
 ## Filedrecordings
 
-[Kontakmikrofon]
+[Image: Kontakmikrofon]
 
+### Literatur
+- Kahn, Douglas. Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts. University of California Press, 2013. 
+
+
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Experimental recordings: Pickups for electromagnetic fields](https://beepblip.org/in-the-field-with-emf-detector/)  
 - [DIY EMF Microphone](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
 - [EMF Microphone Circuit Example](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
@@ -123,10 +129,12 @@ PDF
 
 ## Sound Partikel und Microsounds
 
+[Image: Spektrogramm ????]
+
 ### Literatur
 - Roads, Curtis. Microsound. MIT, 2004.
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
 
 
@@ -135,13 +143,13 @@ PDF
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
-[Spektrogramm ????]
+[Image: Spektrogramm ????]
 
 
 ### Literatur
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
 
 
@@ -151,13 +159,13 @@ PDF
 
 ## Spektralmusik
 
-[Spektrogramm]
+[Image: Spektrogramm]
 
 
 ### Literatur
 - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
 - [Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
@@ -168,23 +176,25 @@ PDF
 
 ## "Sound Based Music" und "Organized Sound"
 
+[Image: ]
+
 ### Literatur
 
 - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
 - Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
 ---
 
 ## Sonic Art
 
-[???]
+[Image: ???]
 
 ### Literatur
 
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
 - [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
 - [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
@@ -197,14 +207,13 @@ PDF
 
 ## DIY-Kultur: Handmade Electronic Music
 
-[crackle Box]
+[Image: crackle Box]
 
 ### Literatur
-- Kahn, Douglas. Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts. University of California Press, 2013. 
 
 
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
@@ -213,13 +222,13 @@ PDF
 
 ## Selbstbau elektronischer Instrumente
 
-[Schaltung]
+[Image: Schaltung]
 
 ### Literatur
 
 
 
-
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
 - [John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
@@ -233,7 +242,7 @@ PDF
 
 ## Hardware Hacking und Circuit Bending
 
-[Speak and Spell]
+[Image: Speak and Spell]
 
 
 
@@ -242,6 +251,7 @@ PDF
 - Ghazala, Reed. Circuit-Bending: Build Your Own Alien Instruments. Wiley Pub., 2005.
 - Ghazala, Qubais Reed. “The Folk Music of Chance Electronics: Circuit-bending the modern coconut.” Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
@@ -250,10 +260,13 @@ PDF
 
 ## Sounddesign und akustische Klanggestaltung
 
+[Image:]
+
 ### Literatur
 - Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
 - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
 
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
 ---
 
@@ -261,6 +274,7 @@ PDF
 
 [Foley Stage]
 
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
 
