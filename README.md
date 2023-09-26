@@ -73,7 +73,7 @@ PDF
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
  [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
-
+- 4:33
 
 
 
