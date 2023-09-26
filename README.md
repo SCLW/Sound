@@ -170,8 +170,13 @@ PDF
 
 - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
 - Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
+- Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
+
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+- [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
+
+
 
 ---
 
@@ -275,7 +280,7 @@ Collins
 - Barlow, Klarenz. On Musiquantics. Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
 - Cox, Christoph, and Daniel Warner. Audio Culture.: Readings in Modern Music. Continuum, 2005. 
 - Emmerson, Simon. Music, Electronic Media and Culture. Ashgate, 2012. 
-- Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
+
 
 # Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
 
