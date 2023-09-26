@@ -84,6 +84,7 @@ PDF
 
 
 
+---
 
 ## Soundscape nach R. Murray Schafer
 
@@ -104,7 +105,7 @@ PDF
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
 
 
-
+---
 
 ## Filedrecordings
 
@@ -118,6 +119,7 @@ PDF
 
 
 
+---
 
 ## Sound Partikel und Microsounds
 
@@ -129,7 +131,7 @@ PDF
 
 
 
-
+---
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
@@ -145,6 +147,7 @@ PDF
 
 
 
+---
 
 ## Spektralmusik
 
@@ -161,6 +164,7 @@ PDF
 
 
 
+---
 
 ## "Sound Based Music" und "Organized Sound"
 
@@ -171,6 +175,7 @@ PDF
 
 
 
+---
 
 ## Sonic Art
 
@@ -188,7 +193,7 @@ PDF
 - Video Zimoun
 
 
-
+---
 
 ## DIY-Kultur: Handmade Electronic Music
 
@@ -204,7 +209,7 @@ PDF
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
 
-
+---
 
 ## Selbstbau elektronischer Instrumente
 
@@ -224,7 +229,8 @@ PDF
 
 
 
-  
+---
+
 ## Hardware Hacking und Circuit Bending
 
 [Speak and Spell]
@@ -240,7 +246,7 @@ PDF
 
 
 
-
+---
 
 ## Sounddesign und akustische Klanggestaltung
 
@@ -249,6 +255,7 @@ PDF
 - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
 
 
+---
 
 ## Foley und Audio Postproduktion
 
