@@ -69,7 +69,6 @@ PDF
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
  [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
@@ -86,7 +85,6 @@ PDF
 
 
 ### Literatur
-
 - Schafer, R. Murray. The Tuning of the World. Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
 - Popper, Arthur N., and Richard R. Fay. Soundscapes: Humans and Their Acoustic Environment. Springer International Publishing, 2023. 
@@ -172,7 +170,6 @@ PDF
 [Image: ]
 
 ### Literatur
-
 - Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
 - Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
 - Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
@@ -208,7 +205,7 @@ PDF
 [Image: crackle Box]
 
 ### Literatur
-Collins
+- Collins, Nicolas. Handmade Electronic Music: The Art of Hardware Hacking. Routledge, 2020.
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -245,7 +242,6 @@ Collins
 
 
 ### Literatur
-
 - Ghazala, Reed. Circuit-Bending: Build Your Own Alien Instruments. Wiley Pub., 2005.
 - Ghazala, Qubais Reed. “The Folk Music of Chance Electronics: Circuit-bending the modern coconut.” Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 
@@ -263,6 +259,8 @@ Collins
 ### Literatur
 - Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
 - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
+- Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
+
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
@@ -271,6 +269,9 @@ Collins
 ## Foley und Audio Postproduktion
 
 [Foley Stage]
+
+### Literatur
+- Viers, Ric. The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects. Michael Wiese Productions, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
