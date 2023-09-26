@@ -43,6 +43,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 - Luigi Russolo. Die Geräuschkunst (1916)
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+- [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 
 ---
 
