@@ -35,15 +35,19 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
-[Image: ???]
+[Image: Futurismus]
 
 ### Literatur
 - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
+  
+- Bregman, Albert S. Auditory Scene Analysis. MIT Press, 1996.
+- Alarcón, Miguel Molina. Baku: Symphony of Sirens: Sound Experiments in the Soviet. ReR MEGACORP, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
+- [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
 
 ---
 
