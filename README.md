@@ -48,7 +48,8 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
-
+- [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
+- [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 ---
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
