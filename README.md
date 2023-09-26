@@ -21,7 +21,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 30.11. | [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  |       |
 | 7.12.  | [Spektralmusik (Listening)](https://github.com/SCLW/Sound/blob/main/README.md#spektralmusik)                                                              |       |
 | 14.12. | ["Sound Based Music" und "Organized Sound" (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-based-music-und-organized-sound)                                    |       |
-| 21.12. | [Sonic Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sonic-art)                                                                    |       |
+| 21.12. | [Sound Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-art)                                                                    |       |
 | 11.1.  | [DIY-Kultur: Handmade Electronic Music (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#diy-kultur-handmade-electronic-music)                                        |       |
 | 18.1.  | [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          |       |
 | 25.1.  | [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          |       |
@@ -53,7 +53,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
 
-[Image: Graph? Formel]
+[Image: Graph? Formel Ästhetik]
 
 PDF
 
@@ -71,7 +71,6 @@ PDF
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
-- [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
  [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 
@@ -82,7 +81,7 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
-[Image: Bild aus dem Buch]
+[Image: Bild aus dem Buch oder Typ mit Kopfhörer und Mikrofon auf Angel]
 
 
 
@@ -122,7 +121,7 @@ PDF
 
 ## Sound Partikel und Microsounds
 
-[Image: Spektrogramm ????]
+[Image: Spektrogramm, FFT ????]
 
 ### Literatur
 - Roads, Curtis. Microsound. MIT, 2004.
@@ -136,7 +135,7 @@ PDF
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
-[Image: Spektrogramm ????]
+[Image: Notation von Klarenz]
 
 
 ### Literatur
@@ -144,6 +143,7 @@ PDF
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
+- [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 
 
@@ -185,9 +185,9 @@ PDF
 
 ---
 
-## Sonic Art
+## Sound Art
 
-[Image: ???]
+[Image: Installation Art ???]
 
 ### Literatur
 
