@@ -108,7 +108,7 @@ Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben u
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
-
+- [A life spent listening: Chris Watson on the hidden music of our world](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
 
 ---
 
