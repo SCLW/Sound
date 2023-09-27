@@ -74,7 +74,6 @@ PDF
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
 - Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
-- Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 
 
 
@@ -198,6 +197,8 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 ## "Sound Based Music" und "Organized Sound"
 
 Der Versuch, das klassisch Musikalische zu erweitern...
+Pierre Schaeffer
+
 
 [Image: ]
 
@@ -221,6 +222,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 [Image: Installation Art ???]
 
 ### Literatur
+
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -279,7 +281,7 @@ In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welch
 ## Hardware Hacking und Circuit Bending
 
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
-
+Noise, Glitch
 
 [Image: Speak and Spell]
 
@@ -288,6 +290,9 @@ Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Ci
 ### Literatur
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
+
+- Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
+- Yasunao Tone
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
