@@ -114,6 +114,8 @@ Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben u
 
 In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnahmen besprochen und verschiedene Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
+https://www.janawinderen.com    
+
 [Image: Kontakmikrofon]
 
 ### Literatur
@@ -126,7 +128,7 @@ In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnah
 - [EMF Microphone Circuit Example](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
 - [Prototype Low-Cost Hydrophone for the Ocean of Things Program](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
 - [About DIY contact microphones](https://knowledge.lom.audio/research/contact_mics)
-
+- [Underwater Ambisonic Recordings, 2013](https://tba21.org/underwater_ambisonic_recordings)
 
 
 ---
