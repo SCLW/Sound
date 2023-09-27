@@ -147,8 +147,8 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
 
-
-
+- [Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
+- [Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 ---
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
