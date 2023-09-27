@@ -46,8 +46,8 @@ und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Ava
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
   
-- Bregman, Albert S. Auditory Scene Analysis. MIT Press, 1996.
-- Alarcón, Miguel Molina. Baku: Symphony of Sirens: Sound Experiments in the Soviet. ReR MEGACORP, 2008. 
+- Bregman, *Albert S. Auditory Scene Analysis.* MIT Press, 1996.
+- Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
@@ -65,12 +65,12 @@ PDF
 
 ### Literatur
 - Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze Zu Einem Themenschwerpunkt Im Rahmen Des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
-- Weinzierl, Stefan. Handbuch Der Audiotechnik. Springer, 2008. 
+- Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
-- Siedenburg, Kai, et al. Timbre: Acoustics, Perception, and Cognition. Springer International Publishing, 2019. 
-- Roads, Curtis. Composing Electronic Music a New Aesthetic. Oxford University Press, 2015.
-- Ross, Alex. The Rest Is Noise: Listening to the Twentieth Century. Farrar, Straus and Giroux, 2007.
-- Cascone, Kim. The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music. Computer Music Journal, 2000.
+- Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
+- Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
+- Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
+- Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 
 
 
@@ -94,9 +94,9 @@ Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben u
 
 
 ### Literatur
-- Schafer, R. Murray. The Tuning of the World. Knopf, 1977.
+- Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
-- Popper, Arthur N., and Richard R. Fay. Soundscapes: Humans and Their Acoustic Environment. Springer International Publishing, 2023. 
+- Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 
 
 
@@ -114,7 +114,7 @@ In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnah
 [Image: Kontakmikrofon]
 
 ### Literatur
-- Kahn, Douglas. Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts. University of California Press, 2013. 
+- Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -135,7 +135,7 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 [Image: Spektrogramm, FFT ????]
 
 ### Literatur
-- Roads, Curtis. Microsound. MIT, 2004.
+- Roads, Curtis. *Microsound.* MIT, 2004.
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
@@ -190,9 +190,9 @@ Der Versuch, das klassisch Musikalische zu erweitern...
 [Image: ]
 
 ### Literatur
-- Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.
-- Dean, Roger T., and R. T. Dean. The Oxford Handbook of Computer Music. Oxford University Press, 2011. 
-- Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.
+- Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
+- Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
+- Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -227,7 +227,7 @@ Eine wichtige Sache...
 [Image: crackle Box]
 
 ### Literatur
-- Collins, Nicolas. Handmade Electronic Music: The Art of Hardware Hacking. Routledge, 2020.
+- Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -264,8 +264,8 @@ Eine wichtige Sache...
 
 
 ### Literatur
-- Ghazala, Reed. Circuit-Bending: Build Your Own Alien Instruments. Wiley Pub., 2005.
-- Ghazala, Qubais Reed. “The Folk Music of Chance Electronics: Circuit-bending the modern coconut.” Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
+- Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
+- Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
@@ -293,7 +293,7 @@ Eine wichtige Sache...
 [Foley Stage]
 
 ### Literatur
-- Viers, Ric. The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects. Michael Wiese Productions, 2008. 
+- Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
@@ -305,9 +305,9 @@ Eine wichtige Sache...
 
 # Basisliteratur zu "Sound" und Texte zur Klangästhetik
 
-- Barlow, Klarenz. On Musiquantics. Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
-- Cox, Christoph, and Daniel Warner. Audio Culture.: Readings in Modern Music. Continuum, 2005. 
-- Emmerson, Simon. Music, Electronic Media and Culture. Ashgate, 2012. 
+- Barlow, Klarenz. *On Musiquantics.* Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
+- Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
+- Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
 
 
 # Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
