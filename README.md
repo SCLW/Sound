@@ -198,8 +198,9 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 ## "Sound Based Music" und "Organized Sound"
 
-Der Versuch, das klassisch Musikalische zu erweitern...
-Pierre Schaeffer
+Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
+Der Versuch, das klassisch Musikalische zu erweitern...  
+Pierre Schaeffer  
 
 
 [Image: ]
