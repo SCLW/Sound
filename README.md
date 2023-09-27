@@ -207,7 +207,7 @@ Der Versuch, das klassisch Musikalische zu erweitern...
 
 ## Sound Art
 
-Eine wichtige Sache...
+Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
 [Image: Installation Art ???]
 
@@ -226,6 +226,11 @@ Eine wichtige Sache...
 ---
 
 ## DIY-Kultur: Handmade Electronic Music
+
+ausgehend von 
+
+Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue Ästheishe Ausdrucksmöglichkeiten zu finden durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
+
 
 [Image: crackle Box]
 
