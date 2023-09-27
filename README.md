@@ -37,6 +37,10 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 [Image: Futurismus]
 
+Die Einführung gibt einen Überblick über die verschiedenen Disziplinen, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
+und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Avantgarde der Moderne und der Futuristen
+
+
 ### Literatur
 - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
@@ -54,6 +58,8 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ## Die Beziehung zwischen Klang, Ton und Geräusch
 
 [Image: Graph? Formel Ästhetik]
+
+Dei verschiedenen Qualitäten, die Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
 
 PDF
 
@@ -81,6 +87,8 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
+Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
+
 [Image: Bild aus dem Buch oder Typ mit Kopfhörer und Mikrofon auf Angel]
 
 
@@ -101,6 +109,8 @@ PDF
 
 ## Fieldrecordings
 
+In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnahmen besprochen und verschiedene Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich werden experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe bdurchgeführt.
+
 [Image: Kontakmikrofon]
 
 ### Literatur
@@ -120,6 +130,8 @@ PDF
 
 ## Sound Partikel und Microsounds
 
+Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
+
 [Image: Spektrogramm, FFT ????]
 
 ### Literatur
@@ -133,6 +145,9 @@ PDF
 ---
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
+
+Die in der westlichen welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gereiten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
+Auch für Analyse ...
 
 [Image: Notation von Klarenz]
 
@@ -151,6 +166,8 @@ PDF
 
 ## Spektralmusik
 
+In dieser Hörsitzung werden Stücke verschiedener Spektralisten gehlrt: z.B.:
+
 [Image: Spektrogramm]
 
 
@@ -168,6 +185,8 @@ PDF
 
 ## "Sound Based Music" und "Organized Sound"
 
+Der Versuch, das klassisch Musikalische zu erweitern...
+
 [Image: ]
 
 ### Literatur
@@ -184,6 +203,8 @@ PDF
 ---
 
 ## Sound Art
+
+Eine wichtige Sache...
 
 [Image: Installation Art ???]
 
