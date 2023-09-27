@@ -190,7 +190,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 - [Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
 - [Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
-
+- [Guide to the Basic Concepts and Techniques of Spectral Music](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
 
 
 ---
