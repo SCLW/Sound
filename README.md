@@ -60,6 +60,9 @@ und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Ava
 [Image: Graph? Formel Ästhetik]
 
 Dei verschiedenen Qualitäten, die Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
+Begonnen bei der Frage, was ist Schall, den Physikalischen und Psychoakustischen Grundlagen.
+Das Verähltnis von Sprache und Musik
+
 
 PDF
 
