@@ -276,6 +276,9 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ## Hardware Hacking und Circuit Bending
 
+Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
+
+
 [Image: Speak and Spell]
 
 
@@ -293,6 +296,9 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ## Sounddesign und akustische Klanggestaltung
 
+die Gestaltung von Klang ...
+Theater...
+
 [Image:]
 
 ### Literatur
@@ -306,6 +312,8 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 ---
 
 ## Foley und Audio Postproduktion
+
+In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
 
 [Foley Stage]
 
