@@ -54,6 +54,8 @@ Hermann von Helmholtz
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
 
+- Russolo Videos
+
 ---
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
