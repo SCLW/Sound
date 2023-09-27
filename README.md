@@ -42,7 +42,7 @@ und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Ava
 
 
 ### Literatur
-Hermann Helmholtz
+Hermann von Helmholtz
 - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
