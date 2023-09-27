@@ -42,6 +42,7 @@ und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Ava
 
 
 ### Literatur
+Hermann Helmholtz
 - Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
@@ -112,7 +113,7 @@ Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben u
 
 ## Fieldrecordings
 
-In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnahmen besprochen und verschiedene Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich werden experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe bdurchgeführt.
+In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnahmen besprochen und verschiedene Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
 [Image: Kontakmikrofon]
 
@@ -169,7 +170,15 @@ Auch für Analyse ...
 
 ## Spektralmusik
 
-In dieser Hörsitzung werden Stücke verschiedener Spektralisten gehlrt: z.B.:
+Unter dem Begriff Spektralmusik werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetz.
+Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden.
+In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. Stücke verschiedener Spektralisten aus dem Bereich der Computermusik vorgestellt und diskutiert:
+
+
+* Jonathan Harvey
+* Klarenz Barlow
+* John Chowning
+* 
 
 [Image: Spektrogramm]
 
