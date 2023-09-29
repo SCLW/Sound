@@ -38,14 +38,18 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 [Image: Futurismus]
 
-Die Einführung stellt "Sound" in seinen unterschiedlichen Bedeutungsfacetten vor und gibt einen Überblick über die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen. (wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
+In der Einführung wird "Sound" in seinen unterschiedlichen Bedeutungsfacetten vorgestellt. Dabei werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, behandelt. 
 
-Ausgehend von der Ästhetisierung des Geräusches, welche zusammen mit der Technikbegeisterung der Avantgardbewegungen des beginnenden letzten Jahrhunderts in der Musik zu neuartigen Kompositionsansätzen führte, wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente und nicht-musikalischen Tonmaterials, wird verfolgt, wie sich auch in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst, eine verstärkte Auseinandersetzung mit "Klang" etablierte.
+Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen betrachtet.
 
-Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche wiederum die Grundlagen für die elektronische und elektroaktustische Musik schuf. Bis heute ist die gegenseitige Durchdringung der Bereiche Technologie und Kunst zu beobachten.  
+Außerdem wird ein kurzer Überblick gegeben, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde, was bis heute zu der gegenseitigen Durchdringung der Bereiche Technologie und Kunst führte.  
 
+<!--
+(wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
+welche zusammen mit der Technikbegeisterung in der Musik zu neuartigen Kompositionsansätzen führte, 
 
-
+wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente und nicht-musikalischen Tonmaterials, wird verfolgt, wie sich auch in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst, eine verstärkte Auseinandersetzung mit "Klang" etablierte.
+-->
 
 
 ### Literatur
