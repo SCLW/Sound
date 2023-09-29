@@ -38,10 +38,15 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 [Image: Futurismus]
 
-Die Ästhetisierung des Geräusches zusammen mit der Technikbegeisterung der Avantgardbewegungen des beginnenden letzten Jahrhunderts führte nicht nur in der Musik zu neuartigen Kompositionsansätzen, wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente und nicht-musikalischen Tonmaterials. Auch in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst, etablierte sich eine verstärkte Auseinandersetzung mit "Klang" als eigenständigem, bedeutenden Phänomen. Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche wiederum die Grundlagen für die elektronische und elektroaktustische Musik schuf. Bis heute ist die gegenseitige Durchdringung der Bereiche Technologie und Kunst zu beobachten.  
-Die Einführung stellt "Sound" in seinen unterschiedlichen Facetten vor und gibt einen Überblick über künstlerische und wissenschaftlichen Bereiche (interdisziplinärem), in denen akustische und auditive Phänomene eine Rolle spielen und welche Wirkung sie auf die menschliche Wahrnhmung und das Handeln haben.
+Die Einführung stellt "Sound" in seinen unterschiedlichen Bedeutungsfacetten vor und gibt einen Überblick über die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen. (wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
 
-- 
+Ausgehend von der Ästhetisierung des Geräusches, welche zusammen mit der Technikbegeisterung der Avantgardbewegungen des beginnenden letzten Jahrhunderts in der Musik zu neuartigen Kompositionsansätzen führte, wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente und nicht-musikalischen Tonmaterials, wird verfolgt, wie sich auch in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst, eine verstärkte Auseinandersetzung mit "Klang" etablierte.
+
+Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche wiederum die Grundlagen für die elektronische und elektroaktustische Musik schuf. Bis heute ist die gegenseitige Durchdringung der Bereiche Technologie und Kunst zu beobachten.  
+
+
+
+
 
 ### Literatur
 Hermann von Helmholtz
