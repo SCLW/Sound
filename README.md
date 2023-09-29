@@ -38,16 +38,15 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 [Image: Futurismus]
 
 
+Die Einführung gibt einen Überblick über verschiedene künstlerische und wissenschaftliche Bereiche, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
+Psychologie und der Physiologie verknüpfen Phänomene des Klangs mit menschlicher Wahrnehmung und Handeln 
+
 
 Die Ästhetisierung des Geräusches durch Avantgardbewegungen des beginnenden letzten Jahrhunderts führte nicht nur in der Musik zu neuartigen Kompositionsweisen wie der Überwindung der Tonalität und der Verwendung nicht-musikalischen Tonmaterials sondern schuf auch die Grundlage für eine weiterführende Auseinandersetzung mit Klang in anderen Kunstformen, wie dem Film, Theater oder der Installationskunst.
-Mit den Entwicklungen in der Telekommunikationstechnik wurde eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, die gleichzeitig Grundlagen für die elektronische Musik schuf und bis heute eine gegenseitige Durchdringung der Bereiche Technologie und Kunst etablierte.
+Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche die Grundlagen für die elektronische Musik schuf und bis heute eine gegenseitige Durchdringung der Bereiche Technologie und Kunst etablierte.
 
 
 
- Psychologie und der Physiologie verknüpfen Phänomene des Klangs mit menschlicher Wahrnehmung und Handeln 
-
-Die Einführung gibt einen Überblick über verschiedene künstlerische und wissenschaftliche Bereiche, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
-und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Avantgarde der Moderne und der Futuristen
 
 
 - 
