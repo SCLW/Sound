@@ -59,7 +59,7 @@ musique concrète
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
-- Bregman, *Albert S. Auditory Scene Analysis.* MIT Press, 1996.
+- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 
 - 
