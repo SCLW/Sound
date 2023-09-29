@@ -50,7 +50,8 @@ wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente un
 
 
 ### Literatur
-Hermann von Helmholtz
+Hermann von Helmholtz  
+Kunst und Technologie   
 
 - Busoni, Ferrucio. *Entwurf Einer Neuen Ästhetik Der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
