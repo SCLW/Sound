@@ -35,15 +35,16 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
+
 [Image: Futurismus]
 
+Die Ästhetisierung des Geräusches und die Technikbegeisterung () durch Avantgardbewegungen des beginnenden letzten Jahrhunderts führte nicht nur in der Musik zu neuartigen Kompositionsweisen wie der Überwindung der Tonalität und der Verwendung nicht-musikalischen Tonmaterials sondern schuf auch die Grundlage für eine weiterführende Auseinandersetzung mit Klang in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst. Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche wiederum die Grundlagen für die elektronische und elektroaktustische Musik schuf und bis heute die gegenseitige Durchdringung der Bereiche Technologie und Kunst etablierte.
 
-Die Einführung gibt einen Überblick über verschiedene künstlerische und wissenschaftliche Bereiche, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
-Psychologie und der Physiologie verknüpfen Phänomene des Klangs mit menschlicher Wahrnehmung und Handeln 
+Die Einführung stellt "Sound" in seinen unterschiedlichen Facetten vor und gibt einen Überblick über künstlerische und wissenschaftlichen Bereiche (interdisziplinärem), in denen akustische und auditive Phänomene eine Rolle spielen und welche Wirkung sie auf die menschliche Wahrnhmung und das Handeln haben.
 
 
-Die Ästhetisierung des Geräusches durch Avantgardbewegungen des beginnenden letzten Jahrhunderts führte nicht nur in der Musik zu neuartigen Kompositionsweisen wie der Überwindung der Tonalität und der Verwendung nicht-musikalischen Tonmaterials sondern schuf auch die Grundlage für eine weiterführende Auseinandersetzung mit Klang in anderen Kunstformen, wie dem Film, Theater oder der Installationskunst.
-Gleichzeitig wurde mit Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben, welche die Grundlagen für die elektronische Musik schuf und bis heute eine gegenseitige Durchdringung der Bereiche Technologie und Kunst etablierte.
+
+
 
 
 
