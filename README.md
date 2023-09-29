@@ -37,19 +37,34 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 [Image: Futurismus]
 
-Die Einführung gibt einen Überblick über die verschiedenen Disziplinen, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
+
+
+Mit der Ästhetisierung des Geräusches durch Avantgardbewegungen des beginnenden letzten Jahrhunderts wurden der Musik ...
+
+
+Während naturwissenschaftliche Betrachtungen um ... Verknüpfung mit menschlicher Wahrnehmung und Handeln ...
+
+Die Einführung gibt einen Überblick über verschiedene künstlerische und wissenschaftliche Bereiche, in welchen Klang eine wichtige Rolle spielt, wei Sounddesign, Industriedesign, Warnsystem, Kommunikation, experimentelle Musik, Psychologie etc.
 und behandelt die Hinwendung in der Kunst zum Gegenstandsbereich "Klang" der Avantgarde der Moderne und der Futuristen
 
+- Sounddesign (Filmton, Computerspiele, XR)
+- Corporate Sound/Audio-Branding (Hörmarke/Jingles)
+- Akustik-Design (Räume, öffentlicher Räumen)
+- Produkt-Sounddesign (E-Autos)
+- Umwelt-Sounddesign (Soundscape)
+- 
 
 ### Literatur
 Hermann von Helmholtz
-- Busoni, Ferrucio. Entwurf einer neuen Ästhetik der Tonkunst (1916)
+
+- Busoni, Ferrucio. *Entwurf Einer Neuen Ästhetik Der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
-  
+- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte Des Italienischen Futurismus Und Ihre Rezeption Durch Komponisten Des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
 - Bregman, *Albert S. Auditory Scene Analysis.* MIT Press, 1996.
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 
+- 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
