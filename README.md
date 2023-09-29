@@ -77,7 +77,7 @@ Kunst und Technologie
 Dei verschiedenen Qualitäten, die Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
 Begonnen bei der Frage, was ist Schall, den Physikalischen und Psychoakustischen Grundlagen.
 Das Verähltnis von Sprache und Musik
-
+Als auch die Bedeutung des Rauschens   
 
 PDF
 
