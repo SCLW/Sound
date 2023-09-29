@@ -39,7 +39,8 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 [Image: Futurismus]
 
 In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
-Dabei wird "Sound" in seinen unterschiedlichen Bedeutungsfacetten betrachtet und die daraus resultierenden Schwierigkeiten einer klaren Einordnung und Abgrenzung dieses ephemeren und unsichtbaren Gegenstandes herausgearbeitet. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Zudem wird ein kurzer Überblick gegeben, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde, was bis heute zu der gegenseitigen Durchdringung der Bereiche Technologie und Kunst führte.  
+Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten einer klaren Einordnung und Abgrenzung herausgearbeitet. Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
+
 
 <!--
 (wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
