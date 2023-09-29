@@ -53,11 +53,12 @@ wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente un
 ### Literatur
 Hermann von Helmholtz  
 Kunst und Technologie   
+musique concrète
 
-- Busoni, Ferrucio. *Entwurf Einer Neuen Ästhetik Der Tonkunst.* Insel, 1916. 
+- Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
-- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte Des Italienischen Futurismus Und Ihre Rezeption Durch Komponisten Des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
+- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
 - Bregman, *Albert S. Auditory Scene Analysis.* MIT Press, 1996.
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 
@@ -74,10 +75,9 @@ Kunst und Technologie
 
 [Image: Graph? Formel Ästhetik]
 
-Dei verschiedenen Qualitäten, die Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
-Begonnen bei der Frage, was ist Schall, den Physikalischen und Psychoakustischen Grundlagen.
-Das Verähltnis von Sprache und Musik
-Als auch die Bedeutung des Rauschens   
+Die verschiedenen Qualitäten von Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
+Ausgangspunkt dieser Unterrichtseinheit ist die Frage "Was ist Schall?".
+In  wird der Frage nachgegangen, "was ist Schall?", sowie physikalische und psychoakustische Grundlagen behandelt. U.a. wird das Verhältnis zwischen Sprache und Musik beleuchtet und die Bedeutung des Rauschens...
 
 PDF
 
@@ -104,7 +104,13 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
-Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
+Das Buch "The Tuning of the World" von R. Murray Schafer gilt als bedeutender Beitrag zu hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
+Veränderung der Hörgewohnheiten,  
+Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
+
+ästhetische, politische und soziale Überlegungen   
+
+
 
 [Image: Bild aus dem Buch oder Typ mit Kopfhörer und Mikrofon auf Angel]
 
@@ -126,7 +132,9 @@ Das Buch "The Tuning of the World" hat penibel eine neue Hörweise beschrieben u
 
 ## Fieldrecordings
 
-In diesem Praxisteil werden die Grundlagen der Mirkfofonierung von Ambientaufnahmen besprochen und verschiedene Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
+In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
+
+https://www.ableton.com/de/blog/art-of-field-recording/   
 
 https://www.janawinderen.com    
 
