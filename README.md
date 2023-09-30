@@ -272,6 +272,15 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 ## "Sound Based Music" und "Organized Sound"
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/sound_based_music_light.png">
+  <img alt="Sound Based Music" src="/Img/sound_based_music_dark.png">
+</picture>
+*caption*
+</br>
+
+
 Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
 Der Versuch, das klassisch Musikalische zu erweitern...  
 Pierre Schaeffer  
