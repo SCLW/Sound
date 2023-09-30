@@ -31,7 +31,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 | 25.1.  | [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          | x!     |
 | 1.2.   | [Sounddesign und akustische Klanggestaltung (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sounddesign-und-akustische-klanggestaltung)                                   |  x     |
 | 8.2.   | [Foley und Audio Postproduktion (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#foley-und-audio-postproduktion)                                                |  x!    |
-| 15.2.  | [Referate](https://github.com/SCLW/Sound/blob/main/README.md#referate)                                                                               |       |
+| 15.2.  | Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)-->                                                                               |       |
 
 
 
