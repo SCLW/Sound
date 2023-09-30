@@ -390,6 +390,11 @@ Noise, Glitch
 
 ## Sounddesign und akustische Klanggestaltung
 
+![Sounddesign](/Img/Sounddesign_Stock.jpg)
+*Sounddesign*
+</br>
+
+
 die Gestaltung von Klang ...
 Theater...
 - Sounddesign (Filmton, Computerspiele, XR)
@@ -412,6 +417,11 @@ Theater...
 ---
 
 ## Foley und Audio Postproduktion
+
+![Foleymaking](/Img/Foley.jpg)
+*Foleymaking*
+</br>
+
 
 In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
 
