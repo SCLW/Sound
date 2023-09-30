@@ -42,6 +42,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ![Intonarumori](/Img/Intonarumori.jpg)
 *Intonarumori*
+</br>
 
 In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
 Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten einer klaren Einordnung und Abgrenzung herausgearbeitet. Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
@@ -115,6 +116,8 @@ PDF
   <img alt=" " src="/Img/RMSchafer_dark.png">
 </picture>
 
+*caption*
+</br>
 
 Das Buch "The Tuning of the World" von R. Murray Schafer gilt als bedeutender Beitrag zu hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
 Veränderung der Hörgewohnheiten,  
@@ -146,7 +149,7 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 ![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
 *Fieldrecording by R. Teneva*
-
+</br>
 
 
 
@@ -184,6 +187,8 @@ https://www.janawinderen.com
   <source media="(prefers-color-scheme: dark)" srcset="/Img/microsound_light.png">
   <img alt="Sonogram of short trainlets clouds." src="/Img/microsound_dark.png">
 </picture>
+*caption*
+</br>
 
 Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
 
@@ -209,6 +214,8 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 </picture>
 
 Triangle and Spiral used for the Composition of *1981*
+</br>
+
 
 Die in der westlichen Welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
 Auch für Analyse ...
@@ -304,7 +311,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 
 ![Crackle Box](/Img/Crackle_Box.jpeg)
 *Crackle Box*
-
+</br>
 
 ausgehend von 
 
@@ -328,7 +335,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ![DIY-Synth](/Img/CMOS-Synthesizer-Circuitry-based_Sound.jpg)
 *DIY-Synth*
-
+</br>
 
 In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
@@ -354,7 +361,7 @@ In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welch
 
 ![Modifiziertes Speak & Spell Spielzeug](/Img/Circuit_Bending.jpg)
 *Modifiziertes Speak & Spell Spielzeug*
-
+</br>
 
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch
