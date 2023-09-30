@@ -413,6 +413,7 @@ In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
+---
 
 ## Referate
 
