@@ -36,7 +36,8 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 
-[Image: Futurismus]
+![Intonarumori](/Img/Russolointonorumori.jpeg)
+*Intonarumori*
 
 In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
 Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten einer klaren Einordnung und Abgrenzung herausgearbeitet. Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
@@ -138,8 +139,8 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 ## Fieldrecordings
 
-![Circuitry-Based Sound ZKM 2023](/Img/Fieldrecording_Teneva.jpg)
-*Group live performance at the ZKM*
+![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
+*Fieldrecording by R. Teneva*
 
 In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
