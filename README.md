@@ -60,12 +60,13 @@ musique concrète
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
-- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
-- Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 
-- 
+- Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
+- Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
+- Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
+
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-- [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
+
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
 
 - Russolo Videos
@@ -89,7 +90,7 @@ PDF
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
 - Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
-
+- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -99,7 +100,7 @@ PDF
 - 4:33
 - [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
-
+- [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 
 ---
 
@@ -398,13 +399,13 @@ In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich
 
 
 
-
+<!--
 
 # Basisliteratur zu "Sound" und Texte zur Klangästhetik
-
 - Barlow, Klarenz. *On Musiquantics.* Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
-- Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
-- Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
+
+-->
+
 
 
 # Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
