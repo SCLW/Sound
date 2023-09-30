@@ -76,6 +76,10 @@ musique concrète
 
 - Russolo Videos
 
+
+
+
+
 ---
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch
@@ -107,6 +111,11 @@ PDF
 - [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 
+
+
+
+
+
 ---
 
 ## Soundscape nach R. Murray Schafer
@@ -125,23 +134,22 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 ästhetische, politische und soziale Überlegungen   
 
-
-
-
-
-
-
 ### Literatur
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
 - Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 
-
-
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
 - [A life spent listening: Chris Watson on the hidden music of our world](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
+
+
+
+
+
+
+
 
 ---
 
@@ -155,9 +163,8 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd271e
 
+*Klang elektromagnetischer Felder eines Computers*
 
-
-*elektromagnetischer Felder eines Computers*
 
 In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
@@ -179,6 +186,8 @@ https://www.janawinderen.com
 - [Underwater Ambisonic Recordings, 2013](https://tba21.org/underwater_ambisonic_recordings)
 
 
+
+
 ---
 
 ## Sound Partikel und Microsounds
@@ -192,8 +201,6 @@ https://www.janawinderen.com
 
 Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
 
-
-
 ### Literatur
 - Roads, Curtis. *Microsound.* MIT, 2004.
 
@@ -202,6 +209,10 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 
 - [Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
 - [Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
+
+
+
+
 ---
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
@@ -219,11 +230,6 @@ Triangle and Spiral used for the Composition of *1981*
 
 Die in der westlichen Welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
 Auch für Analyse ...
-
-
-
-
-
 
 ### Literatur
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
@@ -249,8 +255,6 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 * John Chowning
 * 
 
-[Image: Spektrogramm]
-
 
 ### Literatur
 - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
@@ -262,6 +266,8 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 - [Guide to the Basic Concepts and Techniques of Spectral Music](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
 
 
+
+
 ---
 
 ## "Sound Based Music" und "Organized Sound"
@@ -270,17 +276,15 @@ Im Gegensatz zur etablierten Notationsbasierten Musik, ...
 Der Versuch, das klassisch Musikalische zu erweitern...  
 Pierre Schaeffer  
 
-
-[Image: ]
-
 ### Literatur
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
 - Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
 - Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
 
-
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
+
+
 
 
 
@@ -290,11 +294,7 @@ Pierre Schaeffer
 
 Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
-[Image: Installation Art ???]
-
 ### Literatur
-
-
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
@@ -303,6 +303,8 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 - Video pendulum Music
 - Video Max Neuhaus Time Square ()
 - Video Zimoun
+
+
 
 
 ---
@@ -317,16 +319,14 @@ ausgehend von
 
 Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue Ästheishe Ausdrucksmöglichkeiten zu finden durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
 
-
-
-
 ### Literatur
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
-
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
+
+
 
 
 ---
@@ -339,10 +339,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
-
-
 ### Literatur
-
 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
@@ -352,6 +349,7 @@ In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welch
 - [Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
 - Lunetta
 - CD4049 Touch
+
 
 
 
@@ -365,9 +363,6 @@ In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welch
 
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch
-
-
-
 
 
 ### Literatur
@@ -393,11 +388,8 @@ Theater...
 - Akustik-Design (Räume, öffentlicher Räumen)
 - Produkt-Sounddesign (E-Autos)
 - Umwelt-Sounddesign (Soundscape)
-- 
 
-
-[Image:]
-
+  
 ### Literatur
 - Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
 - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
@@ -406,19 +398,22 @@ Theater...
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 
+
+
 ---
 
 ## Foley und Audio Postproduktion
 
 In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
 
-[Foley Stage]
-
 ### Literatur
 - Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+
+
+
 
 ---
 
