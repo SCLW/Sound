@@ -104,8 +104,11 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
-![Circuitry-Based Sound ZKM 2023](/Img/Fieldrecording_Teneva.jpg)
-*Group live performance at the ZKM*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/Schaf_Analysis_light.png">
+  <img alt=" " src="/Img/Schaf_Analysis_dark.png">
+</picture>
+
 
 Das Buch "The Tuning of the World" von R. Murray Schafer gilt als bedeutender Beitrag zu hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
 Veränderung der Hörgewohnheiten,  
@@ -115,7 +118,7 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 
 
-[Image: Bild aus dem Buch oder Typ mit Kopfhörer und Mikrofon auf Angel]
+
 
 
 
@@ -135,13 +138,15 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 ## Fieldrecordings
 
+![Circuitry-Based Sound ZKM 2023](/Img/Fieldrecording_Teneva.jpg)
+*Group live performance at the ZKM*
+
 In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
 https://www.ableton.com/de/blog/art-of-field-recording/   
 
 https://www.janawinderen.com    
 
-[Image: Kontakmikrofon]
 
 ### Literatur
 - Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
