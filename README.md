@@ -312,9 +312,13 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ## Selbstbau elektronischer Instrumente
 
+![Breadboard](/Img/Breadboard_Synth.jpg)
+*DIY-Synth*
+
+
 In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
-[Image: Schaltung]
+
 
 ### Literatur
 
