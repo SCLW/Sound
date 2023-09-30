@@ -36,7 +36,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 
-![Intonarumori](/Img/Russolointonorumori.jpeg)
+![Intonarumori](/Img/Intonarumori.jpg)
 *Intonarumori*
 
 In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
