@@ -288,12 +288,16 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 
 ## DIY-Kultur: Handmade Electronic Music
 
+![Crackle Box](/Img/Crackle_Box.jpeg)
+*Crackle Box*
+
+
 ausgehend von 
 
 Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue Ästheishe Ausdrucksmöglichkeiten zu finden durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
 
 
-[Image: crackle Box]
+
 
 ### Literatur
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
