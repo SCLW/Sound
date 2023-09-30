@@ -1,6 +1,6 @@
 # Sound (Theorie und Praxis)
 
-"https://github.com/SCLW/Sound/blob/main/Sounds/0001.mp3raw=true"
+
 
 
 
@@ -146,6 +146,9 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 
 ![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
 *Fieldrecording by R. Teneva*
+
+https://github.com/SCLW/Sound/assets/51890764/d9ac8e02-730c-4372-9e57-d279752443e9
+*elektromagnetischer Felder eines Computers*
 
 In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
 
