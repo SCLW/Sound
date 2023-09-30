@@ -176,7 +176,16 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 Die in der westlichen welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gereiten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
 Auch für Analyse ...
 
-[Image: Notation von Klarenz]
+
+
+<!-- IMAGE -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/Barlow_Notation_light.png">
+  <img alt="Graphical score with three symbols for the instruments, violin, cello and piano, describing an individual spiral starting at the centre of an equilateral triangle with the composers Clementi, Schumann and Ravel at the apices marked “C”, “S” and “R”" src="/Img/Barlow_Notation_dark.png">
+</picture>
+
+Triangle and Spiral used for the Composition of 1981
 
 
 ### Literatur
