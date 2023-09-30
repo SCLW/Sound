@@ -147,7 +147,12 @@ Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und
 ![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
 *Fieldrecording by R. Teneva*
 
-https://github.com/SCLW/Sound/assets/51890764/d9ac8e02-730c-4372-9e57-d279752443e9   
+
+
+
+https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd271e
+
+
 
 *elektromagnetischer Felder eines Computers*
 
