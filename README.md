@@ -82,7 +82,7 @@ In  wird der Frage nachgegangen, "was ist Schall?", sowie physikalische und psyc
 PDF
 
 ### Literatur
-- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze Zu Einem Themenschwerpunkt Im Rahmen Des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
 - Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
