@@ -104,6 +104,9 @@ PDF
 
 ## Soundscape nach R. Murray Schafer
 
+![Circuitry-Based Sound ZKM 2023](/Img/Fieldrecording_Teneva.jpg)
+*Group live performance at the ZKM*
+
 Das Buch "The Tuning of the World" von R. Murray Schafer gilt als bedeutender Beitrag zu hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
 Veränderung der Hörgewohnheiten,  
 Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
