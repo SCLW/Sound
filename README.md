@@ -313,7 +313,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ## Selbstbau elektronischer Instrumente
 
-![Breadboard](/Img/Breadboard_Synth.jpg)
+![DIY-Synth](/Img/CMOS-Synthesizer-Circuitry-based_Sound.jpg)
 *DIY-Synth*
 
 
