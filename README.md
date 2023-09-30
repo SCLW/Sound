@@ -106,8 +106,8 @@ PDF
 ## Soundscape nach R. Murray Schafer
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/Schaf_Analysis_light.png">
-  <img alt=" " src="/Img/Schaf_Analysis_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/RMSchafer_light.png">
+  <img alt=" " src="/Img/RMSchafer_dark.png">
 </picture>
 
 
