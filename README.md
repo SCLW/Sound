@@ -165,9 +165,14 @@ https://www.janawinderen.com
 
 ## Sound Partikel und Microsounds
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/microsound_light.png">
+  <img alt="Sonogram of short trainlets clouds." src="/Img/microsound_dark.png">
+</picture>
+
 Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
 
-[Image: Spektrogramm, FFT ????]
+
 
 ### Literatur
 - Roads, Curtis. *Microsound.* MIT, 2004.
