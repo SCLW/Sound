@@ -339,10 +339,14 @@ In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welch
 
 ## Hardware Hacking und Circuit Bending
 
+![Modifiziertes Speak & Spell Spielzeug](/Img/Circuit_Bending.jpg)
+*Modifiziertes Speak & Spell Spielzeug*
+
+
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch
 
-[Image: Speak and Spell]
+
 
 
 
