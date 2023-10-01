@@ -173,12 +173,16 @@ https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd27
 *Klang elektromagnetischer Felder eines Computers*
 
 
-In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimentellere Aufnahmeverfahren wie Hydrophone und EMF-Mikrofnoe analysiert.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingunen für den möglichen Klang gesetzt werden kann, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt.
+
+In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimenteller Aufnahmeverfahren wie Hydrophone und EMF-Mikrofone analysiert.
+
 
 https://www.ableton.com/de/blog/art-of-field-recording/   
 
 https://www.janawinderen.com    
-
+https://www.nytimes.com/2020/06/03/arts/music/field-recordings.html   
+https://en.wikipedia.org/wiki/Irv_Teibel   
 
 ### Literatur
 - Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
