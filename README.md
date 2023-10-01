@@ -254,13 +254,16 @@ Auch für Analyse ...
 <br>
 
 
-die Gestaltung von Klang ...
-Theater...
-- Sounddesign (Filmton, Computerspiele, XR)
-- Corporate Sound/Audio-Branding (Hörmarke/Jingles)
-- Akustik-Design (Räume, öffentlicher Räumen)
-- Produkt-Sounddesign (E-Autos)
-- Umwelt-Sounddesign (Soundscape)
+Sowohl die ästhetische Gestaltung von Klang als auch die [] unter gesundheitlichen und gesellschaftlichen Aspekten
+
+- Sounddesign im Film, Computerspiel oder in X-Realities, Corporate Sound/Audio-Branding (Hörmarke/Jingles), Akustik-Design im öffentlicher Räumen oder Produkt-Sounddesign (E-Autos)
+
+
+insbesonder die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk L´Audio-Vision. Son et image au cinéma. von Michel Chion analysieren wir ...
+Geschichte des Film   
+Flückiger   
+
+
 
   
 ### Literatur
