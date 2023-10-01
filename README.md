@@ -250,6 +250,51 @@ Auch für Analyse ...
 - [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 
+---
+
+## Sounddesign und akustische Klanggestaltung
+
+![Sounddesign](/Img/Sounddesign_Stock.jpg)
+*Sounddesign*
+</br>
+
+
+die Gestaltung von Klang ...
+Theater...
+- Sounddesign (Filmton, Computerspiele, XR)
+- Corporate Sound/Audio-Branding (Hörmarke/Jingles)
+- Akustik-Design (Räume, öffentlicher Räumen)
+- Produkt-Sounddesign (E-Autos)
+- Umwelt-Sounddesign (Soundscape)
+
+  
+### Literatur
+- Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
+- Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
+- Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
+- Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
+
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+
+
+
+---
+
+## Foley und Audio Postproduktion
+
+![Foleymaking](/Img/Foley.jpg)
+*Foleymaking*
+</br>
+
+
+In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
+
+### Literatur
+- Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
+
+### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+- [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+
 
 
 ---
@@ -305,24 +350,6 @@ Pierre Schaeffer
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
 
 
-
-
-
----
-
-## Sound Art
-
-Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
-
-### Literatur
-
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-- [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
-- [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
-- [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
-- Video pendulum Music
-- Video Max Neuhaus Time Square ()
-- Video Zimoun
 
 
 
@@ -395,52 +422,25 @@ Noise, Glitch
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
-
-
 ---
 
-## Sounddesign und akustische Klanggestaltung
+## Sound Art
 
-![Sounddesign](/Img/Sounddesign_Stock.jpg)
-*Sounddesign*
-</br>
-
-
-die Gestaltung von Klang ...
-Theater...
-- Sounddesign (Filmton, Computerspiele, XR)
-- Corporate Sound/Audio-Branding (Hörmarke/Jingles)
-- Akustik-Design (Räume, öffentlicher Räumen)
-- Produkt-Sounddesign (E-Autos)
-- Umwelt-Sounddesign (Soundscape)
-
-  
-### Literatur
-- Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
-- Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
-- Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
-- Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
-
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-
-
-
----
-
-## Foley und Audio Postproduktion
-
-![Foleymaking](/Img/Foley.jpg)
-*Foleymaking*
-</br>
-
-
-In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
+Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
 ### Literatur
-- Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-- [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+- [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
+- [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
+- [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
+- Video pendulum Music
+- Video Max Neuhaus Time Square ()
+- Video Zimoun
+
+
+
+
 
 
 
