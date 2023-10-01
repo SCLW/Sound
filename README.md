@@ -57,18 +57,18 @@ wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente un
 
 
 ### Literatur
-Hermann von Helmholtz  
+
 Kunst und Technologie   
-musique concrète
 
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
-
+- Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 - Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
 - Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
+- Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
