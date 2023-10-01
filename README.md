@@ -71,9 +71,7 @@ musique concrète
 - Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
-
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
-
 - Russolo Videos
 
 
@@ -217,7 +215,6 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
-
 - [Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
 - [Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 
@@ -415,9 +412,8 @@ Noise, Glitch
 ### Literatur
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
-
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
-- Yasunao Tone
+- Tone, Yasunao, and Robert Ashley. Yasunao Tone: Noise Media Language. Errant Bodies Press, 2007. 
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
@@ -429,6 +425,10 @@ Noise, Glitch
 Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
 ### Literatur
+- DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
+- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010. 
+- Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
+
 
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
