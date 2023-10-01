@@ -127,16 +127,8 @@ Als Vorbereitung für die weiteren Themenblöcke und eine flankierende ästhetis
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
 <br>
 
-Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch entwickelte er den Begriff "Soundscape" und propagierte kritischen Hören als eine neue Hörweise. Das Buch gilt als bedeutender Beitrag zu den neueren Akademischen ... Soundstudies und  .gilt als  bedeutende Referenz für die Soundstudies.  
-Veränderung der Hörgewohnheiten,   
+Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der Sound Studies. In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff "Soundscape" als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
 
-Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
-Klanglandschaften von der naturgegebenen "Lautsphäre  
-kritisches Hören ... und aktive Gestaltung  
-
-Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
-
-Soundwalks und Fieldrecording     
 
 
 
@@ -172,7 +164,7 @@ https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd27
 *Klang elektromagnetischer Felder eines Computers*
 <br>
 
-Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingunen für den möglichen Klang gesetzt werden kann, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil werden zuerst die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und im Anschluss künstlerisch mit mobilem Aufnahmeequipment im freien Feld gearbeitet. Dabei wird die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingunen für den möglichen Klang gesetzt werden kann, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung an und werden zuerst die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und im Anschluss künstlerisch mit mobilem Aufnahmeequipment im freien Feld gearbeitet. Dabei wird die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
 
 
 https://www.ableton.com/de/blog/art-of-field-recording/   
@@ -255,15 +247,8 @@ Auch für Analyse ...
 <br>
 
 
-Sowohl die ästhetische Gestaltung von Klang als auch die [] unter gesundheitlichen und gesellschaftlichen Aspekten
 
-- Sounddesign im Film, Computerspiel oder in X-Realities, Corporate Sound/Audio-Branding (Hörmarke/Jingles), Akustik-Design im öffentlicher Räumen oder Produkt-Sounddesign (E-Autos)
-
-
-insbesonder die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk L´Audio-Vision. Son et image au cinéma. von Michel Chion analysieren wir ...
-Geschichte des Film   
-Flückiger   
-
+Vom Sounddesign im Film, Computerspiel oder in X-Realities, Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design im öffentlicher Räumen oder dem Produkt-Sounddesign (E-Autos) werden gesellschaftlichen, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Sound im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Dafür ziehen wir das Buch Sound Design: Die Virtuelle Klangwelt des Films. von Barbara Flückiger.
 
 
   
@@ -285,8 +270,9 @@ Flückiger
 *Foleymaking*
 <br>
 
+Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen in einem speziell vorbereiteten Bereich einer Aufnahmekabine, der Foleystage, durchgeführen. Mit einfachen Klangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen den gewünschten "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt. [...]
 
-In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
+
 
 ### Literatur
 - Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
@@ -303,12 +289,10 @@ In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich
 Unter dem Begriff Spektralmusik werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetz.
 Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden.
 In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. Stücke verschiedener Spektralisten aus dem Bereich der Computermusik vorgestellt und diskutiert:
-
-
 * Jonathan Harvey
 * Klarenz Barlow
 * John Chowning
-* 
+* Denis Smalley
 
 
 ### Literatur
@@ -363,7 +347,11 @@ Pierre Schaeffer
 
 ausgehend von 
 
-Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue Ästheishe Ausdrucksmöglichkeiten zu finden durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
+Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden
+
+durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
+
+
 
 ### Literatur
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
