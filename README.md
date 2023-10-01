@@ -323,7 +323,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 
 
-
+<!--
 ---
 
 ## "Sound Based Music" und "Organized Sound"
@@ -349,7 +349,7 @@ Pierre Schaeffer
 ### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
 
-
+-->
 
 
 
