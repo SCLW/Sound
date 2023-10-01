@@ -46,10 +46,9 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 In der ersten Sitzung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert.  
 
-Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
-
 
 <!--
+Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
 (wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
 welche zusammen mit der Technikbegeisterung in der Musik zu neuartigen Kompositionsansätzen führte, 
 
@@ -199,7 +198,24 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 *caption*
 <br>
 
-Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
+
+Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb des Tons dar. Diese äußerst kurzen Partikel können heutzutage mithilfe digitaler Verfahren kompositorische dynamische verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften dieser Klänge schuf Curtis Roads. Gleichzeitig ist es Komponist ...   
+Wir folgen dem Buch Microsounds gibt einen 
+Überblick über die Geschichte des Microsounds und wie sich diese winzigen Bausteine in verschiedenen Organisations... verhalten und empfunden werden.
+
+
+Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
+
+<!--
+Unterhalb der Ebene der Musiknote liegt das Reich des Mikroklangs, der Klangpartikel, die weniger als eine Zehntelsekunde dauern. Jüngste technologische Fortschritte ermöglichen es uns, diese Klangpunkte zu erforschen und zu manipulieren und die traditionellen Bausteine der Musik - Noten und ihre Intervalle - in ein flüssigeres und geschmeidigeres Medium aufzulösen. Die Empfindungen von Punkt, Puls (Reihe von Punkten), Linie (Ton) und Oberfläche (Textur) treten mit zunehmender Partikeldichte auf. Klänge verschmelzen, verflüchtigen sich und mutieren zu anderen Klängen. Komponisten haben seit den 1950er Jahren Theorien über Mikroklänge in der Computermusik verwendet. Zu den bekanntesten Vertretern gehören Karlheinz Stockhausen und Iannis Xenakis. Heute, mit dem zunehmenden Interesse an Computer- und elektronischer Musik, erforschen viele junge Komponisten und Software-Synthese-Entwickler die Vorteile dieser Methode. Microsound deckt alle Aspekte der Komposition mit Klangpartikeln ab und bietet Kompositionstheorie, historische Darstellungen, technische Übersichten, akustische Experimente, Beschreibungen musikalischer Werke und ästhetische Überlegungen.
+-->
+
+
+
+
+
+
+
 
 ### Literatur
 - Roads, Curtis. *Microsound.* MIT, 2004.
@@ -229,6 +245,8 @@ Triangle and Spiral used for the Composition of *1981*
 
 Die in der westlichen Welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
 Auch für Analyse ...
+
+
 
 ### Literatur
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
