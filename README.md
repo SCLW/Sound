@@ -414,7 +414,8 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 <br>
 
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
-Noise, Glitch
+Noise, Glitch (Hardwarehacking)
+
 
 
 ### Literatur
