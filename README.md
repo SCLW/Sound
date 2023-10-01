@@ -42,7 +42,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ![Intonarumori](/Img/Intonarumori.jpg)
 *Intonarumori*
-</br>
+<br>
 
 In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
 Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten einer klaren Einordnung und Abgrenzung herausgearbeitet. Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
@@ -80,15 +80,15 @@ Kunst und Technologie
 
 ---
 
-## Die Beziehung zwischen Klang, Ton und Geräusch
+## Die Beziehung zwischen Klang Ton und Geräusch 
 
 [Image: Graph? Formel Ästhetik]
 
-Die verschiedenen Qualitäten von Schall haben kann von musikalisch über kakophonisch bis zum Rauschen.
-Ausgangspunkt dieser Unterrichtseinheit ist die Frage "Was ist Schall?".
-In  wird der Frage nachgegangen, "was ist Schall?", sowie physikalische und psychoakustische Grundlagen behandelt. U.a. wird das Verhältnis zwischen Sprache und Musik beleuchtet und die Bedeutung des Rauschens...
 
-PDF
+Als Vorbereitung für die weiteren Themenblöcke und eine ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage, was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit dem Verständnis von Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen zwischen Klang, Ton und Geräusch und betrachten das Verhältnis von Klangursache und dem eigentlichen Klang.
+
+
+
 
 ### Literatur
 - Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
@@ -124,7 +124,7 @@ PDF
 </picture>
 
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
-</br>
+<br>
 
 Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch wird der Begriff "Soundscape" entwickelt und eine neue Hörweise propagiert.
 Es gilt als bedeutender Beitrag zu den gegenwärtigen Soundstudies und  . Bis heute eine bedeutende Referenz für die Soundstudies.  
@@ -162,18 +162,15 @@ Soundwalk
 
 ![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
 *Fieldrecording by R. Teneva*
-</br>
+<br>
 
 
 
 https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd271e
-
 *Klang elektromagnetischer Felder eines Computers*
+<br>
 
-
-Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingunen für den möglichen Klang gesetzt werden kann, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt.
-
-In diesem Praxisteil werden die Grundlagen der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und Experimente mit mobilen Aufnahmegeräten gemacht. Zusätzlich wird die Ästhetik experimenteller Aufnahmeverfahren wie Hydrophone und EMF-Mikrofone analysiert.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingunen für den möglichen Klang gesetzt werden kann, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil werden zuerst die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen besprochen und im Anschluss künstlerisch mit mobilem Aufnahmeequipment im freien Feld gearbeitet. Dabei wird die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
 
 
 https://www.ableton.com/de/blog/art-of-field-recording/   
@@ -206,7 +203,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
   <img alt="Sonogram of short trainlets clouds." src="/Img/microsound_dark.png">
 </picture>
 *caption*
-</br>
+<br>
 
 Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
 
@@ -233,7 +230,7 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 </picture>
 
 Triangle and Spiral used for the Composition of *1981*
-</br>
+<br>
 
 
 Die in der westlichen Welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
@@ -253,7 +250,7 @@ Auch für Analyse ...
 
 ![Sounddesign](/Img/Sounddesign_Stock.jpg)
 *Sounddesign*
-</br>
+<br>
 
 
 die Gestaltung von Klang ...
@@ -281,7 +278,7 @@ Theater...
 
 ![Foleymaking](/Img/Foley.jpg)
 *Foleymaking*
-</br>
+<br>
 
 
 In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich in einer Aufnahmekabine, der Foleystage, durchgeführt. Mit einfachen Kklangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen der "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt.
@@ -331,7 +328,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
   <img alt="Sound Based Music" src="/Img/sound_based_music_dark.png">
 </picture>
 *caption*
-</br>
+<br>
 
 
 Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
@@ -357,7 +354,7 @@ Pierre Schaeffer
 
 ![Crackle Box](/Img/Crackle_Box.jpeg)
 *Crackle Box*
-</br>
+<br>
 
 ausgehend von 
 
@@ -379,7 +376,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 
 ![DIY-Synth](/Img/CMOS-Synthesizer-Circuitry-based_Sound.jpg)
 *DIY-Synth*
-</br>
+<br>
 
 In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards aufgebaut [...], welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
@@ -403,7 +400,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 ![Modifiziertes Speak & Spell Spielzeug](/Img/Circuit_Bending.jpg)
 *Modifiziertes Speak & Spell Spielzeug*
-</br>
+<br>
 
 Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch
