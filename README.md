@@ -381,7 +381,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 *DIY-Synth*
 </br>
 
-In diesem Teil werden einfache Audioschaltungen auf Steckboards aufgebaut, welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
+In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards aufgebaut [...], welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
 ### Literatur
 
