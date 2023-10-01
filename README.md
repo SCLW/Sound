@@ -128,11 +128,18 @@ PDF
 *caption*
 </br>
 
-Das Buch "The Tuning of the World" von R. Murray Schafer gilt als bedeutender Beitrag zu hat penibel eine neue Hörweise beschrieben und propagiert. Bis heute eine bedeutende Referenz für die Soundstudies.
-Veränderung der Hörgewohnheiten,  
-Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
+Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch wird der Begriff "Soundscape" entwickelt und eine neue Hörweise propagiert.
+Es gilt als bedeutender Beitrag zu den gegenwärtigen Soundstudies und  . Bis heute eine bedeutende Referenz für die Soundstudies.  
+Veränderung der Hörgewohnheiten,   
+Wir betrachten die ästhetischen, politischen und sozialen Überlegungen   ...  
+Klanglandschaften von der naturgegebenen "Lautsphäre  
+kritisches Hören ... und aktive Gestaltung  
 
-ästhetische, politische und soziale Überlegungen   
+Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
+Beziehung zwischen   
+Soundwalk   
+
+
 
 ### Literatur
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
