@@ -70,7 +70,7 @@ Kunst und Technologie
 - Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
 - Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
 - Russolo Videos
 
@@ -100,7 +100,7 @@ Als Vorbereitung für die weiteren Themenblöcke und eine ästhetische Auseinand
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
  [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
@@ -144,7 +144,7 @@ Soundwalk
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
 - Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
 - [The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
 - [A life spent listening: Chris Watson on the hidden music of our world](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
@@ -183,7 +183,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 - Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Experimental recordings: Pickups for electromagnetic fields](https://beepblip.org/in-the-field-with-emf-detector/)  
 - [DIY EMF Microphone](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
 - [EMF Microphone Circuit Example](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
@@ -210,7 +210,7 @@ Eine wichtigen Beitrag zum Verständnis zur Eigenschaft des Klanges brachte Deni
 ### Literatur
 - Roads, Curtis. *Microsound.* MIT, 2004.
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
 - [Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
 - [Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
@@ -239,7 +239,7 @@ Auch für Analyse ...
 ### Literatur
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
 - [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
@@ -268,7 +268,7 @@ Theater...
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 
 
 
@@ -286,7 +286,7 @@ In kleinen Gruppen werden Klangaufnahmen in einem speziell vorbereiteten Bereich
 ### Literatur
 - Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
 
@@ -309,7 +309,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 ### Literatur
 - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
 - [Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
@@ -340,7 +340,7 @@ Pierre Schaeffer
 - Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
 - Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
 
 -->
@@ -363,7 +363,7 @@ Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzu
 ### Literatur
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
@@ -383,7 +383,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 ### Literatur
 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
 - [John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
@@ -412,7 +412,7 @@ Noise, Glitch
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Tone, Yasunao, and Robert Ashley. Yasunao Tone: Noise Media Language. Errant Bodies Press, 2007. 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 ---
@@ -427,7 +427,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
 
 
-### Online Informationen: Texte, Artikel, Musik und Videos aus dem Internet: 
+### Onlinequellen 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
 - [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
 - [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
