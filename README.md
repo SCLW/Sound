@@ -122,10 +122,10 @@ PDF
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/RMSchafer_light.png">
-  <img alt=" " src="/Img/RMSchafer_dark.png">
+  <img alt="Schwarzweiß-Grafik aus dem Buch "The Tuning of the World" von R. M. Schafer über die Jahreszyklen verschiedener Klänge" src="/Img/RMSchafer_dark.png">
 </picture>
 
-*caption*
+*Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre der Westküste von British Columbia im Verlauf eines Jahres.*
 </br>
 
 Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch wird der Begriff "Soundscape" entwickelt und eine neue Hörweise propagiert.
