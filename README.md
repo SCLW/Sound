@@ -44,8 +44,9 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 *Intonarumori*
 <br>
 
-In der Einführung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt.
-Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die verstärkte Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten einer klaren Einordnung und Abgrenzung herausgearbeitet. Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
+In der ersten Sitzung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert.  
+
+Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
 
 
 <!--
@@ -85,7 +86,7 @@ Kunst und Technologie
 [Image: Graph? Formel Ästhetik]
 
 
-Als Vorbereitung für die weiteren Themenblöcke und eine ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage, was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit dem Verständnis von Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen zwischen Klang, Ton und Geräusch und betrachten das Verhältnis von Klangursache und dem eigentlichen Klang.
+Als Vorbereitung für die weiteren Themenblöcke und eine flankierende ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage, was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit diesem Wissen über Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen zwischen Klang, Ton und Geräusch und das Verhältnis von Klangursache und eigentlichem Klang.
 
 
 
@@ -126,16 +127,16 @@ Als Vorbereitung für die weiteren Themenblöcke und eine ästhetische Auseinand
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
 <br>
 
-Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch wird der Begriff "Soundscape" entwickelt und eine neue Hörweise propagiert.
-Es gilt als bedeutender Beitrag zu den gegenwärtigen Soundstudies und  . Bis heute eine bedeutende Referenz für die Soundstudies.  
+Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde in den späten 60er Jahren die sogenannte akustische Umweltforschung begründet. In dem Buch entwickelte er den Begriff "Soundscape" und propagierte kritischen Hören als eine neue Hörweise. Das Buch gilt als bedeutender Beitrag zu den neueren Akademischen ... Soundstudies und  .gilt als  bedeutende Referenz für die Soundstudies.  
 Veränderung der Hörgewohnheiten,   
-Wir betrachten die ästhetischen, politischen und sozialen Überlegungen   ...  
+
+Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
 Klanglandschaften von der naturgegebenen "Lautsphäre  
 kritisches Hören ... und aktive Gestaltung  
 
 Die Soundscape als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur.  
-Beziehung zwischen   
-Soundwalk   
+
+Soundwalks und Fieldrecording     
 
 
 
