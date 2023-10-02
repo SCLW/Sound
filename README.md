@@ -279,7 +279,7 @@ Wie auf Klanglicher Ebene durch einen Film geführt wird.
 *Foleymaking*
 <br>
 
-Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Klänge sehr spezifisch gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und stofflich angepasst werden.
+Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
 
 
 
@@ -330,15 +330,9 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 *Crackle Box*
 <br>
 
-ausgehend von 
+Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Individualisierung eines Massenproduktes: Selbstgebaute Klangerzeuger erlauben kreative Ausdrucksmöglichkeiten und erweitern das Klangspektrum gegenüber industriell gefertigten Instrumenten und Tools. Es werden die Tradition des Selbermachens und die Ursprünge der Makerkultur bis hin zu den aktuellen DIY-Praktien in der elektronischen Musik beleuchtet.
 
-Die Nutzung selbstgebauter Instrumente hat in der Musik eine lange Tradition.  
-Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden  
-Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Individualisierung eines Massenproduktes: 
 
-oder als kreative Erweiterung des Klangspektrums, 
-
-durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
 
 
 
@@ -392,13 +386,7 @@ und der kreative Elemente der elektronischen Musik ...
 Wir befassen uns in dieser Praxiseinheit mit Hardwarehacking und Circuit Bending (PDF suchen)  
 
 Reed Ghazala zufolge prägte er den Begriff "Circuit Bending" und bezeichnet damit das kreative Modifizieren und Verändern von massenproduzierter Audiohardware, um den eigentlichen Klang des Gerätes zu verzerren oder zu dekonstruieren. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern und das Samplen der so erzeugten Störgeräusche. 
-Als Ausgangsmaterial für Noise oder Glitch ...
-
-
-Es lassen sich ungewöhnliche Störgeräusche, wie Clicks, Rauschen oder Drones erzeugen. 
-
-Unter der Bezeichnung Glitch   
-Noise, Glitch (Hardwarehacking)
+... Als Ausgangsmaterial für Noise oder Glitch etablierten sich durch diese ... in den 90er Jahre eigene Subgenres der elektronischen Musik.
 
 
 
