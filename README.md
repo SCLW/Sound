@@ -390,6 +390,16 @@ Reed Ghazala zufolge prägte er den Begriff "Circuit Bending" und bezeichnet dam
 
 
 
+
+What is Circuit Bending? So, what is it, really? How do circuits bend? The short answer: Circuit bending describes the modification of an electronic sound device beyond the designer’s intentions, adding new sonic and functional possibilities. Although there are many approaches to circuit bending, in general, the bending target will preserve its normal operation and is just enhanced with switches, potentiometers, body contacts, or jacks that will invoke the functions or sounds.
+
+Circuit benders usually are not electronics experts, nor do they have service and repair manuals for the devices to be bent. The process of bending is one of trial and error, carefully avoiding risking the health of both the bender and his target. Anyone, even children (supervised by a seasoned bender) can do it, as long as some basic rules are followed.
+
+
+
+
+
+
 ### Literatur
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
