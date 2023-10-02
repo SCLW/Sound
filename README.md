@@ -84,7 +84,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 ### Literatur
-- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
 - Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
@@ -406,7 +406,8 @@ Noise, Glitch (Hardwarehacking)
 
 ## Sound Art
 
-"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise mit dem Philips-Pavillon als multimediales Kunstwerk ...
+"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien mit Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon münden.  
+...
 
 Max Neuhaus  
 Bill Fontana    
