@@ -398,7 +398,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
 - Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
-
+- De, La Motte-Haber Helga. *Klangkunst Erschienen Anlässlich von Sonambiente, Festival Für Hören Und Sehen, Internationale Klangkunst Im Rahmen Der 300-Jahrfeier Der Akademie Der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
 
 ### Onlinequellen 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
