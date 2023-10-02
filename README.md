@@ -359,7 +359,8 @@ durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer K
 *DIY-Synth*
 <br>
 
-In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
+In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
+
 Klangsynthese
 
 und der kreative Elemente der elektronischen Musik ...  
@@ -387,7 +388,9 @@ und der kreative Elemente der elektronischen Musik ...
 *Modifiziertes Speak & Spell Spielzeug*
 <br>
 
-Das kreative Modifizieren und Verändern von Hardware im Audiobereich ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
+Das kreative Modifizieren und Verändern von Hardware im Audiobereich 
+
+ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch (Hardwarehacking)
 
 
@@ -420,7 +423,7 @@ Pendulum von Steve Reich
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
 - Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
-- De, La Motte-Haber Helga. *Klangkunst Erschienen Anlässlich von Sonambiente, Festival Für Hören Und Sehen, Internationale Klangkunst Im Rahmen Der 300-Jahrfeier Der Akademie Der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
+- De, La Motte-Haber Helga. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
 - Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 
