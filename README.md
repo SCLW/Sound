@@ -383,7 +383,7 @@ Noise, Glitch (Hardwarehacking)
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
-- Tone, Yasunao, and Robert Ashley. Yasunao Tone: Noise Media Language. Errant Bodies Press, 2007. 
+- Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
 ### Onlinequellen 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
