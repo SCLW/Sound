@@ -231,6 +231,15 @@ Triangle and Spiral used for the Composition of *1981*
 <br>
 
 
+ zeitliche Tonhöhenstrukturen  
+Dokumentation, für die Interpretation, Skizzierung von Ideen  
+Aber auch die Analyse und andere Werke studieren zu können   
+
+traditionelle Notationsweise  
+Klangfarbe und zufällige Elemente  
+graphische“ Notationsformen  
+Interpretationsspielraum   
+
 Die in der westlichen Welt entstandenen Notationssystem, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Isntrumenten an ihre Grenzen. Seit dem stellt sich die Frage.
 Auch für Analyse ...
 
