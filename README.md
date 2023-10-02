@@ -43,7 +43,10 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 *Intonarumori*
 <br>
 
-In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von "Klang" in der  Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
+In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von "Klang" in der  Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
+
+Technologisierung
+Audiotechnik
 
 
 
@@ -400,6 +403,13 @@ Noise, Glitch (Hardwarehacking)
 ---
 
 ## Sound Art
+
+
+Klanginstallation, -skulptur, -performance, Akustische Kunst, Radiokunst  
+
+
+intermedial  
+Raum  
 
 Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
