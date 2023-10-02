@@ -406,17 +406,12 @@ Noise, Glitch (Hardwarehacking)
 
 ## Sound Art
 
-"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Als Vorläufer der Klanginstallation können architektonische Überlegungen zur Konzeption der Raumakustik angenommen werden. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Parallel dazu führen Entwicklungen der Telekommunikations- und Filmtechnik zu neuen künstlerischen Ausdrucksmöglichkeiten.
-Wie beschäftigen uns mit den herausragenden Vertret  
+"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise mit dem Philips-Pavillon als multimediales Kunstwerk ...
 
 Max Neuhaus  
 Bill Fontana    
 Steve Reich  
 John Cage  
-
-
-Philips-Pavillon   
-der Weltausstellung
 Pendulum von Steve Reich 
 
 
