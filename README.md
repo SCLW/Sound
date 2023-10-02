@@ -404,15 +404,20 @@ Noise, Glitch (Hardwarehacking)
 
 ## Sound Art
 
-intermedial  
-Raum  
+"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Als Vorläufer der Klanginstallation können architektonische Überlegungen zur Konzeption der Raumakustik angenommen werden. Seit dem Beginn des 20. Jahrhunderts bilden sich aus avantgardistischen Strömungen heraus neuartige Kompositionsformen und Hörgewohnheiten heraus. Parallel dazu führen Entwicklungen der Telekommunikations- und Filmtechnik zu neuen künslterischen Ausdrucksmöglichkeiten.
+Wie betrachten  
 
-Klanginstallation, -skulptur, -performance, Akustische Kunst, Radiokunst  
+Max Neuhaus  
+Bil Fontana  
+Steve Reich  
+John Cage  
 
 
 
 
-Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
+ Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
+
+
 
 ### Literatur
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
@@ -429,7 +434,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 - Video pendulum Music
 - Video Max Neuhaus Time Square ()
 - Video Zimoun
-
+- Imaginary Landscapes
 
 
 
