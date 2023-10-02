@@ -12,7 +12,6 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 
-
 ## Termine Wintersemester 2023-2024
 
 |	 Dates  	|	 Topic                                                                                  	|
@@ -255,6 +254,8 @@ Auch für Analyse ...
 
 Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Als weitere Referenz ziehen wir das Buch "Sound Design: Die Virtuelle Klangwelt des Films." von Barbara Flückiger heran.
 
+Die Wirkung bestimmer Erzählmittel ...   
+Wie auf Klanglicher Ebene durch einen Film geführt wird.
 
   
 ### Literatur
@@ -276,6 +277,11 @@ Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound
 <br>
 
 Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen in einem speziell vorbereiteten Bereich einer Aufnahmekabine, der Foleystage, durchgeführen. Mit einfachen Klangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen den gewünschten "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt. [...]
+
+Aufnahme von Geräuschen und Soundeffekten  
+Bearbeitung und Manipulation von Audio  
+
+
 
 
 
