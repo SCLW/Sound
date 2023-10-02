@@ -190,18 +190,8 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 <br>
 
 
-Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorische dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat.
-Dem Inhalt seines Buchs "Microsound" folgend, beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, der Arbeit auf diesem Feld von Iannis Xenakis sowie mit den kompositorischen Techniken, diese winzigen Bausteine nach unterschiedlichen Organisationsprinzipien zu steuern.
-
-verhalten und empfunden werden.
-Kompositionstheorie, historische Darstellungen, technische Übersichten, akustische Experimente, Beschreibungen musikalischer Werke und ästhetische Überlegungen
-
-
-
-
-
-
-
+Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorische dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat.
+Dem Inhalt seines Buchs "Microsound" folgend, beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, der Arbeit auf diesem Feld von Iannis Xenakis sowie mit den kompositorischen Techniken, diese winzigen Bausteine nach unterschiedlichen Organisationsprinzipien zu steuern und den ästhetischen Ergebnissen.
 
 
 
@@ -263,7 +253,7 @@ Auch für Analyse ...
 
 
 
-Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos) [...] werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Sound im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Dafür ziehen wir das Buch Sound Design: Die Virtuelle Klangwelt des Films. von Barbara Flückiger.
+Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Als weitere Referenz ziehen wir das Buch "Sound Design: Die Virtuelle Klangwelt des Films." von Barbara Flückiger heran.
 
 
   
@@ -302,7 +292,7 @@ Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Grupp
 ## Spektralmusik
 
 Unter dem Begriff Spektralmusik werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetz.
-Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden.
+Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden.  
 In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. Stücke verschiedener Spektralisten aus dem Bereich der Computermusik vorgestellt und diskutiert:
 * Jonathan Harvey
 * Klarenz Barlow
