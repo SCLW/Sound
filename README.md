@@ -44,21 +44,12 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 *Intonarumori*
 <br>
 
-In der ersten Sitzung werden die künstlerischen und wissenschaftlichen Bereiche, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert.  
+In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des beginnenden letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von "Klang" in der  Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
 
-
-<!--
-Zudem wird ein kurz herausgearbeitet, wie die Entwicklungen der Telekommunikationstechnik eine naturwissenschaftlich/analytische Betrachtung von "Klang" vorangetrieben haben, und wie daraus die Grundlagen für die elektronische und elektroaktustische Musik geschaffen wurde. Eine Durchdringung der Bereiche Technologie und Kunst, wie sie uns im Laufe der Veranstaltung wiederholt begegnen wird.
-(wie ihre Wirkung auf die menschliche Wahrnehmung und das Handeln haben.)
-welche zusammen mit der Technikbegeisterung in der Musik zu neuartigen Kompositionsansätzen führte, 
-
-wie der Überwindung der Tonalität und der Verwendung neuartiger Instrumente und nicht-musikalischen Tonmaterials, wird verfolgt, wie sich auch in anderen Kunstformen, wie dem Film, Theater oder der Klangkunst, eine verstärkte Auseinandersetzung mit "Klang" etablierte.
--->
 
 
 ### Literatur
 
-Kunst und Technologie   
 
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
@@ -85,7 +76,7 @@ Kunst und Technologie
 [Image: Graph? Formel Ästhetik]
 
 
-Als Vorbereitung für die weiteren Themenblöcke und eine flankierende ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage, was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit diesem Wissen über Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen zwischen Klang, Ton und Geräusch und das Verhältnis von Klangursache und eigentlichem Klang.
+Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage, was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit diesem Wissen über Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen zwischen Klang, Ton und Geräusch und das Verhältnis von Klangursache und eigentlichem Klang.
 
 
 
@@ -199,16 +190,13 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 <br>
 
 
-Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb des Tons dar. Diese äußerst kurzen Partikel können heutzutage mithilfe digitaler Verfahren kompositorische dynamische verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften dieser Klänge schuf Curtis Roads. Gleichzeitig ist es Komponist ...   
-Wir folgen dem Buch Microsounds gibt einen 
-Überblick über die Geschichte des Microsounds und wie sich diese winzigen Bausteine in verschiedenen Organisations... verhalten und empfunden werden.
+Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorische dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat.
+Dem Inhalt seines Buchs "Microsound" folgend, beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, der Arbeit auf diesem Feld von Iannis Xenakis sowie mit den kompositorischen Techniken, diese winzigen Bausteine nach unterschiedlichen Organisationsprinzipien zu steuern.
+
+verhalten und empfunden werden.
+Kompositionstheorie, historische Darstellungen, technische Übersichten, akustische Experimente, Beschreibungen musikalischer Werke und ästhetische Überlegungen
 
 
-Klanges brachte Denis Garbor im Jahre. Ianis Xinakis griff dies als kompositorische Technik auf und Curtis Roads eingehenden Untersuchungen und musikalischen Werke ...
-
-<!--
-Unterhalb der Ebene der Musiknote liegt das Reich des Mikroklangs, der Klangpartikel, die weniger als eine Zehntelsekunde dauern. Jüngste technologische Fortschritte ermöglichen es uns, diese Klangpunkte zu erforschen und zu manipulieren und die traditionellen Bausteine der Musik - Noten und ihre Intervalle - in ein flüssigeres und geschmeidigeres Medium aufzulösen. Die Empfindungen von Punkt, Puls (Reihe von Punkten), Linie (Ton) und Oberfläche (Textur) treten mit zunehmender Partikeldichte auf. Klänge verschmelzen, verflüchtigen sich und mutieren zu anderen Klängen. Komponisten haben seit den 1950er Jahren Theorien über Mikroklänge in der Computermusik verwendet. Zu den bekanntesten Vertretern gehören Karlheinz Stockhausen und Iannis Xenakis. Heute, mit dem zunehmenden Interesse an Computer- und elektronischer Musik, erforschen viele junge Komponisten und Software-Synthese-Entwickler die Vorteile dieser Methode. Microsound deckt alle Aspekte der Komposition mit Klangpartikeln ab und bietet Kompositionstheorie, historische Darstellungen, technische Übersichten, akustische Experimente, Beschreibungen musikalischer Werke und ästhetische Überlegungen.
--->
 
 
 
@@ -266,7 +254,7 @@ Auch für Analyse ...
 
 
 
-Vom Sounddesign im Film, Computerspiel oder in X-Realities, Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design im öffentlicher Räumen oder dem Produkt-Sounddesign (E-Autos) werden gesellschaftlichen, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Sound im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Dafür ziehen wir das Buch Sound Design: Die Virtuelle Klangwelt des Films. von Barbara Flückiger.
+Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos) [...] werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Sound im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Dafür ziehen wir das Buch Sound Design: Die Virtuelle Klangwelt des Films. von Barbara Flückiger.
 
 
   
@@ -324,33 +312,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 
 
-<!--
----
 
-## "Sound Based Music" und "Organized Sound"
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/sound_based_music_light.png">
-  <img alt="Sound Based Music" src="/Img/sound_based_music_dark.png">
-</picture>
-*caption*
-<br>
-
-
-Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
-Der Versuch, das klassisch Musikalische zu erweitern...  
-Pierre Schaeffer  
-
-### Literatur
-- Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
-- Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
-- Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
-
-### Onlinequellen 
-- [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
-
--->
 
 
 
@@ -480,4 +442,30 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 | Dezember | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So |
 | Januar   | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi |
 | Februar  | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do |    |    |
+
+
+---
+
+"Sound Based Music" und "Organized Sound"
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/sound_based_music_light.png">
+  <img alt="Sound Based Music" src="/Img/sound_based_music_dark.png">
+</picture>
+*caption*
+<br>
+
+
+Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
+Der Versuch, das klassisch Musikalische zu erweitern...  
+Pierre Schaeffer  
+
+### Literatur
+- Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
+- Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
+- Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
+
+### Onlinequellen 
+- [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
 
