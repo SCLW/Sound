@@ -404,12 +404,13 @@ Noise, Glitch (Hardwarehacking)
 
 ## Sound Art
 
+intermedial  
+Raum  
 
 Klanginstallation, -skulptur, -performance, Akustische Kunst, Radiokunst  
 
 
-intermedial  
-Raum  
+
 
 Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei der Konzeption von Räumen zurückführen. Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
 
@@ -418,6 +419,8 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 - Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
 - De, La Motte-Haber Helga. *Klangkunst Erschienen Anlässlich von Sonambiente, Festival Für Hören Und Sehen, Internationale Klangkunst Im Rahmen Der 300-Jahrfeier Der Akademie Der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
+- Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
+
 
 ### Onlinequellen 
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
@@ -439,12 +442,6 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 ## Referate
 
 
-<!--
-
-# Basisliteratur zu "Sound" und Texte zur Klangästhetik
-- Barlow, Klarenz. *On Musiquantics.* Bereich Musikinformatik, Musikwissenschaftliches Institut, Johannes Gutenberg-Universität Mainz, 2012. 
-
--->
 
 
 ---
@@ -462,22 +459,7 @@ Vorläufer der Klanginstallation lassen sich auf akustische Überlegungen bei de
 | Februar  | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do |    |    |
 
 
----
 
-"Sound Based Music" und "Organized Sound"
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/sound_based_music_light.png">
-  <img alt="Sound Based Music" src="/Img/sound_based_music_dark.png">
-</picture>
-*caption*
-<br>
-
-
-Im Gegensatz zur etablierten Notationsbasierten Musik, ...  
-Der Versuch, das klassisch Musikalische zu erweitern...  
-Pierre Schaeffer  
 
 ### Literatur
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
