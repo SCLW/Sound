@@ -391,10 +391,13 @@ und der kreative Elemente der elektronischen Musik ...
 
 Wir befassen uns in dieser Praxiseinheit mit Hardwarehacking und Circuit Bending (PDF suchen)  
 
+Reed Ghazala zufolge prägte er den Begriff "Circuit Bending" und bezeichnet damit das kreative Modifizieren und Verändern von massenproduzierter Audiohardware, um den eigentlichen Klang des Gerätes zu verzerren oder zu dekonstruieren. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern und das Samplen der so erzeugten Störgeräusche. 
+Als Ausgangsmaterial für Noise oder Glitch ...
 
-Das kreative Modifizieren und Verändern von Hardware kann ungewöhnliche Störgeräusche, wie Clicks, erzeugen. Unter der Bezeichnung Glitch   
 
-ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
+Es lassen sich ungewöhnliche Störgeräusche, wie Clicks, Rauschen oder Drones erzeugen. 
+
+Unter der Bezeichnung Glitch   
 Noise, Glitch (Hardwarehacking)
 
 
