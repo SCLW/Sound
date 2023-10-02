@@ -326,7 +326,10 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 ausgehend von 
 
-Ob aus Mangel an Möglichkeiten oder als bewusste Anti-Konsum Haltung, die Nutzun selbstgebauter Instrumente hat im künslterischen Bereich eine lange Tradition. Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden
+Die Nutzung selbstgebauter Instrumente hat in der Musik eine lange Tradition. Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden
+Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Individualisierung eines Massenproduktes: 
+
+oder als kreative Erweiterung des Klangspektrums, 
 
 durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer Klangspektren von Instrumenten ...
 
