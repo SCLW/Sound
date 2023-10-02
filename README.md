@@ -279,7 +279,7 @@ Wie auf Klanglicher Ebene durch einen Film geführt wird.
 *Foleymaking*
 <br>
 
-Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Audioeffekte und geschickte Montage können Klänge sehr spezifisch gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und stofflich angepasst werden.
+Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Klänge sehr spezifisch gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und stofflich angepasst werden.
 
 
 
@@ -332,7 +332,8 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey, u.a. S
 
 ausgehend von 
 
-Die Nutzung selbstgebauter Instrumente hat in der Musik eine lange Tradition. Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden
+Die Nutzung selbstgebauter Instrumente hat in der Musik eine lange Tradition.  
+Der Versuch, neue künstlerische Ausdrucksmöglichkeiten zu finden  
 Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Individualisierung eines Massenproduktes: 
 
 oder als kreative Erweiterung des Klangspektrums, 
@@ -388,7 +389,10 @@ und der kreative Elemente der elektronischen Musik ...
 *Modifiziertes Speak & Spell Spielzeug*
 <br>
 
-Das kreative Modifizieren und Verändern von Hardware im Audiobereich 
+Wir befassen uns in dieser Praxiseinheit mit Hardwarehacking und Circuit Bending (PDF suchen)  
+
+
+Das kreative Modifizieren und Verändern von Hardware kann ungewöhnliche Störgeräusche, wie Clicks, erzeugen. Unter der Bezeichnung Glitch   
 
 ist als Circuit Bending eine musikalische Praxis. Das Eingreifen in die Schaltkreise von massenproduzierten elektronischen Instrumenten oder auch Musikspiellzeugen für Kinder erlaubt ungewöhnliche Kläne zu erzeugen, teilweise neuartig, teilweise in ihrer Grundeigenschaften klanglich eine Referenz zum gehackten Gerät.
 Noise, Glitch (Hardwarehacking)
