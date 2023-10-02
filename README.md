@@ -359,9 +359,11 @@ durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer K
 *DIY-Synth*
 <br>
 
-In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Instrumente und beschäftigen uns mit der Gestaltung von Interfaces. 
+In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
+Klangsynthese
 
-welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
+und der kreative Elemente der elektronischen Musik ...  
+
 
 ### Literatur
 
