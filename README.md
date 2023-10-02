@@ -71,7 +71,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 ---
 
-## Die Beziehung zwischen Klang Ton und Geräusch 
+## Die Beziehung zwischen Klang, Ton und Geräusch 
 
 [Image: Graph? Formel Ästhetik]
 
