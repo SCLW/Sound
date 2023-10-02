@@ -362,7 +362,9 @@ durch eine Durchdringung der zugrundeliegenden Technik oder das Ausloten neuer K
 *DIY-Synth*
 <br>
 
-In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards aufgebaut [...], welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
+In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Instrumente und beschäftigen uns mit der Gestaltung von Interfaces. 
+
+welche über Sensoren gesteuert werden können. Anhand eines selbstgebauten Oszillators werden Grundlagen der Elektronik vermittelt und musikalisch-klangliche Aspekte des Interfacedesigns und der kreative Elemente der elektronischen Musik ...
 
 ### Literatur
 
@@ -404,18 +406,18 @@ Noise, Glitch (Hardwarehacking)
 
 ## Sound Art
 
-"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Als Vorläufer der Klanginstallation können architektonische Überlegungen zur Konzeption der Raumakustik angenommen werden. Seit dem Beginn des 20. Jahrhunderts bilden sich aus avantgardistischen Strömungen heraus neuartige Kompositionsformen und Hörgewohnheiten heraus. Parallel dazu führen Entwicklungen der Telekommunikations- und Filmtechnik zu neuen künslterischen Ausdrucksmöglichkeiten.
-Wie betrachten  
+"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Als Vorläufer der Klanginstallation können architektonische Überlegungen zur Konzeption der Raumakustik angenommen werden. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Parallel dazu führen Entwicklungen der Telekommunikations- und Filmtechnik zu neuen künstlerischen Ausdrucksmöglichkeiten.
+Wie beschäftigen uns mit den herausragenden Vertret  
 
 Max Neuhaus  
-Bil Fontana  
+Bill Fontana    
 Steve Reich  
 John Cage  
 
 
-
-
- Aus den Anfängen der Installationskunst der Avantgarde der vorletzten Jahrhundertwende über die Realisation elektroakustischer Architektur, wie dem Phillipspavillion bis hin zu installativen Kompositionen wie Pendulum von Steve Reich werden verschiedene Aspekte der Soundart vorgestellt und besprochen.
+Philips-Pavillon   
+der Weltausstellung
+Pendulum von Steve Reich 
 
 
 
