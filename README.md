@@ -279,10 +279,7 @@ Wie auf Klanglicher Ebene durch einen Film geführt wird.
 *Foleymaking*
 <br>
 
-Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen in einem speziell vorbereiteten Bereich einer Aufnahmekabine, der Foleystage, durchgeführen. Mit einfachen Klangmanipulationen, ausgeführt mit einer DAW, werden die Aufnahmen den gewünschten "Szene" angepasst. Verschiedene Beispiel, um bestimmte Effekt zu erzeugen, werden vorgeführt. [...]
-
-Aufnahme von Geräuschen und Soundeffekten  
-Bearbeitung und Manipulation von Audio  
+Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Audioeffekte und geschickte Montage können Klänge sehr spezifisch gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und stofflich angepasst werden.
 
 
 
