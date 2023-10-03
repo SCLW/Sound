@@ -225,9 +225,11 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 
 
 
-Das etablierte Notationssystem der westlichen Musik erlaubt die Darstellung zeitlicher Tonhöhenstrukturen und beinhaltet ein Repertoir an Spielanweisungen für klassische Instrumente. Neben der Funktion der Dokumentation, Interpretation oder der Skizzierung von Ideen erlaubt die Notation auch die Analyse von musikalischen Werken.
-Jedoch lassen sich Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden. Gerade mit dem Aufkommen neuer Musikformen, wie der elektronischen Musik, der Computermusik oder allgemein der "Sound Based Music" ...
+Das etablierte Notationssystem der westlichen Musik erlaubt die Darstellung zeitlicher Tonhöhenstrukturen und beinhaltet ein Repertoir an Spielanweisungen für klassische Instrumente. Neben der Funktion der Dokumentation, Interpretation oder Synchronisation erlaubt die Notation auch die Analyse von musikalischen Werken.
+Da sich jedoch ... nicht
+Jedoch lassen sich Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden. Gerade mit dem Aufkommen neuer und experimenteller Musikformen sind grafische Notationen und
 
+Ästhetik  
 bilden sich grafische Notationsformen
 
 traditionelle Notationsweise  
