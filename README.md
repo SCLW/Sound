@@ -1,7 +1,6 @@
 # Sound (Theorie und Praxis)
 
 
-* Text zu Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound ...
 * Bilder und Bildunterschriften
 * Links und Referennzen
 
@@ -227,10 +226,7 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 
 
 Das etablierte Notationssystem der westlichen Musik erlaubt die Darstellung zeitlicher Tonhöhenstrukturen und beinhaltet ein Repertoir an Spielanweisungen für klassische Instrumente. Neben der Funktion der Dokumentation, Interpretation oder der Skizzierung von Ideen erlaubt die Notation auch die Analyse von musikalischen Werken.
-Klangfarbe, zufällige Elemente und komplexe Zeitstrukturen lassen sich jedoch kaum oder gar nicht mit dem klassischen Notationssystem abbilden.
-
-
-Mit dem Aufkommen elektronischer Musik und der Computermusik oder experimenteller Musik 
+Jedoch lassen sich Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden. Gerade mit dem Aufkommen neuer Musikformen, wie der elektronischen Musik, der Computermusik oder allgemein der "Sound Based Music" ...
 
 bilden sich grafische Notationsformen
 
