@@ -214,17 +214,23 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 <!-- IMAGE -->
 ???????
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/Barlow_Notation_light.png">
   <img alt="Graphical score with three symbols for the instruments, violin, cello and piano, describing an individual spiral starting at the centre of an equilateral triangle with the composers Clementi, Schumann and Ravel at the apices marked “C”, “S” and “R”" src="/Img/Barlow_Notation_dark.png">
 </picture>
 
-*Klarenz Barlow nutzte Dreieck und Spirale als Notation für sein Stück "1981"*
+*Klarenz Barlow nutzte Dreieck und Spirale für sein Stück "1981"*
 <br>
 
 
+
+
+
+
  zeitliche Tonhöhenstrukturen  
-Dokumentation, für die Interpretation, Skizzierung von Ideen  
+Dokumentation, Aufführung, Interpretation, Skizzierung von Ideen  
 Aber auch die Analyse und andere Werke studieren zu können   
 
 traditionelle Notationsweise  
@@ -236,6 +242,14 @@ Die in der westlichen Welt entstandenen Notationssysteme, die nur eine abstrakte
 Auch für Analyse ...
 
 
+---
+
+
+Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, indem er untersucht, wie sie klassifiziert, synthetisiert, erkannt und mit visuellen Korrespondenzen in Beziehung gesetzt werden können, und dann die Relevanz dieser Themen für die Notation untersucht. Die Klangfarbe wird als abhängig von spektralen und zeitabhängigen Merkmalen verstanden, die auf eine Weise notiert werden können, die sowohl in Bezug auf die Wahrnehmung als auch auf die Akustik sinnvoll ist. Dies wird erreicht, indem man den Ausgangspunkt der spektromorphologischen Analyse von Lasse Thoresen nimmt. Symbole, die ursprünglich für die wahrnehmungsbasierte Analyse entwickelt wurden, werden für die Verwendung in einem hybriden Spektrum-Stab-System angepasst, um die spektralen Eigenschaften der Klangfarbe anzuzeigen. Um das System zu testen, wurde es zur Transkription von Ausschnitten aus drei klassischen elektroakustischen Musikwerken verwendet. Neben dem Vorteil, dass die drei mit demselben System transkribierten Ausschnitte verglichen werden können, besteht der Vorteil darin, dass die visuelle Darstellung auf spektral messbaren Qualitäten in der Musik beruht. Die Intuitivität des Notationssystems wurde auch in Hörtests untersucht, die zeigten, dass es möglich war, spektrale Notationssymbole, die über ein Notensystem gelegt wurden, zu verstehen, insbesondere bei Beispielen mit zwei Klangobjekten anstelle von einem.
+
+
+
+
 
 ### Literatur
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
@@ -243,6 +257,12 @@ Auch für Analyse ...
 ### Onlinequellen 
 - [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
 - [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
+
+
+
+
+
+
 
 
 ---
