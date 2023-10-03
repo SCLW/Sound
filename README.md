@@ -150,7 +150,7 @@ Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde i
 ## Field Recordings
 
 ![Field Recording](/Img/Fieldrecording_Teneva.jpg)
-*Field Recordist mit Aufnahmegerät. Copyright: R. Teneva*
+*Field Recordist mit Aufnahmegerät. © photo: R. Teneva*
 <br>
 
 
@@ -429,8 +429,8 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 
 ## Sound Art
 
-![](/Img/.jpg)
-*Caption*
+![Mehrkanal Installation](/Img/2015_hfg_insonic.jpg)
+*Mehrkanal Lautsprecher Installation © photo: Malte Bruns, editing: Paul Modler*
 <br>
 
 
