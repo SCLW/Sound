@@ -219,7 +219,7 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
   <img alt="Graphical score with three symbols for the instruments, violin, cello and piano, describing an individual spiral starting at the centre of an equilateral triangle with the composers Clementi, Schumann and Ravel at the apices marked “C”, “S” and “R”" src="/Img/Barlow_Notation_dark.png">
 </picture>
 
-Triangle and Spiral used for the Composition of *1981*
+*Klarenz Barlow nutzte Dreieck und Spirale als Notation für sein Stück "1981"*
 <br>
 
 
