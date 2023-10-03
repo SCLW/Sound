@@ -1,8 +1,14 @@
 # Sound (Theorie und Praxis)
 
-
-* Bilder und Bildunterschriften
 * Links und Referennzen
+* Bilder und Bildunterschriften
+* Bilder:
+  * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt)
+  * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (neu)
+  * Sounddesign und akustische Klanggestaltung (neu)
+  * Foley und Audio Postproduktion (neu)
+  * Spektralmusik (fehlt)
+  * Sound Art (fehlt)
 
   
 
