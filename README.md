@@ -213,6 +213,7 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
 <!-- IMAGE -->
+???????
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/Barlow_Notation_light.png">
