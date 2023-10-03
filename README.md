@@ -189,11 +189,11 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 ## Sound Partikel und Microsounds
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/microsound_light.png">
-  <img alt="Sonogram of short trainlets clouds." src="/Img/microsound_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/Pulse_light.png">
+  <img alt="Pulse" src="/Img/Pulse_dark.png">
 </picture>
 
-*Sonogram of short trainlets clouds.*
+*Zeitdiagramm eines Pulses*
 <br>
 
 
