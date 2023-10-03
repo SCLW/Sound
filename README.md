@@ -1,5 +1,10 @@
 # Sound (Theorie und Praxis)
 
+- Bild: Sonogramm
+- Foto: Was ist Schall
+- Foto: Foley
+- Text: Klassifikation
+
 * Links und Referenzen
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt) was ist Schall: schwingende Saiten oder so
@@ -8,7 +13,7 @@
   * Foley und Audio Postproduktion (neu)
   * Spektralmusik (fehlt) xx
 
-  
+
 
 Eine Vielzahl an Forschungs- und Arbeitsdisziplinen haben in jüngerer Zeit ihr Untersuchungspektrum um akustische und auditive Phänomene erweitert. Unter dem englischen Begriff "Sound" werden aus verschiedenen Fragerichtungen heraus dessen Durchdringung der Bereiche Technik, Gesellschaft, Kunst, Philosophie, Ästhetik und Wahrnehmungspsychologie behandelt. In diesem Seminar wird der Gegenstandsbereich "Sound" in verschiedenen Kontexten näher betrachtet. Dabei werden sowohl aktuelle als auch historische Ansätze und Positionen untersucht. Das Ziel ist es, vor diesem Hintergrund "Sound" klarer zu konturieren. Durch praxisorientierte Unterrichtseinheiten mit Workshopcharakter werden einzelne Aspekte vertieft.  
 
