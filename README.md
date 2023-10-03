@@ -44,7 +44,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
 
 ![Intonarumori](/Img/Intonarumori.jpg)
-*Intonarumori*
+*Intonarumori - experimentelle Instrumente des futuristischen Künstlers Luigi Russolo*
 <br>
 
 In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von "Klang" in der Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
@@ -145,10 +145,10 @@ Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde i
 
 ---
 
-## Fieldrecordings
+## Field Recordingss
 
-![Fieldrecording](/Img/Fieldrecording_Teneva.jpg)
-*Fieldrecording by R. Teneva*
+![Field Recording](/Img/Fieldrecording_Teneva.jpg)
+*Field Recordist mit Aufnahmegerät. Copyright: R. Teneva*
 <br>
 
 
@@ -190,7 +190,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
   <source media="(prefers-color-scheme: dark)" srcset="/Img/microsound_light.png">
   <img alt="Sonogram of short trainlets clouds." src="/Img/microsound_dark.png">
 </picture>
-*caption*
+*Sonogram of short trainlets clouds.*
 <br>
 
 
@@ -399,6 +399,11 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 ---
 
 ## Sound Art
+
+![](/Img/.jpg)
+*Caption*
+<br>
+
 
 "Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 
