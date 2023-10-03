@@ -154,7 +154,7 @@ https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd27
 *Klang elektromagnetischer Felder eines Computers*
 <br>
 
-Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung an und beginnen mit [...] den grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen. Im Anschluss arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem "kritischen Hören" an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
 
 
 https://www.ableton.com/de/blog/art-of-field-recording/   
@@ -424,7 +424,7 @@ Pendulum von Steve Reich
 - Video Max Neuhaus Time Square ()
 - Video Zimoun
 - Imaginary Landscapes
-
+- [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 
 
 
