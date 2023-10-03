@@ -1,13 +1,12 @@
 # Sound (Theorie und Praxis)
 
 * Links und Referenzen
-* Bilder und Bildunterschriften
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt) was ist Schall: schwingende Saiten oder so
   * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Sonogramm) xx
   * Sounddesign und akustische Klanggestaltung (neu)
   * Foley und Audio Postproduktion (neu)
-  * Spektralmusik (fehlt) Barlow ISIS? xx
+  * Spektralmusik (fehlt) xx
 
   
 
