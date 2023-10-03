@@ -4,11 +4,11 @@
 * Bilder und Bildunterschriften
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt)
-  * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (neu)
+  * Microsound (Pulse) einfügen
+  * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Sonogramm) xx
   * Sounddesign und akustische Klanggestaltung (neu)
   * Foley und Audio Postproduktion (neu)
-  * Spektralmusik (fehlt)
-  * Sound Art (fehlt)
+  * Spektralmusik (fehlt) Barlow ISIS?
 
   
 
