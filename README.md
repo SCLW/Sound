@@ -45,8 +45,6 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts, wird die Entwicklung einer zunehmenden Auseinandersetzung mit "Klang" in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von "Klang" in der  Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
 
-Technologisierung
-Audiotechnik
 
 
 
@@ -255,10 +253,7 @@ Auch für Analyse ...
 
 
 
-Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Beginnen bis Heute und analysieren die ästhetischen ... und Stilmittel. Als weitere Referenz ziehen wir das Buch "Sound Design: Die Virtuelle Klangwelt des Films." von Barbara Flückiger heran.
-
-Die Wirkung bestimmer Erzählmittel ...   
-Wie auf Klanglicher Ebene durch einen Film geführt wird.
+Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Insbesondere die Formung der Akustik unter künstlerisch/kreativen im Film / Medien wird in dieser Sitzung behandelt. Ausgehend vom Standardwerk "L´Audio-Vision. Son et image au cinéma." von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Beginnen bis heute. Als weitere Referenz ziehen wir das Buch "Sound Design: Die Virtuelle Klangwelt des Films." von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
 
   
 ### Literatur
@@ -356,9 +351,6 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
 
-Klangsynthese
-
-und der kreative Elemente der elektronischen Musik ...  
 
 
 ### Literatur
@@ -385,24 +377,16 @@ und der kreative Elemente der elektronischen Musik ...
 
 Wir befassen uns in dieser Praxiseinheit mit Hardwarehacking und Circuit Bending (PDF suchen)  
 
-Reed Ghazala zufolge prägte er den Begriff "Circuit Bending" und bezeichnet damit das kreative Modifizieren und Verändern von massenproduzierter Audiohardware, um den eigentlichen Klang des Gerätes zu verzerren oder zu dekonstruieren. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern und das Samplen der so erzeugten Störgeräusche. 
-... Als Ausgangsmaterial für Noise oder Glitch etablierten sich durch diese ... in den 90er Jahre eigene Subgenres der elektronischen Musik.
+Reed Ghazala zufolge prägte er den Begriff "Circuit Bending" und bezeichnet damit das kreative Modifizieren und Verändern von massenproduzierter Audiohardware entgegen der ursprünglich intendierten Nutzung, um andersartige Klänge zu erzeugen. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern. Die durch Hardware Hacking und Circuit Bending erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definiert den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
-
-
-
-What is Circuit Bending? So, what is it, really? How do circuits bend? The short answer: Circuit bending describes the modification of an electronic sound device beyond the designer’s intentions, adding new sonic and functional possibilities. Although there are many approaches to circuit bending, in general, the bending target will preserve its normal operation and is just enhanced with switches, potentiometers, body contacts, or jacks that will invoke the functions or sounds.
-
-Circuit benders usually are not electronics experts, nor do they have service and repair manuals for the devices to be bent. The process of bending is one of trial and error, carefully avoiding risking the health of both the bender and his target. Anyone, even children (supervised by a seasoned bender) can do it, as long as some basic rules are followed.
-
-
+process of bending is one of trial and error,  
 
 
 
 
 ### Literatur
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
-- Ghazala, Qubais Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
+- Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
@@ -413,14 +397,14 @@ Circuit benders usually are not electronics experts, nor do they have service an
 
 ## Sound Art
 
-"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien mit Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon münden.  
+"Sound Art" ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtiges Merkmal sind ihre Intermedialität sowie ihre Raum- und Orstbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der Klangkunst geben. Dieser Teil der Vorlesung nimmt die für die Klangkunst wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 ...
 
 Max Neuhaus  
 Bill Fontana    
 Steve Reich  
 John Cage  
-Pendulum von Steve Reich 
+Pendulum von Steve Reich  
 
 
 
