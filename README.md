@@ -1,6 +1,6 @@
 # Sound (Theorie und Praxis)
 
-* Links und Referennzen
+* Links und Referenzen
 * Bilder und Bildunterschriften
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt)
@@ -57,8 +57,6 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 
 ### Literatur
-
-
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
 - Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
 - Luigi Russolo. Die Geräuschkunst (1916)
@@ -231,12 +229,17 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 
 
 
-Das etablierte Notationssystem der westlichen Musik erlaubt die Darstellung zeitlicher Tonhöhenstrukturen und beinhaltet ein Repertoir an Spielanweisungen für klassische Instrumente. Neben der Funktion der Dokumentation, Interpretation oder Synchronisation erlaubt die Notation auch die Analyse von musikalischen Werken.
-Da sich jedoch ... nicht
-Jedoch lassen sich Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden. Gerade mit dem Aufkommen neuer und experimenteller Musikformen sind grafische Notationen und
+Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen klassischer Instrumente geeignet ist.  
+
+
+Das etablierte Notationssystem der westlichen Musik ermöglicht die Darstellung zeitlicher Tonhöhenstrukturen.  
+
+Neben der Funktion der Dokumentation, Interpretation oder Synchronisation erlaubt die Notation auch die Analyse von musikalischen Werken.  
+Da sich jedoch Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden lassen,  
+gerade mit dem Aufkommen neuer und experimenteller Musikformen sind grafische Notationen und  
 
 Ästhetik  
-bilden sich grafische Notationsformen
+bilden sich grafische Notationsformen  
 
 traditionelle Notationsweise  
   
