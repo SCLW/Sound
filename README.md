@@ -4,7 +4,6 @@
 * Bilder und Bildunterschriften
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt)
-  * Microsound (Pulse) einfügen
   * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Sonogramm) xx
   * Sounddesign und akustische Klanggestaltung (neu)
   * Foley und Audio Postproduktion (neu)
