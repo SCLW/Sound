@@ -374,9 +374,11 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. St
 
 ## DIY-Kultur: Handmade Electronic Music
 
+<!--
 ![Crackle Box](/Img/Crackle_Box.jpeg)
 *Crackle Box*
 <br>
+-->
 
 ![NSynth](/Img/NSynth_HDF_Case.jpg)
 *NSynth*
