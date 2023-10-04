@@ -1,6 +1,5 @@
 # Sound (Theorie und Praxis)
 
-- Bild: Sonogramm
 - Foto: Was ist Schall
 - Foto: Foley
 - Text: Klassifikation
