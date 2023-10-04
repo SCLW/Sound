@@ -440,6 +440,8 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 ### Onlinequellen 
 - [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
+
+
 ---
 
 ## Sound Art
@@ -477,8 +479,8 @@ Pendulum von Steve Reich
 - [Zimoun](https://www.zimoun.net/)
 - [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 
-- Video pendulum Music
-- Imaginary Landscapes
+Video pendulum Music    
+Imaginary Landscapes  
 
 
 
