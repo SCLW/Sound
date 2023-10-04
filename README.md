@@ -218,10 +218,13 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
-<!-- IMAGE -->
-???????
 
 
+![Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow](/Img/Spektrogramm_ISIS.png)
+*Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow*
+<br>
+
+<!--
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/Barlow_Notation_light.png">
@@ -231,7 +234,7 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 *Klarenz Barlow nutzte Dreieck und Spirale für sein Stück "1981"*
 <br>
 
-
+-->
 
 Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen klassischer Instrumente geeignet ist.  
 
