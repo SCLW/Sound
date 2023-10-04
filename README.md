@@ -62,15 +62,14 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 
 ### Literatur
-- Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
-- Marinetti, F. T., and Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
-- Luigi Russolo. Die Geräuschkunst (1916)
-- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
-- Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
-- Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
+- Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916.
 - Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
+- Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
+- Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
+- Marinetti, F. T., and Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
 - Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
+- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
 
 ### Onlinequellen 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
@@ -93,19 +92,19 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 ### Literatur
-- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
-- Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
+- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
-- Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
 - Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
-- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
+- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+- Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
+- Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 
 
 ### Onlinequellen 
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
- [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
+- [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 - 4:33
 - [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
@@ -134,9 +133,10 @@ Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde i
 
 
 ### Literatur
+- Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
-- Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
+
 
 ### Onlinequellen 
 - [The World Soundscape Project - Barry Truax at Simon Fraser University](https://www.sfu.ca/~truax/wsp.html "The World Soundscape Project")
@@ -434,9 +434,9 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 
 
 ### Literatur
+- Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
-- Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
 ### Onlinequellen 
@@ -465,9 +465,9 @@ Pendulum von Steve Reich
 
 ### Literatur
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
-- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010. 
-- Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
+- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
 - La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
+- Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
 - Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 
@@ -477,10 +477,10 @@ Pendulum von Steve Reich
 - [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
 - [Max Neuhaus Time Square](https://soundart.zone/max-neuhaus-sound-art)
 - [Zimoun](https://www.zimoun.net/)
+- [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 
 - Video pendulum Music
 - Imaginary Landscapes
-- [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 
 
 
