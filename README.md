@@ -405,9 +405,17 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 ## Selbstbau elektronischer Instrumente
 
+
+![DIY-Synth](/Img/Resistive_Fruits_01.jpg)
+*DIY-Synth*
+<br>
+
+
+<!--
 ![DIY-Synth](/Img/CMOS-Synthesizer-Circuitry-based_Sound.jpg)
 *DIY-Synth*
 <br>
+-->
 
 In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
 
