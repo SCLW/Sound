@@ -63,7 +63,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 ### Literatur
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916. 
-- Filippo Tommaso Marinetti: Das futuristische Manifest (1909)
+- Marinetti, F. T., and Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
 - Luigi Russolo. Die Geräuschkunst (1916)
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
 - Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
@@ -75,7 +75,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 ### Onlinequellen 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
 - Russolo Videos
-
+- [L'arte dei rumori](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf)
 
 
 
