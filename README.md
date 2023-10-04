@@ -406,7 +406,7 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 ## Selbstbau elektronischer Instrumente
 
 
-![DIY-Synth](/Img/Resistive_Fruits_01.jpg)
+![DIY-Synth](/Img/Resistive_Fruits_01.png)
 *DIY-Synth*
 <br>
 
