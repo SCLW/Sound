@@ -3,7 +3,9 @@
 - Foto: Was ist Schall ???
 - Text: Klassifikation ???
 - Foto: Foley neu aufnehmen
-- Foto: Cracklebox
+- Foto: Cracklebox ggf. mit NSynth ersetzen
+- Foto: Expermineter Board mit Breadboard ersetzen oder Touch Synth 4049
+  
 
 * Links und Referenzen checken
   
