@@ -220,9 +220,7 @@ Microsounds stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der
 
 
 
-![Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow](/Img/Spektrogramm_ISIS.png)
-*Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow*
-<br>
+
 
 <!--
 
@@ -328,6 +326,11 @@ Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Grupp
 ---
 
 ## Spektralmusik
+
+![Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow](/Img/Spektrogramm_ISIS.png)
+*Spektrogramm eines Ausschnittes des Stückes "Für Gimmick" von Klarenz Barlow*
+<br>
+
 
 Unter dem Begriff Spektralmusik werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetzt.
 Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden.  
