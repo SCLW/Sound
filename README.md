@@ -69,7 +69,9 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 - Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
 - Marinetti, F. T., and Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
 - Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
-- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.   
+- Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.
+- Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
+   
 
 ### Onlinequellen 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
@@ -92,6 +94,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 ### Literatur
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
+- Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
@@ -421,11 +424,8 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 *Modifiziertes Speak & Spell Spielzeug*
 <br>
 
-Wir befassen uns in dieser Praxiseinheit mit Hardwarehacking und Circuit Bending (PDF suchen)  
-process of bending is one of trial and error,  
 
-
-Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Verändern von massenproduzierter Audiohardware entgegen der ursprünglich intendierten Nutzung, um andersartige Klänge zu erzeugen. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern. Die durch Hardwarehacking und Circuit Bending erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
+Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Verändern, meist nach dem Prinzip "Trial-and-Error", um mit massenproduzierten Audiohardware andersartige Klänge entgegen der ursprünglich Intention zu erzeugen. Bekannte Beispiele des Hardwarehackings sind die Manipulationen an CD-Playern. Die durch Hardwarehacking und Circuit Bending erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
 
 
@@ -510,8 +510,6 @@ Pendulum von Steve Reich
 
 ### Literatur
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
-- Dean, Roger T., and R. T. Dean. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
-- Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
 
 ### Onlinequellen 
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
