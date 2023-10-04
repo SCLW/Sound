@@ -378,6 +378,11 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. St
 *Crackle Box*
 <br>
 
+![NSynth](/Img/NSynth_HDF_Case.jpeg)
+*NSynth*
+<br>
+
+
 Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Individualisierung eines Massenproduktes: Selbstgebaute Klangerzeuger erlauben kreative Ausdrucksmöglichkeiten und erweitern das Klangspektrum gegenüber industriell gefertigten Instrumenten und Tools. Es werden die Tradition des Selbermachens und die Ursprünge der Makerkultur bis hin zu den aktuellen DIY-Praktiken in der elektronischen Musik beleuchtet.
 
 
