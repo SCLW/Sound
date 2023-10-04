@@ -475,12 +475,12 @@ Pendulum von Steve Reich
 - [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
 - [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
 - [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
+- [Max Neuhaus Time Square](https://soundart.zone/max-neuhaus-sound-art)
+- [Zimoun](https://www.zimoun.net/)
+
 - Video pendulum Music
-- Video Max Neuhaus Time Square ()
-- Video Zimoun
 - Imaginary Landscapes
 - [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
-
 
 
 
