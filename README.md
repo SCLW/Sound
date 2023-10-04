@@ -73,9 +73,8 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 ### Onlinequellen 
 - [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
-- Russolo Videos
 - [L'arte dei rumori](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf)
-
+- [Music For 16 Futurist Noise Intoners](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
 
 
 
@@ -105,7 +104,6 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
 - [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
 - [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
-- 4:33
 - [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
