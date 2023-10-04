@@ -1,9 +1,9 @@
 # Sound (Theorie und Praxis)
 
-- Foto: Was ist Schall
-- Foto: Foley
+- Foto: Was ist Schall ???
+- Text: Klassifikation ???
+- Foto: Foley neu aufnehmen
 - Foto: Cracklebox
-- Text: Klassifikation
 
 * Links und Referenzen checken
   
