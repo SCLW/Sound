@@ -2,15 +2,16 @@
 
 - Foto: Was ist Schall
 - Foto: Foley
+- Foto: Cracklebox
 - Text: Klassifikation
 
-* Links und Referenzen
+* Links und Referenzen checken
+  
 * Bilder:
   * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt) was ist Schall: schwingende Saiten oder so
   * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Sonogramm) xx
-  * Sounddesign und akustische Klanggestaltung (neu)
   * Foley und Audio Postproduktion (neu)
-  * Spektralmusik (fehlt) xx
+
 
 
 
