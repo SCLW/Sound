@@ -281,8 +281,8 @@ Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, i
 
 ## Sounddesign und akustische Klanggestaltung
 
-![Sounddesign](/Img/Sounddesign_Stock.jpg)
-*Sounddesign*
+![Foto eines Arbeitsplatzes in einem Tonstudio](/Img/Studio_HfG.jpg)
+*Tonstudio der HfG*
 <br>
 
 
