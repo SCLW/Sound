@@ -310,6 +310,11 @@ Vom Sounddesign im Film, Computerspiel oder in X-Realities über Corporate Sound
 *Foleymaking*
 <br>
 
+![Foleymaking](/Img/Foley_V01.jpg)
+*Foleymaking*
+<br>
+
+
 Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor "Audacity" werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
 
 
