@@ -378,7 +378,7 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. St
 *Crackle Box*
 <br>
 
-![NSynth](/Img/NSynth_HDF_Case.jpeg)
+![NSynth](/Img/NSynth_HDF_Case.jpg)
 *NSynth*
 <br>
 
