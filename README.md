@@ -32,7 +32,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 ## Termine Wintersemester 2023-2024
 
 |	 Dates  	|	 Topic                                                                                  	|
-|	 ------ 	|	 -----                                                                                  	|
+|	  	|	 --                                                                                  	|
 |	 26.10. 	|	 [Einführung: «Sound» zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
 |	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               	|
 |	 9.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            	|
@@ -84,7 +84,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 
 
----
+
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch 
 
@@ -118,7 +118,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 
----
+
 
 ## Soundscape nach R. Murray Schafer
 
@@ -153,7 +153,7 @@ Mit dem Werk «The Tuning of the World» des Komponisten R. Murray Schafer wurde
 
 
 
----
+
 
 ## Field Recordings
 
@@ -194,7 +194,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 
----
+
 
 ## Sound Partikel und Microsounds
 
@@ -223,12 +223,9 @@ FFT
 
 
 
----
+
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
-
-
-
 
 
 <!--
@@ -246,33 +243,6 @@ FFT
 Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen geeignet ist.  
 
 
-Das etablierte Notationssystem der westlichen Musik ermöglicht die Darstellung zeitlicher Tonhöhenstrukturen.  
-
-Neben der Funktion der Dokumentation, Interpretation oder Synchronisation erlaubt die Notation auch die Analyse von musikalischen Werken.  
-Da sich jedoch Klangfarbe, zufällige Elemente oder komplexe Zeitstrukturen nur bedingt oder gar nicht mit dem klassischen Notationssystem abbilden lassen,  
-gerade mit dem Aufkommen neuer und experimenteller Musikformen sind grafische Notationen und  
-
-Ästhetik  
-bilden sich grafische Notationsformen  
-
-traditionelle Notationsweise  
-  
-graphische“ Notationsformen  
-Interpretationsspielraum   
-
-Die in der westlichen Welt entstandenen Notationssysteme, die nur eine abstrakte und damit reduzierte Abbildung eines musikalischen Kunstwerkes darstellen, gerieten mit der Moderne und neuen Spieltechniken und neuen Instrumente an ihre Grenzen. Seitdem stellt sich die Frage.
-Auch für Analyse ...
-
-
----
-
-
-Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, indem er untersucht, wie sie klassifiziert, synthetisiert, erkannt und mit visuellen Korrespondenzen in Beziehung gesetzt werden können, und dann die Relevanz dieser Themen für die Notation untersucht. Die Klangfarbe wird als abhängig von spektralen und zeitabhängigen Merkmalen verstanden, die auf eine Weise notiert werden können, die sowohl in Bezug auf die Wahrnehmung als auch auf die Akustik sinnvoll ist. Dies wird erreicht, indem man den Ausgangspunkt der spektromorphologischen Analyse von Lasse Thoresen nimmt. Symbole, die ursprünglich für die wahrnehmungsbasierte Analyse entwickelt wurden, werden für die Verwendung in einem hybriden Spektrum-Stab-System angepasst, um die spektralen Eigenschaften der Klangfarbe anzuzeigen. Um das System zu testen, wurde es zur Transkription von Ausschnitten aus drei klassischen elektroakustischen Musikwerken verwendet. Neben dem Vorteil, dass die drei mit demselben System transkribierten Ausschnitte verglichen werden können, besteht der Vorteil darin, dass die visuelle Darstellung auf spektral messbaren Qualitäten in der Musik beruht. Die Intuitivität des Notationssystems wurde auch in Hörtests untersucht, die zeigten, dass es möglich war, spektrale Notationssymbole, die über ein Notensystem gelegt wurden, zu verstehen, insbesondere bei Beispielen mit zwei Klangobjekten anstelle von einem.
-
-
-
-
-
 **Literatur:**    
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
@@ -287,7 +257,7 @@ Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, i
 
 
 
----
+
 
 ## Sounddesign und akustische Klanggestaltung
 
@@ -312,7 +282,7 @@ Vom «Sounddesign» im Film, Computerspiel oder in X-Realities über Corporate S
 
 
 
----
+
 
 ## Foley und Audio Postproduktion
 
@@ -341,7 +311,7 @@ Wir vertiefen das Thema «Sounddesign», indem wir praxisorientiert in kleinen G
 
 
 
----
+
 
 ## Spektralmusik
 
@@ -374,7 +344,7 @@ Unter dem Begriff «Spektralmusik» werden kompositorische Ansätze beschrieben,
 
 
 
----
+
 
 ## DIY-Kultur: Handmade Electronic Music
 
@@ -405,7 +375,7 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 
 
----
+
 
 ## Selbstbau elektronischer Instrumente
 
@@ -439,7 +409,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 
 
----
+
 
 ## Hardwarehacking und Circuit Bending
 
@@ -466,7 +436,7 @@ Der Begriff «Circuit Bending» bezeichnet das kreative Modifizieren und Veränd
 
 
 
----
+
 
 ## Sound Art
 
@@ -513,20 +483,20 @@ Pendulum von Steve Reich
 
 
 
----
+
 
 ## Referate
 
 
 
 
----
+
 
 # Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
 
 
 |          | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
-| -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |          |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | Oktober  | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | Do | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di |
 | November | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` | Fr | Sa | So | Mo | Di | Mi | `Do` |    |
