@@ -213,9 +213,9 @@ FFT
 - Roads, Curtis. *Microsound.* MIT, 2004.
 
 ### Videos und Onlinequellen 
-- [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
-- [Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
-- [Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
+- [WEBSITE: Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
+- [PDF: Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
+- [WEBSITE: Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 
 
 
@@ -274,8 +274,8 @@ Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, i
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
 ### Videos und Onlinequellen 
-- [Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
-- [Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
+- [PDF: Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
+- [PDF: usic Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 
 
@@ -330,7 +330,7 @@ Wir vertiefen das Thema Sounddesign, indem wir praxisorientiert in kleinen Grupp
 - Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 ### Videos und Onlinequellen 
-- [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+- [PDF: The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
 
 
@@ -356,10 +356,10 @@ In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. St
 - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
 
 ### Videos und Onlinequellen 
-- [Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
-- [Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
-- [Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
-- [Guide to the Basic Concepts and Techniques of Spectral Music](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
+- [PDF: Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
+- [PDF: Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
+- [PDF: Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
+- [PDF: Guide to the Basic Concepts and Techniques of Spectral Music](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
 
 
 
@@ -393,8 +393,8 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
 ### Videos und Onlinequellen 
-- [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
-- [Shifting Gender in Electronic Music: DIY and Maker Communities](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
+- [PDF: Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
+- [PDF: Shifting Gender in Electronic Music: DIY and Maker Communities (John Richards)](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
 
 
@@ -423,10 +423,10 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 
 ### Videos und Onlinequellen 
-- [Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
-- [John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
-- [Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
-- [Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
+- [PDF: Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
+- [WEBSITE: John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
+- [PDF: Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
+- [TEXT: Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
 - Lunetta
 - CD4049 Touch
 
@@ -455,7 +455,7 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
 ### Videos und Onlinequellen 
-- [Example of circuit bending the Speak & Spell - an electronic hand-held child computer by Texas Instruments](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+- [WEBSITE: Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
 
@@ -489,12 +489,10 @@ Pendulum von Steve Reich
 
 
 ### Videos und Onlinequellen 
-- [Overview on topics about sound art from the art wiki monoskop](https://monoskop.org/Sound_art "sound art, Klangkunst, sound installation, Klanginstallation, sound-space-art, sound sculpture, Klangskulptur, sound walk, sonic art, musicalization of sound, sound in the arts, audio art, Audiokunst, sound in art")
-- [A History of Sound Art](http://1094753547.test.prositehosting.co.uk/docs/aHoSA.pdf)
-- [Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
-- [Max Neuhaus Time Square](https://soundart.zone/max-neuhaus-sound-art)
-- [Zimoun](https://www.zimoun.net/)
-- [Soundsites: Max Neuhaus, Site-Specificity, and the Materiality of Sound as Place](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
+- [PDF: Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
+- [VIDEO/SOUNDS/TEXT: Klanginstallation "Time Square" von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
+- [WEBSITE: Zimoun - Schweizer Klangkünstler](https://www.zimoun.net/)
+- [PDF: Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 
 Video pendulum Music    
 Imaginary Landscapes  
