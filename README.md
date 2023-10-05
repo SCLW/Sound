@@ -78,9 +78,9 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
    
 
 ### Videos und Onlinequellen 
-- [Arseny Avraamov – Symphony Of Sirens](https://www.deutschlandfunkkultur.de/fundstueck-144-arseny-avraamov-symphony-of-sirens-100.html)
-- [L'arte dei rumori](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf)
-- [Music For 16 Futurist Noise Intoners](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
+- [Original Aufnahmen und Rekonstruktion der "Simfonija Gudkow" (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
+- [deutsche Übersetzung des Werkes des Futuristen Luigi Russolo «L’Arte dei Rumori» von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
+- [Music For 16 Futurist Noise Intoners - Rekonstruktion historischer und aktueller Kompositionen](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
 
 
 
@@ -102,7 +102,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
-- Sanio, Sabine, and Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+- Sanio, Sabine, und Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
 - Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 
@@ -114,8 +114,6 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 - [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
-
-
 
 
 
