@@ -391,7 +391,7 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 
 
-### Literatur
+*Literatur*    
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
 ### Videos und Onlinequellen 
@@ -421,10 +421,10 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 
 
-### Literatur
+*Literatur*    
 
 
-### Videos und Onlinequellen 
+*Videos und Onlinequellen*     
 - [PDF: Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
 - [WEBSITE: John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [PDF: Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
@@ -450,13 +450,13 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 
 
 
-### Literatur
+*Literatur*    
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
-### Videos und Onlinequellen 
+*Videos und Onlinequellen*     
 - [WEBSITE: Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
@@ -485,7 +485,7 @@ Pendulum von Steve Reich
 
 
 
-### Literatur
+*Literatur*    
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
 - Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
 - La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
@@ -493,7 +493,7 @@ Pendulum von Steve Reich
 - Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 
-### Videos und Onlinequellen 
+*Videos und Onlinequellen*     
 - [PDF: Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
 - [VIDEO/SOUNDS/TEXT: Klanginstallation "Time Square" von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
 - [WEBSITE: Zimoun - Schweizer Klangkünstler](https://www.zimoun.net/)
