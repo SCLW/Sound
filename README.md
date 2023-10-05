@@ -33,7 +33,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 |	 Dates  	|	 Topic                                                                                  	|
 |	 ------ 	|	 -----                                                                                  	|
-|	 26.10. 	|	 [Einführung: "Sound" zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
+|	 26.10. 	|	 [Einführung: «Sound» zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
 |	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               	|
 |	 9.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            	|
 |	 16.11. 	|	 [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#fieldrecordings)                                                               	|
@@ -54,13 +54,13 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 
-## Einführung: "Sound" zwischen Natur- und Kulturwissenschaften
+## Einführung: «Sound» zwischen Natur- und Kulturwissenschaften
 
 ![Intonarumori](/Img/Intonarumori.jpg)
 *Intonarumori - experimentelle Instrumente des futuristischen Künstlers Luigi Russolo*
 <br>
 
-In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts wird die Entwicklung einer zunehmenden Auseinandersetzung mit «Klang» in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von «Klang» in der Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs "Sound" betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
+In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts wird die Entwicklung einer zunehmenden Auseinandersetzung mit «Klang» in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von «Klang» in der Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs «Sound» betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
 
 
 
@@ -108,7 +108,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 **Videos und Onlinequellen:**    
-- [TEXT: Eintrag "Sounds" der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
+- [TEXT: Eintrag «Sounds» der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
 - [PDF: Silence - Vorlesungen und Schriften von John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "Silence")
 - [PDF: Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 - [TEXT: Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
