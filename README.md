@@ -215,7 +215,6 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 »Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
-FFT
 
 **Literatur:**  
 - Roads, Curtis. *Microsound.* MIT, 2004.
@@ -224,7 +223,7 @@ FFT
 - [WEBSITE: Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
 - [PDF: Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
 - [WEBSITE: Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
-
+- [Grundlegendes zu FFTs und Fensterfunktionen](https://www.ni.com/de/shop/data-acquisition/measurement-fundamentals-main-page/analog-fundamentals/understanding-ffts-and-windowing.html)
 
 
 
