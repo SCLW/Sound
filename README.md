@@ -478,6 +478,7 @@ Pendulum von Steve Reich
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
 - Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
 - La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
+- Treib, Marc, and Richard Felciano. Space Calculated in Seconds: The Philips Pavilion, Le Corbusier, Edgard Varèse. Princeton University Press, 1996. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
 - Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
@@ -488,7 +489,7 @@ Pendulum von Steve Reich
 - [WEBSITE: Zimoun - Schweizer Klangkünstler](https://www.zimoun.net/)
 - [PDF: Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 - [VIDEO: John Cages Aufführung seines Stückes "Water Walk" im Januar 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
-
+- [Der Philips Pavillon von Le Corbusier - Musikalische Architektur der Moderne. Interview mit Stefan Weinzierl](https://www.deutschlandfunkkultur.de/der-philips-pavillon-von-le-corbusier-musikalische-100.html)
 
 
 
