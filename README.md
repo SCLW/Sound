@@ -3,8 +3,9 @@
 - Foto: Was ist Schall ???
 - Text: Klassifikation ???
 - Foto: Foley neu aufnehmen
-- Foto: Cracklebox ggf. mit NSynth ersetzen
-- Foto: Expermineter Board mit Breadboard ersetzen oder Touch Synth 4049
+- Foto: Fieldrecording
+- Foto: DIY-Kultur: Handmade Electronic Music
+- Foto: Selbstbau elektronischer Instrumente
   
 
 * Links und Referenzen checken
