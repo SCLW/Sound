@@ -78,9 +78,9 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
    
 
 ### Videos und Onlinequellen 
-- [Original Aufnahmen und Rekonstruktion der "Simfonija Gudkow" (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
-- [deutsche Übersetzung des Werkes des Futuristen Luigi Russolo «L’Arte dei Rumori» von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
-- [Music For 16 Futurist Noise Intoners - Rekonstruktion historischer und aktueller Kompositionen](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
+- [PDF Deutsche Übersetzung des Werkes des Futuristen Luigi Russolo «L’Arte dei Rumori» von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
+- [VIDEO Original Aufnahmen und Rekonstruktion der "Simfonija Gudkow" (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
+- [VIDEO Music For 16 Futurist Noise Intoners - Rekonstruktion historischer und aktueller Kompositionen](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
 
 
 
