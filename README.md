@@ -3,22 +3,11 @@
 - Foto: Was ist Schall ???
 - Text: Klassifikation ???
 - Foto: Foley neu aufnehmen
-- Foto: Fieldrecording
-- Foto: DIY-Kultur: Handmade Electronic Music
-- Foto: Selbstbau elektronischer Instrumente
-  
-
-* Links und Referenzen checken
-  
-* Bilder:
-  * Die Beziehung zwischen Klang, Ton und Geräusch (fehlt) was ist Schall: schwingende Saiten oder so
-  * Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Sonogramm) xx
-  * Foley und Audio Postproduktion (neu)
-
-
-Videos  
-PDFs  
-Online Artikel  
+- Foto: Fieldrecording: Clearence
+- Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
+- Foto: Selbstbau elektronischer Instrumente - anderes Bild
+- Links und Referenzen checken
+- Quelle: Videos, PDFs, Online Artikel  
 
 
 
