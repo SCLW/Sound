@@ -6,12 +6,6 @@
 - Foto: Fieldrecording: Clearence
 - Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
-- Links und Referenzen checken
-- Quelle: Videos, PDFs, Online Artikel  
-»Sound«
-Titel Kursiv
-»  «
-› ‹
 
 
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
