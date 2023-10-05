@@ -114,7 +114,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [TEXT: Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [TEXT: Manuskript zu Musikwahrnehmung, Tonhöhe und das auditorische System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
 - [WEBSITE: Informationen zu Bregmans "Auditory Scene Analysis"](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
-TEXT: Eintrag "Sound" der englischsprachige Online-Enzyklopädie Stanford Encyclopedia of Philosophy
+
 
 
 
