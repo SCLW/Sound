@@ -71,8 +71,8 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916.
 - Cox, Christoph, and Daniel Warner. *Audio Culture.: Readings in Modern Music.* Continuum, 2005. 
 - Emmerson, Simon. *Music, Electronic Media and Culture.* Ashgate, 2012. 
-- Kursell, Julia. Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie. Wilhelm Fink, 2018. 
-- Marinetti, F. T., and Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
+- Kursell, Julia. *Epistemologie Des Hörens: Helmholtz’ Physiologische Grundlegung Der Musiktheorie.* Wilhelm Fink, 2018. 
+- Marinetti, F. T., und Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
 - Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.
 - Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
