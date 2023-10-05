@@ -494,9 +494,10 @@ Pendulum von Steve Reich
 - [VIDEO/SOUNDS/TEXT: Klanginstallation "Time Square" von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
 - [WEBSITE: Zimoun - Schweizer Klangkünstler](https://www.zimoun.net/)
 - [PDF: Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
+- [VIDEO: John Cages Aufführung seines Stückes "Water Walk" im Januar 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
 
 Video pendulum Music    
-Imaginary Landscapes  
+
 
 
 
