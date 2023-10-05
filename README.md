@@ -238,7 +238,7 @@ FFT
 
 -->
 
-Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen klassischer Instrumente geeignet ist.  
+Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen geeignet ist.  
 
 
 Das etablierte Notationssystem der westlichen Musik ermöglicht die Darstellung zeitlicher Tonhöhenstrukturen.  
