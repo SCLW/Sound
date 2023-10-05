@@ -473,6 +473,9 @@ Der Begriff "Circuit Bending" bezeichnet das kreative Modifizieren und Veränder
 
 ...
 
+Philips-Pavillon    
+Video pendulum Music    
+
 Max Neuhaus  
 Bill Fontana    
 Steve Reich  
@@ -496,7 +499,6 @@ Pendulum von Steve Reich
 - [PDF: Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 - [VIDEO: John Cages Aufführung seines Stückes "Water Walk" im Januar 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
 
-Video pendulum Music    
 
 
 
