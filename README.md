@@ -162,11 +162,12 @@ Mit dem Werk "The Tuning of the World" des Komponisten R. Murray Schafer wurde i
 <br>
 
 
-
+<!-- 
 https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd271e
 
 *Klang elektromagnetischer Felder eines Computers*
 <br>
+-->
 
 Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem "kritischen Hören" an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
 
@@ -182,12 +183,12 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 ### Videos und Onlinequellen 
-- [Experimental recordings: Pickups for electromagnetic fields](https://beepblip.org/in-the-field-with-emf-detector/)  
-- [DIY EMF Microphone](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
-- [EMF Microphone Circuit Example](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
-- [Prototype Low-Cost Hydrophone for the Ocean of Things Program](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
-- [About DIY contact microphones](https://knowledge.lom.audio/research/contact_mics)
-- [Underwater Ambisonic Recordings, 2013](https://tba21.org/underwater_ambisonic_recordings)
+- [WEBSITE: Information zu EMF-Aufnahmen (EMF = Elektromagnetisches Feld)](https://beepblip.org/in-the-field-with-emf-detector/ "Experimental recordings: Pickups for electromagnetic fields")  
+- [WEBSITE: Bauanleitung für ein DIY EMF-Mikrofon](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
+- [WEBSITE: Schaltplan eines EMF-Mikrofons](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
+- [WEBSITE: Prototype Low-Cost Hydrophone for the Ocean of Things Program](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
+- [WEBSITE: About DIY contact microphones](https://knowledge.lom.audio/research/contact_mics)
+- [WEBSITE: Projekt zu Unterwasseraufnahmen der TBA21 Thyssen-Bornemisza Art Contemporary](https://tba21.org/underwater_ambisonic_recordings "Underwater Ambisonic Recordings, 2013")
 
 
 
