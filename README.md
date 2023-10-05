@@ -108,13 +108,13 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 ### Videos und Onlinequellen 
-- [Stanford Encyclopedia of Philosophy - Sound](https://plato.stanford.edu/entries/sounds/ "sounds")  
-- [Silence - Lectures and writings by John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "")
-- [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
-- [Perceptual Aspects of Hearing](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
-- [Music perception, pitch, and the auditory system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
-- [Auditory Scene Analysis](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
-
+- [TEXT: Eintrag "Sounds" der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
+- [PDF: Silence - Vorlesungen und Schriften von John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "Silence")
+- [PDF: Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
+- [TEXT: Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
+- [TEXT: Manuskript zu Musikwahrnehmung, Tonhöhe und das auditorische System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
+- [WEBSITE: Informationen zu Bregmans "Auditory Scene Analysis"](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
+TEXT: Eintrag "Sound" der englischsprachige Online-Enzyklopädie Stanford Encyclopedia of Philosophy
 
 
 
