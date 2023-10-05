@@ -53,6 +53,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 
 
+<br>
 
 ## Einführung: «Sound» zwischen Natur- und Kulturwissenschaften
 
@@ -85,6 +86,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 
 
+<br>
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch 
 
@@ -119,6 +121,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 
+<br>
 
 ## Soundscape nach R. Murray Schafer
 
@@ -154,6 +157,7 @@ Mit dem Werk «The Tuning of the World» des Komponisten R. Murray Schafer wurde
 
 
 
+<br>
 
 ## Field Recordings
 
@@ -195,6 +199,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 
+<br>
 
 ## Sound Partikel und Microsounds
 
@@ -224,6 +229,7 @@ FFT
 
 
 
+<br>
 
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
@@ -258,6 +264,7 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 
 
 
+<br>
 
 ## Sounddesign und akustische Klanggestaltung
 
@@ -283,6 +290,7 @@ Vom «Sounddesign» im Film, Computerspiel oder in X-Realities über Corporate S
 
 
 
+<br>
 
 ## Foley und Audio Postproduktion
 
@@ -312,6 +320,7 @@ Wir vertiefen das Thema «Sounddesign», indem wir praxisorientiert in kleinen G
 
 
 
+<br>
 
 ## Spektralmusik
 
@@ -345,6 +354,7 @@ Unter dem Begriff «Spektralmusik» werden kompositorische Ansätze beschrieben,
 
 
 
+<br>
 
 ## DIY-Kultur: Handmade Electronic Music
 
@@ -376,6 +386,7 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 
 
+<br>
 
 ## Selbstbau elektronischer Instrumente
 
@@ -410,6 +421,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 
 
+<br>
 
 ## Hardwarehacking und Circuit Bending
 
@@ -437,6 +449,7 @@ Der Begriff «Circuit Bending» bezeichnet das kreative Modifizieren und Veränd
 
 
 
+<br>
 
 ## Sound Art
 
@@ -484,6 +497,7 @@ Pendulum von Steve Reich
 
 
 
+<br>
 
 ## Referate
 
@@ -491,6 +505,7 @@ Pendulum von Steve Reich
 
 
 
+<br>
 
 # Wintersemesterkalender 2023 - 2024 (23.10.2023 - 16.02.2024)
 
