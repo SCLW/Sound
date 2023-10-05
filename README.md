@@ -8,9 +8,9 @@
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
 - Links und Referenzen checken
 - Quelle: Videos, PDFs, Online Artikel  
-«Sound»
-
-«  »
+»Sound«
+Titel Kursiv
+»  «
 › ‹
 
 
@@ -21,7 +21,7 @@
 
 
 
-Eine Vielzahl an Forschungs- und Arbeitsdisziplinen haben in jüngerer Zeit ihr Untersuchungspektrum um akustische und auditive Phänomene erweitert. Unter dem englischen Begriff «Sound» werden aus verschiedenen Fragerichtungen heraus dessen Durchdringung der Bereiche Technik, Gesellschaft, Kunst, Philosophie, Ästhetik und Wahrnehmungspsychologie behandelt. In diesem Seminar wird der Gegenstandsbereich «Sound» in verschiedenen Kontexten näher betrachtet. Dabei werden sowohl aktuelle als auch historische Ansätze und Positionen untersucht. Das Ziel ist es, vor diesem Hintergrund «Sound» klarer zu konturieren. Durch praxisorientierte Unterrichtseinheiten mit Workshopcharakter werden einzelne Aspekte vertieft.  
+Eine Vielzahl an Forschungs- und Arbeitsdisziplinen haben in jüngerer Zeit ihr Untersuchungspektrum um akustische und auditive Phänomene erweitert. Unter dem englischen Begriff »Sound« werden aus verschiedenen Fragerichtungen heraus dessen Durchdringung der Bereiche Technik, Gesellschaft, Kunst, Philosophie, Ästhetik und Wahrnehmungspsychologie behandelt. In diesem Seminar wird der Gegenstandsbereich »Sound« in verschiedenen Kontexten näher betrachtet. Dabei werden sowohl aktuelle als auch historische Ansätze und Positionen untersucht. Das Ziel ist es, vor diesem Hintergrund »Sound« klarer zu konturieren. Durch praxisorientierte Unterrichtseinheiten mit Workshopcharakter werden einzelne Aspekte vertieft.  
 
 Im Rahmen der Vorlesung können einzelne Referatsthemen bearbeitet und in einem ca. 15-minütigen Vortrag vorgestellt werden. Zusammen mit einer schriftlichen Ausarbeitung besteht die Möglichkeit, einen Leistungsschein aus der Fachtheorie Medienkunst/Sound zu erhalten. Ebenso ist es möglich, eigene künstlerische Arbeiten zu diesem Thema vorzustellen, was mit einem Praxisleistungsschein ausgezeichnet wird. Details zu den genauen Anforderungen und dem Umfang der jeweiligen Arbeiten werden im Vorfeld mit dem Dozenten geklärt.  
 
@@ -33,7 +33,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 |	 Dates  	|	 Topic                                                                                  	|
 |	 ---- 	|	 ----                                                                                  	|
-|	 26.10. 	|	 [Einführung: «Sound» zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
+|	 26.10. 	|	 [Einführung: »Sound« zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
 |	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               	|
 |	 9.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            	|
 |	 16.11. 	|	 [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#fieldrecordings)                                                               	|
@@ -55,13 +55,13 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 <br>
 
-## Einführung: «Sound» zwischen Natur- und Kulturwissenschaften
+## Einführung: »Sound« zwischen Natur- und Kulturwissenschaften
 
 ![Intonarumori](/Img/Intonarumori.jpg)
 *Intonarumori - experimentelle Instrumente des futuristischen Künstlers Luigi Russolo*
 <br>
 
-In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts wird die Entwicklung einer zunehmenden Auseinandersetzung mit «Klang» in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von «Klang» in der Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs «Sound» betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
+In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen akustische und auditive Phänomene eine Rolle spielen, vorgestellt. Ausgehend von der Ästhetisierung des Geräusches der Avantgardbewegungen des frühen letzten Jahrhunderts wird die Entwicklung einer zunehmenden Auseinandersetzung mit »Klang« in verschiedenen Kunstformen aufgezeigt: Die Überwindung der Tonalität und die Verwendung neuartiger (elektronischer) Instrumente und nicht-musikalischen Tonmaterials in den Künsten, sowie die naturwissenschaftlich/analytische Betrachtung von »Klang« in der Telekommunikationstechnik, welche wiederum Grundlagen für die elektronische und elektroaktustische Musik geschaffen hat. Es werden die unterschiedlichen Bedeutungsfacetten des heute im akademischen Bereich gebräuchlichen Begriffs »Sound« betrachtet und die Schwierigkeiten seiner klaren Einordnung und Abgrenzung thematisiert. 
 
 
 
@@ -79,8 +79,8 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
    
 
 **Videos und Onlinequellen:**  
-- [PDF: Deutsche Übersetzung des Werkes «L’Arte dei Rumori» des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
-- [VIDEO: Original Aufnahmen und Rekonstruktion der «Simfonija Gudkow» (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
+- [PDF: Deutsche Übersetzung des Werkes »L’Arte dei Rumori« des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
+- [VIDEO: Original Aufnahmen und Rekonstruktion der »Simfonija Gudkow« (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
 - [VIDEO: Music For 16 Futurist Noise Intoners - Rekonstruktion historischer und aktueller Kompositionen](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
 
 
@@ -110,7 +110,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 **Videos und Onlinequellen:**    
-- [TEXT: Eintrag «Sounds» der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
+- [TEXT: Eintrag »Sounds« der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
 - [PDF: Silence - Vorlesungen und Schriften von John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "Silence")
 - [PDF: Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 - [TEXT: Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
@@ -133,7 +133,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
 <br>
 
-Mit dem Werk «The Tuning of the World» des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der «Sound Studies». In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff «Soundscape» als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
+Mit dem Werk »The Tuning of the World« des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der »Sound Studies«. In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff »Soundscape« als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
 
 
 
@@ -173,7 +173,7 @@ https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd27
 <br>
 -->
 
-Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem «kritischen Hören» an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis für Sounddesigner, Künstler und Komponisten dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem »kritischen Hören« an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
 
 
 
@@ -213,7 +213,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 
-«Microsounds» stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs «Microsounds» folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
+»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs »Microsounds« folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
 FFT
 
@@ -274,7 +274,7 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 
 
 
-Vom «Sounddesign» im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk «L´Audio-Vision. Son et image au cinéma.» von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch «Sound Design: Die Virtuelle Klangwelt des Films.» von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
+Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk »L´Audio-Vision. Son et image au cinéma.« von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch »Sound Design: Die Virtuelle Klangwelt des Films.« von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
 
 
 
@@ -305,7 +305,7 @@ Vom «Sounddesign» im Film, Computerspiel oder in X-Realities über Corporate S
 
 
 
-Wir vertiefen das Thema «Sounddesign», indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor «Audacity» werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
+Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor »Audacity« werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
 
 
 
@@ -330,7 +330,7 @@ Wir vertiefen das Thema «Sounddesign», indem wir praxisorientiert in kleinen G
 
 
 
-Unter dem Begriff «Spektralmusik» werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetzt. Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden. In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. Stücke verschiedener «Spektralisten» aus dem Bereich der Computermusik vorgestellt und diskutiert:
+Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetzt. Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden. In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. Stücke verschiedener »Spektralisten« aus dem Bereich der Computermusik vorgestellt und diskutiert:
 * Jonathan Harvey
 * Klarenz Barlow
 * John Chowning
@@ -431,7 +431,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 
 
 
-Der Begriff «Circuit Bending» bezeichnet das kreative Modifizieren und Verändern, meist nach dem Prinzip ›Trial-and-Error‹, um mit «Hardwarehackings» Audiohardware andersartige Klänge entgegen der ursprünglich Intention zu erzeugen. Bekannte Beispiele des «Hardwarehackings» sind die Manipulationen an CD-Playern. Die durch «Hardwarehackings» und «Circuit Bending» erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
+Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern, meist nach dem Prinzip ›Trial-and-Error‹, um mit »Hardwarehackings« Audiohardware andersartige Klänge entgegen der ursprünglich Intention zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
 
 
@@ -460,7 +460,7 @@ Der Begriff «Circuit Bending» bezeichnet das kreative Modifizieren und Veränd
 
 
 
-«Sound Art» ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der «Klangkunst» geben. Dieser Teil der Vorlesung nimmt die für die «Klangkunst» wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
+»Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Vorlesung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 
 ...
 
