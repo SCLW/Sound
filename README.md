@@ -133,7 +133,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
 <br>
 
-Mit dem Werk »The Tuning of the World« des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der »Sound Studies«. In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff »Soundscape« als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
+Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der »Sound Studies«. In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff »Soundscape« als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
 
 
 
@@ -213,7 +213,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 
-»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs »Microsounds« folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
+»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
 FFT
 
@@ -274,7 +274,7 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 
 
 
-Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk »L´Audio-Vision. Son et image au cinéma.« von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch »Sound Design: Die Virtuelle Klangwelt des Films.« von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
+Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk *L´Audio-Vision. Son et image au cinéma.* von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch *Sound Design: Die Virtuelle Klangwelt des Films.* von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
 
 
 
@@ -305,7 +305,7 @@ Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate S
 
 
 
-Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor »Audacity« werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
+Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen Gruppen Klangaufnahmen von Geräuschen und Soundeffekten durchführen. Mit dem Audioeditor *Audacity* werden wir das aufgenommene Audiomaterial bearbeiten und durch Manipulationen entsprechend verändern. Durch Sound-Layering, Filtern, Effektprozessoren und geschickte Montage können Geräusche sehr kontrolliert gestaltet werden und beispielsweise einer vorgegebenen Szene zeitlich und klanglich angepasst werden.
 
 
 
@@ -330,7 +330,7 @@ Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen G
 
 
 
-Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetzt. Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden. In dieser Hörsitzung werden neben Instrumentalwerken von Gérard Grisey u.a. Stücke verschiedener »Spektralisten« aus dem Bereich der Computermusik vorgestellt und diskutiert:
+Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben, die sich spezifisch mit der Ästhetik von Klangspektren auseinandersetzt. Trotz einer berechtigten Kritik an der Verwendung diese Begriffes können eine Reihe spezifischer Komponisten und Komponistinnen unter diesem Aspekt betrachtet werden. In dieser Hörsitzung werden neben Instrumentalwerken von *Gérard Grisey* u.a. Stücke verschiedener »Spektralisten« aus dem Bereich der Computermusik vorgestellt und diskutiert:
 * Jonathan Harvey
 * Klarenz Barlow
 * John Chowning
@@ -460,11 +460,10 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 
-»Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Vorlesung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von John Cage in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
+»Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Vorlesung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von *John Cage* in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 
 ...
 
-Video pendulum Music    
 
 Max Neuhaus  
 Bill Fontana    
