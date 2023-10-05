@@ -276,7 +276,7 @@ Dieser Text befasst sich mit der schwierigen Aufgabe, Klangfarben zu notieren, i
 
 ### Videos und Onlinequellen 
 - [PDF: Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
-- [PDF: usic Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
+- [PDF: Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 
 
