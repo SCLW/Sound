@@ -6,12 +6,13 @@
 - Foto: Fieldrecording: Clearence
 - Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
+- Referenzen checken
 
-
+<!--
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
 
 - [But is it (also) Music?](https://www.routledgehandbooks.com/pdf/doi/10.4324/9781315770567.ch1 "BUT IS IT (ALSO) MUSIC? By Leigh Landy")
-
+-->
 
 
 
