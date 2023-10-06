@@ -74,9 +74,9 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
    
 
 **Links:**  
-- [PDF: Deutsche Übersetzung des Werkes »L’Arte dei Rumori« des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
-- [VIDEO: Original Aufnahmen und Rekonstruktion der »Simfonija Gudkow« (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
-- [VIDEO: Music For 16 Futurist Noise Intoners - Rekonstruktion historischer und aktueller Kompositionen](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
+- [Deutsche Übersetzung des Werkes *L’Arte dei Rumori* des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
+- [Original Aufnahmen und Rekonstruktion der *Simfonija Gudkow* (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
+- [Mitschnitt von *Music for 16 Futurist Noise Intoners* Rekonstruktion historischer und aktueller Kompositionen mit Intonarumori Nachbauten](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
 
 
 
@@ -105,12 +105,12 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 **Links:**    
-- [TEXT: Eintrag »Sounds« der englischsprachigen Online-Enzyklopädie "Stanford Encyclopedia of Philosophy"](https://plato.stanford.edu/entries/sounds/ "Sounds")  
-- [PDF: Silence - Vorlesungen und Schriften von John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "Silence")
-- [PDF: Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
-- [TEXT: Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
-- [TEXT: Manuskript zu Musikwahrnehmung, Tonhöhe und das auditorische System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
-- [WEBSITE: Informationen zu Bregmans "Auditory Scene Analysis"](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
+- [Eintrag »Sounds« der englischsprachigen Online-Enzyklopädie *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/sounds/ "Sounds")  
+- [*Silence* Vorlesungen und Schriften von John Cage](https://ia800303.us.archive.org/1/items/silencelecturesw1961cage/silencelecturesw1961cage.pdf "Silence")
+- [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
+- [Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
+- [Manuskript zu Musikwahrnehmung, Tonhöhe und das auditorische System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
+- [Informationen zu Bregmans *Auditory Scene Analysis*](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 
 
 
@@ -140,9 +140,9 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
 
 **Links:**   
-- [WEBSITE: Offizielle Website "The World Soundscape Project" der Simon Fraser Universität](https://www.sfu.ca/sonic-studio-webdav/WSP/index.html "The World Soundscape Project")
-- [PDF: The Soundscape - Our Sonic Environment and the Tuning of the World](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "")
-- [TEXT: Artikel über den Komponisten und Field Recordist "Chris Watson"](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
+- [Offizielle Website *The World Soundscape Project* der Simon Fraser Universität](https://www.sfu.ca/sonic-studio-webdav/WSP/index.html "The World Soundscape Project")
+- [Onlineversion *The Soundscape - Our Sonic Environment and the Tuning of the World* von R. Murray Schafer](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "The Tuning of the World")
+- [Artikel über den Komponisten und Field Recordist *Chris Watson*](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
 
 
 
@@ -183,12 +183,12 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 
 
 **Links:**     
-- [WEBSITE: Information zu EMF-Aufnahmen (EMF = Elektromagnetisches Feld)](https://beepblip.org/in-the-field-with-emf-detector/ "Experimental recordings: Pickups for electromagnetic fields")  
-- [WEBSITE: Bauanleitung für ein DIY EMF-Mikrofon](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
-- [WEBSITE: Schaltplan eines EMF-Mikrofons](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
-- [WEBSITE: Prototype Low-Cost Hydrophone for the Ocean of Things Program](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
-- [WEBSITE: About DIY contact microphones](https://knowledge.lom.audio/research/contact_mics)
-- [WEBSITE: Projekt zu Unterwasseraufnahmen der TBA21 Thyssen-Bornemisza Art Contemporary](https://tba21.org/underwater_ambisonic_recordings "Underwater Ambisonic Recordings, 2013")
+- [Information zu EMF-Aufnahmen (EMF = Elektromagnetisches Feld)](https://beepblip.org/in-the-field-with-emf-detector/ "Experimental recordings: Pickups for electromagnetic fields")  
+- [Bauanleitung für ein DIY EMF-Mikrofon](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
+- [Schaltplan eines EMF-Mikrofons](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
+- [Beschreibung eine Low-Cost Hydrophons für das *The Ocean of Things* Programm](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
+- [Onlineartikel über DIY Kontaktmikrofone](https://knowledge.lom.audio/research/contact_mics)
+- [Projekt zu Unterwasseraufnahmen der TBA21 Thyssen-Bornemisza Art Contemporary](https://tba21.org/underwater_ambisonic_recordings "Underwater Ambisonic Recordings, 2013")
 
 
 
@@ -215,9 +215,9 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 - Roads, Curtis. *Microsound.* MIT, 2004.
 
 **Links:**   
-- [WEBSITE: Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
-- [PDF: Iannis Xenakis - Formalized Music](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
-- [WEBSITE: Granular Synthesis and Granulation of Sampled Sound](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
+- [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
+- [*Formalized Music* von Iannis Xenakis](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
+- [Artikel über Granularsynthese](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 - [Grundlegendes zu FFTs und Fensterfunktionen](https://www.ni.com/de/shop/data-acquisition/measurement-fundamentals-main-page/analog-fundamentals/understanding-ffts-and-windowing.html)
 
 
@@ -247,8 +247,8 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
 **Links:**     
-- [PDF: Sound Notation: The visual representation of sound for composition and analysis - Doctoral Thesis in Sound and Music Computing](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
-- [PDF: Music Derived from Other Sources - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
+- [Doktorarbeit über Klangnotation und die visuelle Darstellung von Klang für Komposition und Analyse](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
+- [*Music Derived from Other Sources* - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 
 
@@ -309,7 +309,7 @@ Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen G
 - Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 **Links:**    
-- [PDF: The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
+- [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
 
 
@@ -335,10 +335,10 @@ Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben,
 - Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
 
 **Links:**     
-- [PDF: Closer Look at Clarence Barlow's ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
-- [PDF: Paper on the digital sound processing technique ISIS by Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
-- [PDF: Spectromorphology: explaining sound-shapes - by Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
-- [PDF: Guide to the Basic Concepts and Techniques of Spectral Music](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
+- [Eine Auseinandersetzung mit ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
+- [Paper über ISIS von Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
+- [Spectromorphology: explaining sound-shapes - von Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
+- [Zusammenstellung zu den grundlegenden Konzepten und Techniken der Spektralmusik](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
 
 
 
@@ -373,8 +373,8 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 - Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
 **Links:** 
-- [PDF: Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
-- [PDF: Shifting Gender in Electronic Music: DIY and Maker Communities (John Richards)](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
+- [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
+- [Shifting Gender in Electronic Music: DIY and Maker Communities von John Richards](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
 
 
@@ -399,15 +399,11 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteinen zu. Auf Steckboards bauen wir Prototypen selbstentworfener Klangmodule und beschäftigen uns mit der Gestaltung passender Interfaces. Dafür beschäftigen wir uns mit Sensoren, die zur Steuerung der selbstgebauten Oszillatoren und Modulatoren genutzt werden können. Im Rahmen des Kurses werden Grundlagen der Elektronik und musikalisch-klangliche Aspekte des Interfacedesigns vermittelt.  
 
 
-
-**Literatur:**    
-
-
 **Links:**     
-- [PDF: Handmade Electronic Music - Hands-on guide to DIY electronic instruments by Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
-- [WEBSITE: John Richards - British musician and artist. Self-made instruments, installations and sound projects with electronics.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
-- [PDF: Music for DIY Electronics - A collection of workshops, pieces and projects](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
-- [TEXT: Making Music with an Atari Punk Console - By Forrest M. Mims III](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
+- [*Handmade Electronic Music - Hands-on guide to DIY electronic instruments* Onlineversion des bekannten Buches von Nicolas Collins](https://routledgetextbooks.com/textbooks/9780367210106/ "Hands-on guide to DIY electronic instruments by Nicolas Collins")
+- [Website von John Richards - Britischer Musiker und Künstler. Selbstgebaute Instrumente, Installationen und Klangprojekte mit Elektronik.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
+- [Musik für DIY-Elektronik – Eine Sammlung von Workshops, Stücken und Projekten](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
+- [Beschreibung und Bauanleitung der Atari Punk Console](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
 - Lunetta
 - CD4049 Touch
 
@@ -438,7 +434,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
 **Links:**     
-- [WEBSITE: Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+- [Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
 
@@ -477,12 +473,12 @@ Pendulum von Steve Reich
 
 
 **Links:**     
-- [PDF: Sound Art: Origins, development and ambiguities - Article by Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
-- [VIDEO/SOUNDS/TEXT: Klanginstallation "Time Square" von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
-- [WEBSITE: Zimoun - Schweizer Klangkünstler](https://www.zimoun.net/)
-- [PDF: Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
-- [VIDEO: John Cages Aufführung seines Stückes "Water Walk" im Januar 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
-- [Der Philips Pavillon von Le Corbusier - Musikalische Architektur der Moderne. Interview mit Stefan Weinzierl](https://www.deutschlandfunkkultur.de/der-philips-pavillon-von-le-corbusier-musikalische-100.html)
+- [*Sound Art: Origins, development and ambiguities*, Artikel von Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
+- [Video und Information zur Klanginstallation *Time Square* von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
+- [Webauftritt von *Zimoun*, Schweizer Klangkünstler](https://www.zimoun.net/)
+- [Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
+- [John Cages Aufführung seines Stückes *Water Walk* aus dem Jahr 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
+- [Interview mit Stefan Weinzierl über den Philips-Pavillon von Le Corbusier](https://www.deutschlandfunkkultur.de/der-philips-pavillon-von-le-corbusier-musikalische-100.html)
 
 
 
