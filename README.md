@@ -89,8 +89,6 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 ## Die Beziehung zwischen Klang, Ton und Geräusch 
 
-[Image: Graph? Formel Ästhetik]
-
 
 Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetische Auseinandersetzung befassen wir uns zuerst mit der Frage: was ist Schall und wie hören wir. Es werden die wichtigsten physikalischen Eigenschaften und psychoakustischen Phänomene behandelt. Mit diesem Wissen über Schallausbreitung und Hörpsychologie betrachten wir die Beziehung zwischen Klang, Ton und Geräusch und das Verhältnis von Klangursache und eigentlichem Klang.
 
