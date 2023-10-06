@@ -43,10 +43,10 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 18.1.  	|	 [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          	|
 |	 25.1.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          	|
 |	 1.2.   	|	 [Sound Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-art)                                                                    	|
-|	 8.2.   	|		Diskussion |
+|	 8.2.   	|		Diskussion  <!--(https://github.com/SCLW/Sound/blob/main/README.md#diskussion)--> |
 |	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)-->                                                                               	|
 
-![image](https://github.com/SCLW/Sound/assets/51890764/f7925826-1843-4cd8-aba9-d5115bcbddef)
+
 
 
 
@@ -460,9 +460,9 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
 - Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
+<br>
 
-
-
+## Diskussion
 
 
 <br>
