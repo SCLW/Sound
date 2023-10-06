@@ -33,7 +33,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 26.10. 	|	 [Einführung: »Sound« zwischen Natur- und Kulturwissenschaften (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
 |	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch)                               	|
 |	 9.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            	|
-|	 16.11. 	|	 [Fieldrecordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#field-recordings)                                                               	|
+|	 16.11. 	|	 [Field Recordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#field-recordings)                                                               	|
 |	 23.11. 	|	 [Sound Partikel und Microsounds (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-partikel-und-microsounds)                                               	|
 |	 30.11. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  	|
 |	 7.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sounddesign-und-akustische-klanggestaltung)                                   	|
