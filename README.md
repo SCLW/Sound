@@ -7,6 +7,7 @@
 - Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
 - Referenzen checken
+- Auskommentierte Sektionen bearbeiten
 
 <!--
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
