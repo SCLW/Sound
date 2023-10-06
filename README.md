@@ -41,7 +41,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 21.12. 	|	 [Spektralmusik (Hören)](https://github.com/SCLW/Sound/blob/main/README.md#spektralmusik)                                                              	|
 |	 11.1.  	|	 [DIY-Kultur: Handmade Electronic Music (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#diy-kultur-handmade-electronic-music)                                        	|
 |	 18.1.  	|	 [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          	|
-|	 25.1.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          	|
+|	 25.1.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardwarehacking-und-circuit-bending)                                          	|
 |	 1.2.   	|	 [Sound Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-art)                                                                    	|
 |	 8.2.   	|		Diskussion  <!--(https://github.com/SCLW/Sound/blob/main/README.md#diskussion)--> |
 |	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)--> |
