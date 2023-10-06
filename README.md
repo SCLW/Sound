@@ -63,6 +63,13 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 
 
 
+
+
+**Links:**  
+- [Deutsche Übersetzung des Werkes *L’Arte dei Rumori* des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
+- [Original Aufnahmen und Rekonstruktion der *Simfonija Gudkow* (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
+- [Mitschnitt von *Music for 16 Futurist Noise Intoners* Rekonstruktion historischer und aktueller Kompositionen mit Intonarumori Nachbauten](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
+
 **Literatur:**  
 - Alarcón, Miguel Molina. *Baku: Symphony of Sirens: Sound Experiments in the Soviet.* ReR MEGACORP, 2008. 
 - Busoni, Ferrucio. *Entwurf einer neuen Ästhetik der Tonkunst.* Insel, 1916.
@@ -74,13 +81,6 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.
 - Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
    
-
-**Links:**  
-- [Deutsche Übersetzung des Werkes *L’Arte dei Rumori* des Futuristen Luigi Russolo von 1916](https://monoskop.org/images/a/a5/Russolo_Luigi_Die_Geraeuschkunst.pdf "L'arte dei rumori")
-- [Original Aufnahmen und Rekonstruktion der *Simfonija Gudkow* (Symphonie der Sirenen) von Arseni Michailowitsch Awraamow aus dem Jahr 1922](https://www.youtube.com/watch?v=Kq_7w9RHvpQ "Symphony Of Sirens")
-- [Mitschnitt von *Music for 16 Futurist Noise Intoners* Rekonstruktion historischer und aktueller Kompositionen mit Intonarumori Nachbauten](https://www.youtube.com/watch?v=Lqej96ZVoo8&t=1497s)
-
-
 
 
 <br>
@@ -95,15 +95,6 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 
 
 
-**Literatur:**    
-- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
-- Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
-- Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
-- Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
-- Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
-- Sanio, Sabine, und Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
-- Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
-- Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 
 
 **Links:**    
@@ -115,6 +106,15 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [Informationen zu Bregmans *Auditory Scene Analysis*](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
 
 
+**Literatur:**    
+- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
+- Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
+- Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
+- Roads, Curtis. *Composing Electronic Music a New Aesthetic.* Oxford University Press, 2015.
+- Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
+- Sanio, Sabine, und Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
+- Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer International Publishing, 2019. 
+- Weinzierl, Stefan. *Handbuch Der Audiotechnik.* Springer, 2008. 
 
 
 
@@ -134,6 +134,11 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 
 
 
+**Links:**   
+- [Offizielle Website *The World Soundscape Project* der Simon Fraser Universität](https://www.sfu.ca/sonic-studio-webdav/WSP/index.html "The World Soundscape Project")
+- [Onlineversion *The Soundscape - Our Sonic Environment and the Tuning of the World* von R. Murray Schafer](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "The Tuning of the World")
+- [Artikel über den Komponisten und Field Recordist *Chris Watson*](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
+
 
 **Literatur:**    
 - Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
@@ -141,10 +146,6 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
 
-**Links:**   
-- [Offizielle Website *The World Soundscape Project* der Simon Fraser Universität](https://www.sfu.ca/sonic-studio-webdav/WSP/index.html "The World Soundscape Project")
-- [Onlineversion *The Soundscape - Our Sonic Environment and the Tuning of the World* von R. Murray Schafer](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "The Tuning of the World")
-- [Artikel über den Komponisten und Field Recordist *Chris Watson*](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
 
 
 
@@ -180,8 +181,6 @@ https://www.nytimes.com/2020/06/03/arts/music/field-recordings.html
 https://en.wikipedia.org/wiki/Irv_Teibel   
 -->
 
-**Literatur:**    
-- Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
 
 
 **Links:**     
@@ -193,6 +192,8 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 - [Projekt zu Unterwasseraufnahmen der TBA21 Thyssen-Bornemisza Art Contemporary](https://tba21.org/underwater_ambisonic_recordings "Underwater Ambisonic Recordings, 2013")
 
 
+**Literatur:**    
+- Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
 
 
 
@@ -213,8 +214,6 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 »Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
 
-**Literatur:**  
-- Roads, Curtis. *Microsound.* MIT, 2004.
 
 **Links:**   
 - [Tutorial - Granular Synthesis and the Granulation of Sampled Sound](https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Microsound.html "Granular Synthesis and the Granulation of Sampled Sound")
@@ -222,6 +221,8 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 - [Artikel über Granularsynthese](https://cmtext.indiana.edu/synthesis/chapter4_granular.php)
 - [Grundlegendes zu FFTs und Fensterfunktionen](https://www.ni.com/de/shop/data-acquisition/measurement-fundamentals-main-page/analog-fundamentals/understanding-ffts-and-windowing.html)
 
+**Literatur:**  
+- Roads, Curtis. *Microsound.* MIT, 2004.
 
 
 
@@ -235,13 +236,13 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen geeignet ist.  
 
 
-**Literatur:**    
-- Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
 **Links:**     
 - [Doktorarbeit über Klangnotation und die visuelle Darstellung von Klang für Komposition und Analyse](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
 - [*Music Derived from Other Sources* - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
+**Literatur:**    
+- Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
 
 
 
@@ -297,12 +298,12 @@ Wir vertiefen das Thema »Sounddesign«, indem wir praxisorientiert in kleinen G
 
 
 
-**Literatur:**    
-- Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 **Links:**    
 - [The Sound Effects Bible - Anleitung zum Sounddesign und Foleymaking](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf "The Sound Effects Bible")
 
+**Literatur:**    
+- Viers, Ric. *The Sound Effects Bible: How to Create and Record Hollywood Style Sound Effects.* Michael Wiese Productions, 2008. 
 
 
 
@@ -323,15 +324,15 @@ Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben,
 * Denis Smalley
 
 
-**Literatur:**  
-- Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
-
 **Links:**     
 - [Eine Auseinandersetzung mit ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
 - [Paper über ISIS von Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - von Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
 - [Zusammenstellung zu den grundlegenden Konzepten und Techniken der Spektralmusik](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
 
+
+**Literatur:**  
+- Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
 
 
 
@@ -361,13 +362,13 @@ Ob aus Mangel an Möglichkeiten, als bewusste Anti-Konsum Haltung oder als Indiv
 
 
 
-**Literatur:**    
-- Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
-
 **Links:** 
 - [Handmade Sound Communities - From Do-It-Yourself to Do-It-Together](https://escholarship.org/content/qt7bg2c3rt/qt7bg2c3rt.pdf "Handmade Sound Communities")
 - [Shifting Gender in Electronic Music: DIY and Maker Communities von John Richards](https://dora.dmu.ac.uk/server/api/core/bitstreams/391a1341-5083-4ba4-afa1-ec7ee5d8323f/content "Shifting Gender in Electronic Music: DIY and Maker Communities")
 
+
+**Literatur:**    
+- Collins, Nicolas. *Handmade Electronic Music: The Art of Hardware Hacking.* Routledge, 2020.
 
 
 
@@ -416,14 +417,15 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 
+
+**Links:**     
+- [Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+
 **Literatur:**    
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
 - Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
-
-**Links:**     
-- [Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 
 
@@ -444,13 +446,6 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 
-**Literatur:**    
-- DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
-- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
-- La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
-- Treib, Marc, and Richard Felciano. *Space Calculated in Seconds: The Philips Pavilion, Le Corbusier, Edgard Varèse.* Princeton University Press, 1996. 
-- Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
-- Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 
 **Links:**     
@@ -461,6 +456,13 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 - [John Cages Aufführung seines Stückes *Water Walk* aus dem Jahr 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
 - [Interview mit Stefan Weinzierl über den Philips-Pavillon von Le Corbusier](https://www.deutschlandfunkkultur.de/der-philips-pavillon-von-le-corbusier-musikalische-100.html)
 
+**Literatur:**    
+- DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
+- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
+- La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
+- Treib, Marc, and Richard Felciano. *Space Calculated in Seconds: The Philips Pavilion, Le Corbusier, Edgard Varèse.* Princeton University Press, 1996. 
+- Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
+- Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 
 
