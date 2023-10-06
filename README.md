@@ -44,7 +44,9 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 25.1.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardware-hacking-und-circuit-bending)                                          	|
 |	 1.2.   	|	 [Sound Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-art)                                                                    	|
 |	 8.2.   	|		Diskussion |
-|	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)-->                                                                               	|![image](https://github.com/SCLW/Sound/assets/51890764/f7925826-1843-4cd8-aba9-d5115bcbddef)
+|	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)-->                                                                               	|
+
+![image](https://github.com/SCLW/Sound/assets/51890764/f7925826-1843-4cd8-aba9-d5115bcbddef)
 
 
 
