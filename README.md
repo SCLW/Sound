@@ -230,17 +230,7 @@ https://en.wikipedia.org/wiki/Irv_Teibel
 ## Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound
 
 
-<!--
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/Barlow_Notation_light.png">
-  <img alt="Graphical score with three symbols for the instruments, violin, cello and piano, describing an individual spiral starting at the centre of an equilateral triangle with the composers Clementi, Schumann and Ravel at the apices marked “C”, “S” and “R”" src="/Img/Barlow_Notation_dark.png">
-</picture>
-
-*Klarenz Barlow nutzte Dreieck und Spirale für sein Stück "1981"*
-<br>
-
--->
 
 Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Betrachtungen oder Komposition experimenteller Musik. Klangfarbe, zufällige Elemente, komplexe Zeitstrukturen oder Räumlichkeit lassen sich nur bedingt oder gar nicht mit dem etablierten westlichen Notationssystem abbilden, welches vorrangig für die Darstellung zeitlicher Tonhöhenstrukturen geeignet ist.  
 
@@ -406,9 +396,6 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 - [Website von John Richards - Britischer Musiker und Künstler. Selbstgebaute Instrumente, Installationen und Klangprojekte mit Elektronik.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [Musik für DIY-Elektronik – Eine Sammlung von Workshops, Stücken und Projekten](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
 - [Beschreibung und Bauanleitung der Atari Punk Console](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
-- Lunetta
-- CD4049 Touch
-
 
 
 
@@ -454,14 +441,6 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 »Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Vorlesung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von *John Cage* in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 
-...
-
-
-Max Neuhaus  
-Bill Fontana    
-Steve Reich  
-John Cage  
-Pendulum von Steve Reich  
 
 
 
