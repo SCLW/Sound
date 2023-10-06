@@ -456,7 +456,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 - La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
 - Treib, Marc, and Richard Felciano. *Space Calculated in Seconds: The Philips Pavilion, Le Corbusier, Edgard Varèse.* Princeton University Press, 1996. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
-- Weibel, Peter,et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
+- Weibel, Peter, et al. *Sound Art: Sound as a Medium of Art.* MIT Press, 2019. 
 
 <br>
 
