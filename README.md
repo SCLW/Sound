@@ -8,6 +8,7 @@
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
 - Referenzen checken
 - Auskommentierte Sektionen bearbeiten
+- nicht benutzte Fotos aus img löschen
 
 <!--
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
