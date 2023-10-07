@@ -138,14 +138,14 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 - [Offizielle Website *The World Soundscape Project* der Simon Fraser Universität](https://www.sfu.ca/sonic-studio-webdav/WSP/index.html "The World Soundscape Project")
 - [Onlineversion *The Soundscape - Our Sonic Environment and the Tuning of the World* von R. Murray Schafer](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf "The Tuning of the World")
 - [Artikel über den Komponisten und Field Recordist *Chris Watson*](https://musictech.com/features/interviews/chris-watson-life-spent-listening-field-recording-foley-david-attenborough/)
-
+- [Onlineversion des Buchs *Acoustic Communication* von Barry Truax](https://monoskop.org/images/1/13/Truax_Barry_Acoustic_Communication.pdf "Acoustic Communication")
 
 **Literatur:**    
 - Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 - Schaeffer, Pierre. *Traité Des Objets Musicaux: Essai Interdisciplines.* Éd. Du Seuil, 2002. 
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
 - Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
-
+- Truax, Barry. *Acoustic Communication.* Ablex, 2001. 
 
 
 
