@@ -129,7 +129,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 *Die Grafik zeigt die relative Lautstärke einzelner Klänge einer natürlichen Lautsphäre im Verlauf eines Jahres an der Westküste von British Columbia.*
 <br>
 
-Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der »Sound Studies«. In dem Buch propagierte er ein kritisches Hören und entwickelte den Begriff »Soundscape« als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
+Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde in den späten 1960er Jahren die sogenannte akustische Umweltforschung begründet. Es gilt als bedeutende Referenz des jungen akademischen Feldes der »Sound Studies«. In dem Buch propagierte R. Murray Schafer ein kritisches Hören und entwickelte den Begriff »Soundscape« als Indikator für den Einfluss des Menschen auf seine Umwelt und den Zustand der Natur. Wir betrachten die in dem Buch formulierten ästhetischen, politischen und sozialen Überlegungen.
 
 
 
