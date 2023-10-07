@@ -205,7 +205,7 @@ Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios 
 
 
 
-»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Eine wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
+»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Einen wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
 
 
