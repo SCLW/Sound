@@ -181,7 +181,6 @@ Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios 
 - [Schaltplan eines EMF-Mikrofons](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
 - [Beschreibung eine Low-Cost Hydrophons für das *The Ocean of Things* Programm](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
 - [Onlineartikel über DIY Kontaktmikrofone](https://knowledge.lom.audio/research/contact_mics)
-- [Projekt zu Unterwasseraufnahmen der TBA21 Thyssen-Bornemisza Art Contemporary](https://tba21.org/underwater_ambisonic_recordings "Underwater Ambisonic Recordings, 2013")
 - [Über *die Kunst des Field Recording*](https://www.ableton.com/de/blog/art-of-field-recording/ "Field Recording")
 - [Interview mit Irv Treibel](https://www.youtube.com/watch?v=izacImmVMqM&t=338s "Interview mit Irv Treibel")
 
