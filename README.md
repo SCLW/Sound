@@ -410,7 +410,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 **Links:**     
-- [Beispiel eines modifizierten "Speak & Spell" - Kindercomputer und Spielzeug der 1970er und 1980er Jahre](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+- [Beispiel eines modifizierten *Speak & Spell* Kindercomputer](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
 
 **Literatur:**    
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
@@ -442,7 +442,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 **Links:**     
 - [*Sound Art: Origins, development and ambiguities*, Artikel von Alan Licht](https://ciufo.org/classes/ae_sp16/reading/sound_art_Licht.pdf "Sound Art: Origins, development and ambiguities")
 - [Video und Information zur Klanginstallation *Time Square* von Max Neuhaus](https://soundart.zone/max-neuhaus-sound-art)
-- [Webauftritt von *Zimoun*, Schweizer Klangkünstler](https://www.zimoun.net/)
+- [Webauftritt von Zimoun, Schweizer Klangkünstler](https://www.zimoun.net/)
 - [Doktorarbeit über Max Neuhaus, Ortsspezifität und die Materialität des Klangs als Ort](https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/76660/Eppley_grad.sunysb_0771E_13235.pdf "Max Neuhaus")
 - [John Cages Aufführung seines Stückes *Water Walk* aus dem Jahr 1960](https://www.youtube.com/watch?v=gXOIkT1-QWY "John Cage: Water walk")
 - [Interview mit Stefan Weinzierl über den Philips-Pavillon von Le Corbusier](https://www.deutschlandfunkkultur.de/der-philips-pavillon-von-le-corbusier-musikalische-100.html)
