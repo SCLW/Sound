@@ -103,8 +103,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [Stille, Geräusch, Rauschen - Ästhetische und medientechnische Anmerkungen von Rolf Großmann](https://www.auditive-medienkulturen.de/wp-content/uploads/2019/03/Großmann_Stille-Geräusch-Rauschen.pdf "Stille, Geräusch, Rauschen")
 - [Kurzübersicht der Wahrnehmungsaspekte des Hörens](https://ccrma.stanford.edu/CCRMA/Courses/152/perceptual.html)
 - [Manuskript zu Musikwahrnehmung, Tonhöhe und das auditorische System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629434/)
-- [Informationen zu Bregmans *Auditory Scene Analysis*](https://webpages.mcgill.ca/staff/Group2/abregm1/web/labbook.htm)
-
+- [Klangbeispiele und Erklärungen zu *Auditory Scene Analysis* von Albert S. Bregman](https://themusiclab.github.io/bregman-archive/downloadstoc.htm)
 
 **Literatur:**    
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
