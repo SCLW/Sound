@@ -391,7 +391,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 - [Website von John Richards - Britischer Musiker und Künstler. Selbstgebaute Instrumente, Installationen und Klangprojekte mit Elektronik.](https://www.dirtyelectronics.org/about.html "British musician and artist. Self-made instruments, installations and sound projects with electronics")
 - [Musik für DIY-Elektronik – Eine Sammlung von Workshops, Stücken und Projekten](http://www.interfacesnetwork.eu/img/files/Music_for_DIY_Electronics.pdf "A collection of workshops, pieces and projects")
 - [Beschreibung und Bauanleitung der Atari Punk Console](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html "Making Music with an Atari Punk Console")  
-
+- [Einführung in das Arbeiten mit Logik-Chips zur Klangerzeugung](https://github.com/SCLW/Circuitry-Based-Sound)
 
 
 
