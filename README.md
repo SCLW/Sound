@@ -232,7 +232,6 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 
 **Links:**     
 - [Doktorarbeit über Klangnotation und die visuelle Darstellung von Klang für Komposition und Analyse](https://kth.diva-portal.org/smash/get/diva2:1758712/FULLTEXT01.pdf "The visual representation of sound for composition and analysis")  
-- [*Music Derived from Other Sources* - Klarenz Barlow](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=37394bf179538f9590043e6cdde9e35823689403 "Music Derived from Other Sources")
 
 **Literatur:**    
 - Nyström, Erik. "Topology of spatial texture in the acousmatic medium." Dissertation City University London, 2013.
