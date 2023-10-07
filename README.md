@@ -203,7 +203,7 @@ Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios 
 
 
 
-»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Einen wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsounds* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
+»Microsounds« stellten lange Zeit schwer zugängliches Klangmaterial unterhalb der Ebene eines Tons dar. Diese äußerst kurzen, wenige Millisekunden dauernden Klangpartikel können heutzutage mithilfe digitaler Verfahren kompositorisch dynamisch verarbeitet werden. Einen wichtigen Beitrag zum Verständnis der Eigenschaften und dem Empfinden dieser Klänge schuf Curtis Roads, der auch mit seinen elektronischen Kompositionen diesen Bereich erschlossen hat. Dem Inhalt seines Buchs *Microsound* folgend beschäftigen wir uns mit der dahinterliegenden Theorie der Granularsynthese, den kompositorischen Techniken, sowie den ästhetischen Ergebnissen.
 
 
 
@@ -400,7 +400,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 *Modifiziertes Speak & Spell Spielzeug*
 <br>
 
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern, meist nach dem Prinzip ›Trial-and-Error‹, um mit »Hardwarehackings« Audiohardware andersartige Klänge entgegen der ursprünglich Intention zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
