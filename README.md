@@ -20,7 +20,7 @@
 
 Eine Vielzahl an Forschungs- und Arbeitsdisziplinen haben in jüngerer Zeit ihr Untersuchungspektrum um akustische und auditive Phänomene erweitert. Unter dem englischen Begriff »Sound« werden aus verschiedenen Fragerichtungen heraus dessen Durchdringung der Bereiche Technik, Gesellschaft, Kunst, Philosophie, Ästhetik und Wahrnehmungspsychologie behandelt. In diesem Seminar wird der Gegenstandsbereich »Sound« in verschiedenen Kontexten näher betrachtet. Dabei werden sowohl aktuelle als auch historische Ansätze und Positionen untersucht. Das Ziel ist es, vor diesem Hintergrund »Sound« klarer zu konturieren. Durch Unterrichtseinheiten mit Workshopcharakter werden einzelne Aspekte praxisorientiert vertieft.  
 
-Im Rahmen der Vorlesung können einzelne Referatsthemen bearbeitet und in einem ca. 15-minütigen Vortrag vorgestellt werden. Zusammen mit einer schriftlichen Ausarbeitung besteht die Möglichkeit, einen Leistungsschein aus der Fachtheorie Medienkunst/Sound zu erhalten. Ebenso ist es möglich, eigene künstlerische Arbeiten zu diesem Thema vorzustellen, was mit einem Praxisleistungsschein ausgezeichnet wird. Details zu den genauen Anforderungen und dem Umfang der jeweiligen Arbeiten werden im Vorfeld mit dem Dozenten geklärt.  
+Im Rahmen der Veranstaltung können einzelne Referatsthemen bearbeitet und in einem ca. 15-minütigen Vortrag vorgestellt werden. Zusammen mit einer schriftlichen Ausarbeitung besteht die Möglichkeit, einen Leistungsschein aus der Fachtheorie Medienkunst/Sound zu erhalten. Ebenso ist es möglich, eigene künstlerische Arbeiten zu diesem Thema vorzustellen, was mit einem Praxisleistungsschein ausgezeichnet wird. Details zu den genauen Anforderungen und dem Umfang der jeweiligen Arbeiten werden im Vorfeld mit dem Dozenten geklärt.  
 
 Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
@@ -432,7 +432,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 
-»Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Vorlesung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von *John Cage* in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
+»Sound Art« ist zwischen bildender Kunst und Musik angesiedelt und umfasst Klanginstallationen, -skulpturen und -performances. Wichtige Merkmale sind ihre Intermedialität sowie ihre Raum- und Ortsbezogenheit. Mit dem Beginn des 20. Jahrhunderts bilden sich aus den avantgardistischen Kunstströmungen neuartige Kompositionsformen und Hörgewohnheiten heraus, welche entscheidende Impulse für die Entwicklung der »Klangkunst« geben. Dieser Teil der Veranstaltung nimmt die für die »Klangkunst« wegweisenden Performances und Aktion von *John Cage* in den Blick und zeichnet nach, wie die Kombination neuer Medien und Klang das Spektrum künstlerischer Ausdrucksmöglichkeiten erweitert und beispielsweise in multimedialen Kunstwerken wie dem Philips-Pavillon mündet.  
 
 
 
