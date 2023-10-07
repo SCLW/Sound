@@ -258,7 +258,7 @@ Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate S
 
   
 **Literatur:**    
-- Chion, Michel, and J.U Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
+- Chion, Michel, and J.U. Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
 - Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
