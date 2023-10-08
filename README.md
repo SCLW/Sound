@@ -186,7 +186,8 @@ Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios 
 
 **Literatur:**    
 - Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
-
+- Dickreiter, Michael. *Mikrofon-Aufnahmetechnik Aufnahmeräume, Schallquellen, Mikrofone, räumliches Hören, Aufnahmeverfahren, Aufnahme einzelner Instrumente und Stimmen.* Hirzel, 2003.
+- Görne, Thomas. *Mikrofone in Theorie und Praxis.* Elektor-Verlag, 2007. 
 
 
 <br>
