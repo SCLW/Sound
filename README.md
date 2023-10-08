@@ -255,14 +255,14 @@ Wir befassen uns mit Beschreibungen von Klang für die Analyse, ästhetische Bet
 
 
 
-Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk *L´Audio-Vision. Son et image au cinéma* von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch *Sound Design: Die Virtuelle Klangwelt des Films* von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
+Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate Sound/Audio-Branding (Hörmarke/Jingles) bis hin zum Akustik-Design in öffentlichen Räumen oder dem Produkt-Sounddesign (E-Autos), in all diesen Bereichen werden gesellschaftliche, politische, gesundheitliche und ästhetische Fragen behandelt. Ausgehend vom Standardwerk *L´Audio-Vision. Son et image au cinéma* von Michel Chion rekonstruieren wir die Geschichte von Ton im Film von den Anfängen bis heute. Als weitere Referenz ziehen wir das Buch *Sound Design: Die virtuelle Klangwelt des Films* von Barbara Flückiger heran und analysieren, wie mit Klang erzählt werden kann.
 
 
 
   
 **Literatur:**    
 - Chion, Michel, and J.U. Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
-- Flückiger, Barbara. *Sound Design: Die Virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
+- Flückiger, Barbara. *Sound Design: Die virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
 
