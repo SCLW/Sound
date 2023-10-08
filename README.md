@@ -1,5 +1,6 @@
 # Sound (Theorie und Praxis)
 
+- Gendern
 - Foto: Was ist Schall ???
 - Text: Klassifikation ???
 - Foto: Foley neu aufnehmen
