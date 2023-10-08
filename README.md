@@ -7,6 +7,8 @@
 - Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
 - Referenzen checken
+- Referatsthemen zusammenstellen
+- Diskussionsthemen
 - Auskommentierte Sektionen bearbeiten
 - nicht benutzte Fotos aus img löschen
 
