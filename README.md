@@ -7,7 +7,6 @@
 - Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
 - Foto: Selbstbau elektronischer Instrumente - anderes Bild
 - Referenzen checken
-- Referatsthemen zusammenstellen
 - Diskussionsthemen
 - Auskommentierte Sektionen bearbeiten
 - nicht benutzte Fotos aus img löschen
@@ -463,10 +462,12 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 ## Diskussion
 
 
+
 <br>
 
 ## Referate
 
+<!--
 **Curtis Roads - Klangästhetische Betrachtungen**
 
 Aesthetic foundation
@@ -503,7 +504,7 @@ Aesthetics of Composing with Microsound
 **Spectromorphology**
 * Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.  
 
-
+-->
 
 
 <br>
