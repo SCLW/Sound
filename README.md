@@ -467,6 +467,41 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 ## Referate
 
+**Curtis Roads - Klangästhetische Betrachtungen**
+
+Aesthetic foundation
+* Roads, Curtis. Composing Electronic Music a New Aesthetic. Oxford University Press, 2015.  
+
+Aesthetics of Composing with Microsound
+* Roads, Curtis. Microsound. MIT, 2004.  
+
+**Klang im Digitalen Zeitalter**
+* Wishart, Trevor, and Simon Emmerson. On Sonic Art. Harwood Academic Publishers, 1996.  
+* Wishart, Trevor. Audible Design: A Plain and Easy Introduction to Practical Sound Composition. Orpheus the Pantomime, 1995.  
+
+**Die Ästhetik des Fehlers**
+* Cascone, Kim. The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music. Computer Music Journal, 2000.  
+
+**Klang und Semantik in der Musik des 20. und 21. Jahrhunderts**
+"Kapitel Perspektiven" (Seiten 7 - 12) und "Am Ausgang des Tunnels ins Unbekannte spekulierend Überlegungen zum Wechselspiel zwischen Klang und Semantik in der Musik seit 1950" (Seiten 13 - 46)
+* Hiekel, Jörn Peter, und Wolfgang Mende. Klang und Semantik in der Musik des 20. und 21. Jahrhunderts. Transcript, 2018.
+
+**Physik als Musik: Ryoji Ikeda**
+* Weibel, Peter. Musik und Medien. Hatje Cantz, 2016.
+
+**Sound Art**
+* Weibel, Peter. Musik und Medien. Hatje Cantz, 2016.
+
+**Gender und Sound**
+* Carson, Anne. The Gender of Sound. Glass, Irony and God. New Directions, 1995.  
+* Oliveros, Pauline. Sex As We Don't Know It: Computer Music Futures. Ear Wave Event, 2017.  
+
+**Soundscape Composition**
+* Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.  
+* Boersen, Ronald. “Enactive Listening: Perceptual Reflections on Soundscape Composition.” Organised Sound, vol. 27, no. 1, 2022, pp. 69–79, https://doi.org/10.1017/s135577182200019x.  
+
+**Spectromorphology**
+* Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.  
 
 
 
