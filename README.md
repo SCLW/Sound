@@ -144,7 +144,7 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 - Popper, Arthur N., and Richard R. Fay. *Soundscapes: Humans and Their Acoustic Environment.* Springer International Publishing, 2023. 
 - Schaeffer, Pierre. *Traité Des Objets Musicaux: Essai Interdisciplines.* Éd. Du Seuil, 2002. 
 - Schafer, R. Murray. *The Tuning of the World.* Knopf, 1977.
-- Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” Organised Sound, vol. 13, no. 2, 2008, pp. 103–109, https://doi.org/10.1017/s1355771808000149.
+- Truax, Barry. “Soundscape Composition as Global Music: Electroacoustic Music as Soundscape.” *Organised Sound.* Vol. 13, no. 2, 2008, pp. 103–109, doi: [10.1017/s1355771808000149](https://doi.org/10.1017/s1355771808000149 "doi").
 - Truax, Barry. *Acoustic Communication.* Ablex, 2001. 
 
 
