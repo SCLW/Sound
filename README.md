@@ -1,15 +1,5 @@
 # Sound (Theorie und Praxis)
 
-- Foto: Was ist Schall ???
-- Text: Klassifikation ???
-- Foto: Foley neu aufnehmen
-- Foto: Fieldrecording: Clearence
-- Foto: DIY-Kultur: Handmade Electronic Music - anderes Bild
-- Foto: Selbstbau elektronischer Instrumente - anderes Bild
-- Referenzen checken
-- Diskussionsthemen
-- Auskommentierte Sektionen bearbeiten
-- nicht benutzte Fotos aus img löschen
 
 <!--
 - Wishart, Trevor. *Audible Design: A Plain and Easy Introduction to Practical Sound Composition.* Orpheus the Pantomime, 1995.
@@ -409,9 +399,8 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 *Modifiziertes Speak & Spell Spielzeug*
 <br>
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern, meist nach dem Prinzip ›Trial-and-Error‹, um mit »Hardwarehackings« Audiohardware andersartige Klänge entgegen der ursprünglich Intention zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
+Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern von Audiohardware, um entgegen der ursprünglich Intention andersartige Klänge zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
 
 
