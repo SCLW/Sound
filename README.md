@@ -261,7 +261,7 @@ Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate S
   
 **Literatur:**    
 - Chion, Michel, and J.U. Lensing. *Audio-Vision Ton und Bild im Kino.* Schiele & Schön, 2012.
-- Flückiger, Barbara. *Sound Design: Die virtuelle Klangwelt des Films.* Schüren Verlag GmbH, 2017.
+- Flückiger, Barbara. *Sound Design: Die virtuelle Klangwelt des Films.* Schüren Verlag, 2017.
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
 - Raffaseder, Hannes. *Audiodesign.* Fachbuchverl. Leipzig Im Carl-Hanser-Verl., 2002. 
 
@@ -325,7 +325,7 @@ Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben,
 
 
 **Literatur:**  
-- Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, https://doi.org/10.1017/s1355771897009059.
+- Smalley, Denis. “Spectromorphology: Explaining Sound-Shapes.” Organised Sound, vol. 2, no. 2, 1997, pp. 107–126, doi: [10.1017/s1355771897009059](https://doi.org/10.1017/s1355771897009059 "doi").
 
 
 
@@ -417,7 +417,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 **Literatur:**    
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
 - Ghazala, Reed. *Circuit-Bending: Build Your Own Alien Instruments.* Wiley Pub., 2005.
-- Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." Leonardo Music Journal, vol. 14, 2004, pp. 97–104, https://doi.org/10.1162/0961121043067271. 
+- Ghazala, Reed. "The Folk Music of Chance Electronics: Circuit-bending the modern coconut." *Leonardo Music Journal.* Vol. 14, 2004, pp. 97–104, doi: [10.1162/0961121043067271](https://doi.org/10.1162/0961121043067271 "doi"). 
 - Tone, Yasunao, and Robert Ashley. *Yasunao Tone: Noise Media Language.* Errant Bodies Press, 2007. 
 
 
@@ -451,7 +451,7 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 **Literatur:**    
 - DeMarinis, Paul, et al. *Paul DeMarinis: Buried in Noise.* Kehrer, 2010. 
-- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer Verlag, 2010.
+- Kiefer, Peter. *Klangräume Der Kunst.* Kehrer, 2010.
 - La Motte-Haber, Helga de. *Klangkunst erschienen anlässlich von Sonambiente, Festival für Hören und Sehen, Internationale Klangkunst im Rahmen der 300-Jahrfeier der Akademie der Künste, Berlin, 9. August - 8. September 1996.* Prestel, 1996. 
 - Treib, Marc, and Richard Felciano. *Space Calculated in Seconds: The Philips Pavilion, Le Corbusier, Edgard Varèse.* Princeton University Press, 1996. 
 - Weibel, Peter. *Musik und Medien.* Hatje Cantz, 2016.
