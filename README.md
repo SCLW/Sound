@@ -81,7 +81,7 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 ## Die Beziehung zwischen Klang, Ton und Geräusch 
 
 ![Intonarumori](/Img/vibrating_strings.jpg)
-*Vibrating String - Experiment*
+*[Vibrating String](https://sciencedemonstrations.fas.harvard.edu/presentations/vibrating-string) - Harvard Natural Sciences Lecture Demonstrations*
 <br>
 
 <!--
