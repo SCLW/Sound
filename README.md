@@ -173,14 +173,18 @@ Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios 
 
 
 **Links:**     
-- [Information zu EMF-Aufnahmen (EMF = Elektromagnetisches Feld)](https://beepblip.org/in-the-field-with-emf-detector/ "Experimental recordings: Pickups for electromagnetic fields")  
+  
+
+- [*Die Kunst des Field Recording*](https://www.ableton.com/de/blog/art-of-field-recording/ "Field Recording")
+- [Interview mit Irv Treibel](https://www.youtube.com/watch?v=izacImmVMqM&t=338s "Interview mit Irv Treibel")
 - [Bauanleitung für ein DIY EMF-Mikrofon](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields/)  
 - [Schaltplan eines EMF-Mikrofons](https://github.com/LOM-instruments/Elektrosluch-3-plus/blob/master/hardware/elektrosluch_schematic.pdf)  
 - [Beschreibung eine Low-Cost Hydrophons für das *The Ocean of Things* Programm](https://orcasound.net/pubs/Wiggins+Hildebrand-2019.pdf)
-- [Onlineartikel über DIY Kontaktmikrofone](https://knowledge.lom.audio/research/contact_mics)
-- [*Die Kunst des Field Recording*](https://www.ableton.com/de/blog/art-of-field-recording/ "Field Recording")
-- [Interview mit Irv Treibel](https://www.youtube.com/watch?v=izacImmVMqM&t=338s "Interview mit Irv Treibel")
 
+<!--
+- [Information zu EMF-Aufnahmen (EMF = Elektromagnetisches Feld)](https://beepblip.org/in-the-field-with-emf-detector/ "Experimental recordings: Pickups for electromagnetic fields")
+- [Onlineartikel über DIY Kontaktmikrofone](https://knowledge.lom.audio/research/contact_mics)
+-->
 
 **Literatur:**    
 - Kahn, Douglas. *Earth Sound Earth Signal: Energies and Earth Magnitude in the Arts.* University of California Press, 2013. 
@@ -408,7 +412,9 @@ Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Veränd
 
 
 **Links:**     
-- [Beispiel eines modifizierten *Speak & Spell* Kindercomputer](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending") 
+- [Nicolas Collins: Hacking the CD Player](https://www.nicolascollins.com/texts/cdhacking.pdf "Hacking the CD Player")
+- [Beispiel eines modifizierten *Speak & Spell* Kindercomputer](https://makezine.com/article/craft/music/how-to-speak-spell-bendin/ "Speak & Spell bending")
+
 
 **Literatur:**    
 - Cascone, Kim. *The Aesthetics of Failure: “Post-Digital” Tendencies in Contemporary Computer Music.* Computer Music Journal, 2000.
