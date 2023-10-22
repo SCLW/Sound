@@ -318,7 +318,9 @@ Unter dem Begriff »Spektralmusik« werden kompositorische Ansätze beschrieben,
 
 
 **Links:**     
+<!--
 - [Eine Auseinandersetzung mit ISIS (Intra-Samplar Interpolating Sinusoids)](https://nathan.ho.name/posts/clarence-barlow-isis/ "A Closer Look at Clarence Barlow's ISIS")
+-->
 - [Paper über ISIS von Klarenz Barlow](https://www.mat.ucsb.edu/Publications/ISIS.pdf "ISIS")
 - [Spectromorphology: explaining sound-shapes - von Denis Smalley](http://www.jaimeoliver.pe/courses/ci/pdf/smalley-1997.pdf)
 - [Zusammenstellung zu den grundlegenden Konzepten und Techniken der Spektralmusik](https://music.arts.uci.edu/abauer/5.4/readings/Fineberg_Basics_Spectral.pdf)
