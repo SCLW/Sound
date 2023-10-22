@@ -277,9 +277,6 @@ Vom »Sounddesign« im Film, Computerspiel oder in X-Realities über Corporate S
 
 ## Foley und Audio Postproduktion
 
-![Foleymaking](/Img/Foley.jpg)
-*Foleymaking*
-<br>
 
 ![Foleymaking](/Img/Foley_V01.jpg)
 *Foleymaking*
