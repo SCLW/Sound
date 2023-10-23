@@ -160,6 +160,9 @@ Mit dem Werk *The Tuning of the World* des Komponisten R. Murray Schafer wurde i
 *Field Recordist mit Aufnahmegerät. © photo: R. Teneva*
 <br>
 
+![Field Recording](/Img/Fieldrecording_Tilmann_Roediger.jpg)
+*Field Recordist mit Aufnahmegerät. © photo: T. Rödiger*
+<br>
 
 <!-- 
 https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd271e
