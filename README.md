@@ -168,7 +168,7 @@ https://github.com/SCLW/Sound/assets/51890764/d52727be-787d-464d-ac33-7a52befd27
 <br>
 -->
 
-Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis in den Bereichen Sounddesign, Kunst und Komposition dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem »kritischen Hören« an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofone erforscht.
+Audioaufnahmen außerhalb der kontrollierten Bedingungen eines Recordingstudios stellen eine wichtige künstlerische Praxis in den Bereichen Sounddesign, Kunst und Komposition dar. Während mit der Auswahl des Ortes lediglich die Rahmenbedingungen für den möglichen Klang gesetzt werden können, bleibt die Art des aufgenommenen Materials selbst von Zufall und Unvorhersehbarkeit bestimmt. In diesem Praxisteil knüpfen wir an die vorangegangene Sitzung und dem »kritischen Hören« an: Nach einem kurzen Überblick über die grundlegenden Techniken der Mikrofonierung für Natur- und Ambientaufnahmen arbeiten wir künstlerisch mit mobilem Aufnahmeequipment im freien Feld. Dabei wird auch die Ästhetik experimenteller Aufnahmeverfahren mit Kontaktmikrofonen, Hydrophonen und EMF-Mikrofonen erforscht.
 
 
 
