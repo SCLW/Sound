@@ -72,9 +72,9 @@ In der ersten Sitzung werden die Bereiche aus Kunst und Wissenschaft, in denen a
 - Marinetti, F. T., und Stefanie Golisch. *Manifeste Des Futurismus.* Matthes & Seitz Berlin, 2018. 
 - Schaeffer, Pierre, et al. *Musique concrète: Von den Pariser Anfängen um 1948 bis zur Elektroakustischen Musik heute.* Klett, 1974. 
 - Schmitz-Gundlach, Esther. *Musikästhetische Konzepte des italienischen Futurismus und ihre Rezeption durch Komponisten des 20. Jahrhunderts.* M-Press Meidenbauer, 2007.
+- Small, Christopher. *Musicking: The Meanings of Performing and Listening.* University Press, 1998.
 - Wishart, Trevor, and Simon Emmerson. *On Sonic Art.* Harwood Academic Publishers, 1996.
-   
-
+    
 
 <br>
 
