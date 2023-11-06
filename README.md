@@ -104,6 +104,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - [Klangbeispiele und Erklärungen zu *Auditory Scene Analysis* von Albert S. Bregman](https://themusiclab.github.io/bregman-archive/downloadstoc.htm)
 
 **Literatur:**    
+- Ballou, Glen M. *Handbook for Sound Engineers.* Elsevier, 2008.
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
 - Görne, Thomas. *Sounddesign Klang, Wahrnehmung, Emotion.* Hanser, 2017. 
