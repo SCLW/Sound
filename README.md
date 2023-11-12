@@ -1,6 +1,3 @@
-
-# Termin am 9. November entfällt wegen Krankheit!!!!!
-
 # Sound (Theorie und Praxis)
 
 
