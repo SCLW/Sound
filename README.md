@@ -22,19 +22,19 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 Dates  	|	 Topic                                                                                  	|
 |	 ---- 	|	 ----                                                                                  	|
 |	 26.10. 	|	 [Einführung: »Sound« zwischen Natur- und Kulturwissenschaften (Theorie)](#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
-|	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#die-beziehung-zwischen-klang-ton-und-geräusch) Termin wird nachgeholt                               	|
+|	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch) Termin wird nachgeholt                               	|
 |	 9.11.		| wegen Krankheit entfallen |
-|	 16.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#soundscape-nach-r-murray-schafer)                                            	|
-|	 23.11. 	|	 [Field Recordings (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#field-recordings)                                                               	|
-|	 30.11. 	|	 [Sound Partikel und Microsounds (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-partikel-und-microsounds)                                               	|
-|	 7.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  	|
-|	 14.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sounddesign-und-akustische-klanggestaltung)                                   	|
-|	 21.12. 	|	 [Foley und Audio Postproduktion (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#foley-und-audio-postproduktion)                                                	|
-|	 11.1. 	|	 [Spektralmusik (Hören)](https://github.com/SCLW/Sound/blob/main/README.md#spektralmusik)                                                              	|
-|	 18.1.  	|	 [DIY-Kultur: Handmade Electronic Music (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#diy-kultur-handmade-electronic-music)                                        	|
-|	 15.1.  	|	 [Selbstbau elektronischer Instrumente (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#selbstbau-elektronischer-instrumente)                                          	|
-|	 1.2.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](https://github.com/SCLW/Sound/blob/main/README.md#hardwarehacking-und-circuit-bending)                                          	|
-|	 8.2.   	|	 [Sound Art (Theorie)](https://github.com/SCLW/Sound/blob/main/README.md#sound-art)                                                                    	|
+|	 16.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](#soundscape-nach-r-murray-schafer)                                            	|
+|	 23.11. 	|	 [Field Recordings (Praxis)](#field-recordings)                                                               	|
+|	 30.11. 	|	 [Sound Partikel und Microsounds (Theorie)](#sound-partikel-und-microsounds)                                               	|
+|	 7.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  	|
+|	 14.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                   	|
+|	 21.12. 	|	 [Foley und Audio Postproduktion (Praxis)](#foley-und-audio-postproduktion)                                                	|
+|	 11.1. 	|	 [Spektralmusik (Hören)](#spektralmusik)                                                              	|
+|	 18.1.  	|	 [DIY-Kultur: Handmade Electronic Music (Theorie)](#diy-kultur-handmade-electronic-music)                                        	|
+|	 15.1.  	|	 [Selbstbau elektronischer Instrumente (Praxis)](#selbstbau-elektronischer-instrumente)                                          	|
+|	 1.2.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](#hardwarehacking-und-circuit-bending)                                          	|
+|	 8.2.   	|	 [Sound Art (Theorie)](#sound-art)                                                                    	|
 |	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)--> |
 
 
