@@ -19,26 +19,29 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 
 ## Termine Wintersemester 2023-2024
 
-|	 Dates  	|	 Topic                                                                                  	|
-|	 ---- 	|	 ----                                                                                  	|
-|	 26.10. 	|	 [Einführung: »Sound« zwischen Natur- und Kulturwissenschaften (Theorie)](#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	|
-|	 2.11.  	|	 [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch) Termin wird nachgeholt                               	|
-|	 9.11.		| wegen Krankheit entfallen |
-|	 16.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](#soundscape-nach-r-murray-schafer)                                            	|
-|	 23.11. 	|	 [Field Recordings (Praxis)](#field-recordings)                                                               	|
-|	 30.11. 	|	 [Sound Partikel und Microsounds (Theorie)](#sound-partikel-und-microsounds)                                               	|
-|	 7.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)  	|
-|	 14.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                   	|
-|	 21.12. 	|	 [Foley und Audio Postproduktion (Praxis)](#foley-und-audio-postproduktion)                                                	|
-|	 11.1. 	|	 [Spektralmusik (Hören)](#spektralmusik)                                                              	|
-|	 18.1.  	|	 [DIY-Kultur: Handmade Electronic Music (Theorie)](#diy-kultur-handmade-electronic-music)                                        	|
-|	 15.1.  	|	 [Selbstbau elektronischer Instrumente (Praxis)](#selbstbau-elektronischer-instrumente)                                          	|
-|	 1.2.  	|	 [Hardware Hacking und Circuit Bending (Praxis)](#hardwarehacking-und-circuit-bending)                                          	|
-|	 8.2.   	|	 [Sound Art (Theorie)](#sound-art)                                                                    	|
-|	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)--> |
+|	 Dates  	|	 Topic                                                                                  	                                                                    |
+|	 ---- 	|	 ----                                                                                  	                                                                            |
+|	 26.10. 	|	 [Einführung: »Sound« zwischen Natur- und Kulturwissenschaften (Theorie)](#einführung-sound-zwischen-natur--und-kulturwissenschaften)                 	        |
+|	 2.11.  	|	 wegen Krankheit entfallen                                                                                                                                      |
+|	 9.11.		|    wegen Krankheit entfallen                                                                                                                                      |
+|	 16.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](#soundscape-nach-r-murray-schafer)                                            	                                |
+|	 23.11. 	|	 [Field Recordings, Teil I(Praxis)](#field-recordings)                                                               	                                        |
+|    24.11.     |    Field Recordings, Teil II (Praxis)                                                                                                                             |
+|    29.11.     |    [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch)
+|	 7.11. 	    |	 [Sound Partikel und Microsounds (Theorie)](#sound-partikel-und-microsounds)                                               	                                    |
+|	 14.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)|
+|	 21.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                   	                        |
+|	 11.12. 	|	 [Foley und Audio Postproduktion (Praxis)](#foley-und-audio-postproduktion)                                                	                                    |
+|	 18.1. 	    |	 [Spektralmusik (Hören)](#spektralmusik)                                                              	                                                        |
+|	 15.1.  	|	 [DIY-Kultur: Handmade Electronic Music (Theorie)](#diy-kultur-handmade-electronic-music)                                        	                            |
+|	 1.1.  	    |	 [Selbstbau elektronischer Instrumente (Praxis)](#selbstbau-elektronischer-instrumente)                                          	                            |
+|	 8.2.   	|	 [Sound Art (Theorie)](#sound-art)                                                                    	                                                        |
+|	 15.2.  	|	 Referate <!--(https://github.com/SCLW/Sound/blob/main/README.md#referate)-->                                                                                   |
 
 
 
+                                      	                            
+<!--	 1.2.      	|	 [Hardware Hacking und Circuit Bending (Praxis)](#hardwarehacking-und-circuit-bending) -->
 
 
 
