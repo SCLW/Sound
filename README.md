@@ -109,6 +109,7 @@ Als Vorbereitung für die weiteren Themenblöcke und die flankierende ästhetisc
 - Ballou, Glen M. *Handbook for Sound Engineers.* Elsevier, 2008.
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
+- Dickreiter, Michael. *Handbuch der Tonstudiotechnik.* Vol. 1 & 2, De Gruyter Saur, 2022.
 - Roads, Curtis. *Composing Electronic Music: a New Aesthetic.* Oxford University Press, 2015.
 - Ross, Alex. *The Rest Is Noise: Listening to the Twentieth Century.* Farrar, Straus and Giroux, 2007.
 - Sanio, Sabine, und Christian Scheib. Das Rauschen: Aufsätze zu einem Themenschwerpunkt im Rahmen des Festivals “Musikprotokol '95 Im Steirischen Herbst.” Wolke, 1995.
