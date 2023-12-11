@@ -25,7 +25,7 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |	 16.11.  	|	 [Soundscape nach R. Murray Schafer (Theorie)](#soundscape-nach-r-murray-schafer)                                            	                                |
 |	 23.11. 	|	 [Field Recordings, Teil I(Praxis)](#field-recordings)                                                               	                                        |
 |    24.11.     |    Field Recordings, Teil II (Praxis)                                                                                                                             |
-|    29.11.     |    [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch)
+|    30.11.     |    [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch)
 |	 7.12. 	    |	        [Spektralmusik (Theorie und Hören)](#spektralmusik)                                          	                                    |
 |	 14.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)|
 |	 21.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                   	                        |
