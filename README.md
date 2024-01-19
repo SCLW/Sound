@@ -28,9 +28,9 @@ Die Veranstaltung findet teils in deutscher, teils englischer Sprache statt.
 |    30.11.     |    [Die Beziehung zwischen Klang, Ton und Geräusch (Theorie)](#die-beziehung-zwischen-klang-ton-und-geräusch)
 |	 7.12. 	    |	        [Spektralmusik (Theorie und Hören)](#spektralmusik)                                          	                                    |
 |	 14.12. 	|	 [Klassifikation, Taxonomie, Terminologie und grafische Darstellung von Sound (Theorie)](#klassifikation-taxonomie-terminologie-und-grafische-darstellung-von-sound)|
-|	 21.12.  	|	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                   	                        |
+|	 21.12.  	|	   [Sound Partikel und Microsounds (Theorie)](#sound-partikel-und-microsounds)                               	                        |
 |	 11.1. 	|	   [DIY-Kultur: Handmade Electronic Music (Theorie)](#diy-kultur-handmade-electronic-music)                                        	                                    |
-|	 18.1. 	    |	    [Sound Partikel und Microsounds (Theorie)](#sound-partikel-und-microsounds)                                                         	                                                        |
+|	 18.1. 	    |	 [Sounddesign und akustische Klanggestaltung (Theorie)](#sounddesign-und-akustische-klanggestaltung)                                                              	                                                        |
 |	 25.1.  	|	      [Selbstbau elektronischer Instrumente (Praxis)](#selbstbau-elektronischer-instrumente)                                        	                            |
 |	 1.2.  	    |	      [Sound Art (Theorie)](#sound-art)                                   	                            |
 |	 8.2.   	|	  Diskussion                                                                	                                                        |
