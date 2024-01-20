@@ -407,7 +407,7 @@ In diesem Teil wenden wir uns einfachen Audioschaltungen aus CMOS-Logikbausteine
 <br>
 
 
-Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern von Audiohardware, um entgegen der ursprünglich Intention andersartige Klänge zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
+Der Begriff »Circuit Bending« bezeichnet das kreative Modifizieren und Verändern von Audiohardware, um entgegen deren ursprünglicher Intention andersartige Klänge zu erzeugen. Bekannte Beispiele des »Hardwarehackings« sind die Manipulationen an CD-Playern. Die durch »Hardwarehackings« und »Circuit Bending« erzeugten Klänge dienen oft als Ausgangsmaterial für Musikproduktionen und definieren den Klang eigener Subgenres der elektronischen Musik wie Glitch oder Noise.  
 
 
 
